@@ -16,7 +16,7 @@ Video File: React.js_ The Documentary.mp4
 Video AR Mode: 4
 Video AR Value: 2.000000
 Video Zoom Percent: 0.750000
-Scroll Position: 465
+Scroll Position: 470
 Active Line: 477
 Video Position: 71277
 
@@ -481,401 +481,368 @@ Dialogue: 0,0:44:27.78,0:44:35.54,Default,,0,0,0,,很快我就决定继续使用
 Dialogue: 0,0:44:35.58,0:44:43.56,Default,,0,0,0,,我用React重写的项目应该是React在Facebook之外的第一次生产环境部署\Nmy my Rewritten code and that was I think the first production code using react outside of Facebook
 Dialogue: 0,0:44:43.56,0:44:45.80,Default,,0,0,0,,foreign
 Dialogue: 0,0:44:49.07,0:44:54.18,Default,,0,0,0,,这时React做为刚刚开源的新项目，使用过的人还不多\Nit was a brand new project that had just been open sourced and not many people ad used it before
-Dialogue: 0,0:44:54.26,0:45:00.12,Default,,0,0,0,,所以存在不少边缘使用场景，也就是此前没有用React实现过的需求\Nso there were a bunch of rough edges it seemed like you know maybe nobody had tried to use it in a particular way before 
-Dialogue: 0,0:45:00.16,0:45:06.32,Default,,0,0,0,,或者仅仅是文档没有很好覆盖到某些方面，而我又想超出设计意图去使用它\Nor if something just wasn't documented well enough and I was trying to use it a slightly different way than it was intended 
-Dialogue: 0,0:45:06.48,0:45:13.36,Default,,0,0,0,,自然地在某些地方React的表现和我的预期不符，我遇到一些bug和问题\NI ran into these little bugs or issues where it didn't work quite as I was expecting it to 
+Dialogue: 0,0:44:54.26,0:45:00.12,Default,,0,0,0,,所以存在不少边缘使用场景，也就是此前没有用React实现过的需求\Nso there were a bunch of rough edges it seemed like you know maybe nobody had tried to use it in a particular way before
+Dialogue: 0,0:45:00.16,0:45:06.32,Default,,0,0,0,,或者仅仅是文档没有很好覆盖到某些方面，而我又想超出设计意图去使用它\Nor if something just wasn't documented well enough and I was trying to use it a slightly different way than it was intended
+Dialogue: 0,0:45:06.48,0:45:13.36,Default,,0,0,0,,自然地在某些地方React的表现和我的预期不符，我遇到一些bug和问题\NI ran into these little bugs or issues where it didn't work quite as I was expecting it to
 Dialogue: 0,0:45:13.36,0:45:21.02,Default,,0,0,0,,对于其中一部分问题，我阅读了React源码并尝试弄清楚原因，以便调整使用的方式\Nfor some of those I read through the source code and tried to figure out okay why isn't this working is there anything that I can be doing differently
 Dialogue: 0,0:45:21.02,0:45:34.50,Default,,0,0,0,,对于其他一些问题，我最终找到了React核心团队成员聚集的网络聊天室寻求帮助\Nfor other cases I ended up joining the IRC chat Channel where a lot of the core team members were hanging out after it had been open sourced
-Dialogue: 0,0:45:34.50,0:45:44.28,Default,,0,0,0,,他们不仅帮助我去使用React，\N而且随着我开始提isssue和帮助同个聊天室的其他初学者，\Nthat helped me get started not just using react but also starting to contribute to it as I started filing issues and helping other people who were in that chat room 
-Dialogue: 0,0:45:44.34,0:45:51.77,Default,,0,0,0,,他们还鼓励我向React贡献代码，逐渐改善React\N as well as starting to make small code changes and starting to improve react over time 
-Dialogue: 0,0:45:51.90,0:45:59.36,Default,,0,0,0,,Sophie自Facebook之外的可汗学院，她的外部视角非常宝贵，对项目很有帮助\Nher perspective from you know Khan Academy and just being outside of Facebook was so valuable  so helpful 
+Dialogue: 0,0:45:34.50,0:45:44.28,Default,,0,0,0,,他们不仅帮助我去使用React，\N而且随着我开始提isssue和帮助同个聊天室的其他初学者，\Nthat helped me get started not just using react but also starting to contribute to it as I started filing issues and helping other people who were in that chat room
+Dialogue: 0,0:45:44.34,0:45:51.77,Default,,0,0,0,,他们还鼓励我向React贡献代码，逐渐改善React\N as well as starting to make small code changes and starting to improve react over time
+Dialogue: 0,0:45:51.90,0:45:59.36,Default,,0,0,0,,Sophie自Facebook之外的可汗学院，她的外部视角非常宝贵，对项目很有帮助\Nher perspective from you know Khan Academy and just being outside of Facebook was so valuable  so helpful
 Dialogue: 0,0:45:59.42,0:46:08.00,Default,,0,0,0,,Sophie一开始是外部的React使用者，然后变成了外部的React贡献者\Nso if he started as someone using react externally then sort of like moved on to being someone who contributed to react core externally
-Dialogue: 0,0:46:08.20,0:46:12.12,Default,,0,0,0,, 再然后成了React核心团队最重要的成员\Nthen became the most significant contributor to react core 
+Dialogue: 0,0:46:08.20,0:46:12.12,Default,,0,0,0,, 再然后成了React核心团队最重要的成员\Nthen became the most significant contributor to react core
 Dialogue: 0,0:46:12.30,0:46:17.00,Default,,0,0,0,,然后我们开始举行每周一次的团队成员会面并邀请Sophie参加\Nthen we would have these like weekly team meetings and invite Sophie to come
-Dialogue: 0,0:46:17.06,0:46:25.04,Default,,0,0,0,,Sophine也得到她公司的一个本地经理的批准，可以拿出每周五下午的时间来Facebook参加相关活动\Nand so Sophie like worked out with her local manager at her company to like carve out Friday afternoons to come to Facebook and hang out with us 
-Dialogue: 0,0:46:25.10,0:46:35.12,Default,,0,0,0,,之前我们从开源社区雇佣员工然后他们却不再回馈社区，在我们停止这么做以后\Nand so determined not to do what we had done previously where we hired folks from the open source community and then they never contributed anything back 
+Dialogue: 0,0:46:17.06,0:46:25.04,Default,,0,0,0,,Sophine也得到她公司的一个本地经理的批准，可以拿出每周五下午的时间来Facebook参加相关活动\Nand so Sophie like worked out with her local manager at her company to like carve out Friday afternoons to come to Facebook and hang out with us
+Dialogue: 0,0:46:25.10,0:46:35.12,Default,,0,0,0,,之前我们从开源社区雇佣员工然后他们却不再回馈社区，在我们停止这么做以后\Nand so determined not to do what we had done previously where we hired folks from the open source community and then they never contributed anything back
 Dialogue: 0,0:46:35.16,0:46:43.64,Default,,0,0,0,,Sophie反而成了有史以来第一个通过开源"招募"到的团队成员\Nshe became like the the first ever like open source recruited member of the team
-Dialogue: 0,0:46:44.16,0:46:47.38,Default,,0,0,0,,Sophie的参与拨开了React团队成员心头的阴霾\NSophie's involvement lifted the spirits of the react team 
+Dialogue: 0,0:46:44.16,0:46:47.38,Default,,0,0,0,,Sophie的参与拨开了React团队成员心头的阴霾\NSophie's involvement lifted the spirits of the react team
 Dialogue: 0,0:46:47.48,0:46:55.90,Default,,0,0,0,,同时也让他们思考：也许，仅仅是也许，当时的JS生态不公平地排斥了React\Nit also got them thinking that maybe just maybe the rest of the ecosystem had just misreact unfairly
 Dialogue: 0,0:46:55.90,0:46:57.94,Default,,0,0,0,,他们相信人们还没有认识到React的价值\Nthey had something special they knew it
 Dialogue: 0,0:46:58.34,0:47:02.57,Default,,0,0,0,,他们只是不知道要如何说服其他人\Nwhat they didn't know was how to convince everyone else
-Dialogue: 0,0:47:02.57,0:47:12.82,Default,,0,0,0,,我记得当时团队里的一些人，比如我，Jordan，还有Tom，Christadeau开始拥抱说服他人的挑战\NI think there are people on the team like me and Jordan and Tom and  who like the The Challenge and the the competitive nature of it 
+Dialogue: 0,0:47:02.57,0:47:12.82,Default,,0,0,0,,我记得当时团队里的一些人，比如我，Jordan，还有Tom，Christadeau开始拥抱说服他人的挑战\NI think there are people on the team like me and Jordan and Tom and  who like the The Challenge and the the competitive nature of it
 Dialogue: 0,0:47:12.90,0:47:19.60,Default,,0,0,0,,我们相信React是有价值的技术，我个人坚信这一点\Nwe knew that this was good technology and I was so sure of that that um
 Dialogue: 0,0:47:20.22,0:47:26.54,Default,,0,0,0,,我认为这是一个宣传问题，也就是我们需要改变我们宣传React的策略\Nyou know I viewed it as just a a messaging problem you know okay we gotta
 Dialogue: 0,0:47:26.58,0:47:31.07,Default,,0,0,0,,人们现在还不能理解React的作用，我们需要帮助他们理解\Ncrack how we message this to people because they don't get it and we have to figure out how to how to bring them there
-Dialogue: 0,0:47:31.07,0:47:35.64,Default,,0,0,0,,the open source feels like a milestone and it feels like this is the end my
-Dialogue: 0,0:47:35.64,0:47:39.54,Default,,0,0,0,,impressive is just the beginning because when you open social actually have zero
-Dialogue: 0,0:47:39.54,0:47:43.92,Default,,0,0,0,,users now you need to actually like build a community uh get all of the bug
-Dialogue: 0,0:47:43.92,0:47:47.81,Default,,0,0,0,,fixed like make sure it actually solves the use case for the people and so this
-Dialogue: 0,0:47:47.81,0:47:53.94,Default,,0,0,0,,is like when the Journey Begins we buckle down we and we we also realized I
-Dialogue: 0,0:47:53.94,0:47:58.02,Default,,0,0,0,,think that really when you have a project like this that's
-Dialogue: 0,0:47:58.02,0:48:01.61,Default,,0,0,0,,um different you have to convince people one by one
-Dialogue: 0,0:48:01.61,0:48:06.42,Default,,0,0,0,,so I think that's really what we focused on and we learned a lot doing that we
-Dialogue: 0,0:48:06.42,0:48:10.38,Default,,0,0,0,,learned that the ideas in reactor are solid but
-Dialogue: 0,0:48:10.38,0:48:14.04,Default,,0,0,0,,really the ideas are not what people encounter when they adopt a framework
-Dialogue: 0,0:48:14.04,0:48:19.44,Default,,0,0,0,,what they encounter are the docs and the error messages what they need more than
-Dialogue: 0,0:48:19.44,0:48:23.88,Default,,0,0,0,,anything else when they adopt something is an incremental way of doing that
-Dialogue: 0,0:48:23.88,0:48:28.20,Default,,0,0,0,,so the team got to work they focused on spreading the knowledge of react one
-Dialogue: 0,0:48:28.20,0:48:33.83,Default,,0,0,0,,concept at a time one person at a time then an opportunity arose
-Dialogue: 0,0:48:33.83,0:48:39.35,Default,,0,0,0,,another conference later the same year thank goodness Pete
-Dialogue: 0,0:48:39.35,0:48:46.02,Default,,0,0,0,,gave a talk at jsconf EU I had my desk over by the um by the product infrastructure team I was sitting next
-Dialogue: 0,0:48:46.02,0:48:52.14,Default,,0,0,0,,to Tomo and he's like oh we're just like sponsoring this JS conf EU conference
-Dialogue: 0,0:48:52.14,0:48:56.40,Default,,0,0,0,,and like we have to give a keynote and like I don't want to give it because I
-Dialogue: 0,0:48:56.40,0:49:00.83,Default,,0,0,0,,think he was like he didn't want to go through all that stuff because you know after you give the talk like people go
-Dialogue: 0,0:49:00.83,0:49:04.50,Default,,0,0,0,,and yell at you after you get off stage and you go to the happy hour and stuff
-Dialogue: 0,0:49:04.50,0:49:08.64,Default,,0,0,0,,it's like it's not not the most Pleasant thing in the world and I was like I'll
-Dialogue: 0,0:49:08.64,0:49:11.70,Default,,0,0,0,,do it um I'll take the free trip to Berlin and
-Dialogue: 0,0:49:11.70,0:49:16.44,Default,,0,0,0,,go uh give a talk at a conference hey I'm Pete uh I'm gonna talk to you about
-Dialogue: 0,0:49:16.44,0:49:20.46,Default,,0,0,0,,a library for creating user interfaces that we call react
-Dialogue: 0,0:49:20.46,0:49:26.57,Default,,0,0,0,,and we open source this at jsconfus a couple months ago and we got some kind
-Dialogue: 0,0:49:26.57,0:49:30.18,Default,,0,0,0,,of sarcastic responses on Twitter a little bit of snickering that kind of
-Dialogue: 0,0:49:30.18,0:49:33.54,Default,,0,0,0,,thing um we weren't really communicating what
-Dialogue: 0,0:49:33.54,0:49:35.81,Default,,0,0,0,,we were doing um so I'd like to talk to you today
-Dialogue: 0,0:49:35.81,0:49:39.66,Default,,0,0,0,,about the design decisions um around react uh what we're doing
-Dialogue: 0,0:49:39.66,0:49:43.50,Default,,0,0,0,,differently than other Frameworks and kind of the implementation that lets us
-Dialogue: 0,0:49:43.50,0:49:47.81,Default,,0,0,0,,make these decisions and make it really fast for this talk it was like here's what
-Dialogue: 0,0:49:47.81,0:49:51.48,Default,,0,0,0,,makes react different I'm not even trying to say it's good I'm not even
-Dialogue: 0,0:49:51.48,0:49:54.42,Default,,0,0,0,,trying to say you should use it I'm trying to say that this is interesting
-Dialogue: 0,0:49:54.42,0:49:58.92,Default,,0,0,0,,and there's a lot of interesting stuff about how this thing works that you
-Dialogue: 0,0:49:58.92,0:50:01.92,Default,,0,0,0,,should pay attention to and
-Dialogue: 0,0:50:01.92,0:50:06.00,Default,,0,0,0,,um that really resonated with people and so we got these kind of early innovators
-Dialogue: 0,0:50:06.00,0:50:08.70,Default,,0,0,0,,you know if you think of the crossing the chasm
-Dialogue: 0,0:50:08.70,0:50:12.72,Default,,0,0,0,,diagram where you've got your your early adopters and then you've got your
-Dialogue: 0,0:50:12.72,0:50:16.74,Default,,0,0,0,,laggers and in the middle you have your kind of normal companies that talk
-Dialogue: 0,0:50:16.74,0:50:20.64,Default,,0,0,0,,really got those early adopters fired up and evangelized and react inside of
-Dialogue: 0,0:50:20.64,0:50:24.35,Default,,0,0,0,,their own companies after Pete's talk interest started to pick up people
-Dialogue: 0,0:50:24.35,0:50:28.20,Default,,0,0,0,,started paying attention they just wanted to you know let me let me just
-Dialogue: 0,0:50:28.20,0:50:32.70,Default,,0,0,0,,see if there's something there and so we got this kind of like Slow Burn of
-Dialogue: 0,0:50:32.70,0:50:36.11,Default,,0,0,0,,adoption of react and it prompted some really interesting conversations it
-Dialogue: 0,0:50:36.11,0:50:39.72,Default,,0,0,0,,recruited Brandon Bloom into the community who came from the functional
-Dialogue: 0,0:50:39.72,0:50:43.61,Default,,0,0,0,,programming World somewhere he started
-Dialogue: 0,0:50:43.61,0:50:45.96,Default,,0,0,0,,talking to his friends and said hey I
-Dialogue: 0,0:50:45.96,0:50:48.78,Default,,0,0,0,,think this like react thing is actually worth paying attention to and then he
-Dialogue: 0,0:50:48.78,0:50:53.57,Default,,0,0,0,,goes and talks to his friend David Nolan who is this very well known very well
-Dialogue: 0,0:50:53.57,0:50:58.74,Default,,0,0,0,,respected really great musician and JavaScript developer I think he was
-Dialogue: 0,0:50:58.74,0:51:03.59,Default,,0,0,0,,working at the New York Times at the time and I was passing through New York
-Dialogue: 0,0:51:03.59,0:51:10.26,Default,,0,0,0,,to do something and it grabbed coffee and I asked Pete some questions and
-Dialogue: 0,0:51:10.26,0:51:14.09,Default,,0,0,0,,Brandon Brandon Bloom that was my friend that said you should really look at
-Dialogue: 0,0:51:14.09,0:51:19.55,Default,,0,0,0,,react and the reason I was excited about it more than I think you could have been
-Dialogue: 0,0:51:19.55,0:51:23.33,Default,,0,0,0,,if you were JavaScript developer JavaScript is kind of multi-paradigm you
-Dialogue: 0,0:51:23.33,0:51:26.70,Default,,0,0,0,,can do object oriented you can do functional if you want but it's not
-Dialogue: 0,0:51:26.70,0:51:32.33,Default,,0,0,0,,required but in closure enclosure script functional is the most idiomatic thing
-Dialogue: 0,0:51:32.33,0:51:37.14,Default,,0,0,0,,and nothing existed like we were sort of like always trying to get things to work
-Dialogue: 0,0:51:37.14,0:51:40.68,Default,,0,0,0,,but it was always felt like there was friction I was like
-Dialogue: 0,0:51:40.68,0:51:44.94,Default,,0,0,0,,still early in my career right and this is like really senior super smart
-Dialogue: 0,0:51:44.94,0:51:48.72,Default,,0,0,0,,engineer and it was the type of thing where like he would ask me questions
-Dialogue: 0,0:51:48.72,0:51:53.22,Default,,0,0,0,,about it and I would like stumble to explain it and I would explain it poorly
-Dialogue: 0,0:51:53.22,0:51:59.09,Default,,0,0,0,,and then he would repeat it back to me in like a super eloquent great way and I
-Dialogue: 0,0:51:59.09,0:52:03.96,Default,,0,0,0,,was like yes I'm gonna steal that and so when I sat with Brandon and Pete it was
-Dialogue: 0,0:52:03.96,0:52:09.42,Default,,0,0,0,,like this huge light bulb went off I was like finally this is so Random uh
-Dialogue: 0,0:52:09.42,0:52:14.88,Default,,0,0,0,,Facebook made this functional UI framework Eureka I mean it was
-Dialogue: 0,0:52:14.88,0:52:19.74,Default,,0,0,0,,definitely a Eureka moment it it did allow closure script programmers to
-Dialogue: 0,0:52:19.74,0:52:25.38,Default,,0,0,0,,finally write a reasonably performant functional uis and it was very natural
-Dialogue: 0,0:52:25.38,0:52:29.52,Default,,0,0,0,,it was a very very good fit like a week or two later he wrote this blog post
-Dialogue: 0,0:52:29.52,0:52:33.54,Default,,0,0,0,,called the future of JavaScript mvcs that just like changed the trajectory of
-Dialogue: 0,0:52:33.54,0:52:37.07,Default,,0,0,0,,the project in many ways you look at react and
-Dialogue: 0,0:52:37.07,0:52:40.55,Default,,0,0,0,,you're like there's no way this could be fast there's no way it could be
-Dialogue: 0,0:52:40.55,0:52:45.54,Default,,0,0,0,,efficient and then I showed like you know these diagrams of what um backbone
-Dialogue: 0,0:52:45.54,0:52:50.81,Default,,0,0,0,,and react ohm look like and react is much better especially when you're using
-Dialogue: 0,0:52:50.81,0:52:56.52,Default,,0,0,0,,persistent data structures so my article I think was focusing purely on the
-Dialogue: 0,0:52:56.52,0:53:01.61,Default,,0,0,0,,technical benefits of the design it removed The Superficial consideration
-Dialogue: 0,0:53:01.61,0:53:08.16,Default,,0,0,0,,and I think people started saying okay I will try it not I'm going to use it but
-Dialogue: 0,0:53:08.16,0:53:13.80,Default,,0,0,0,,it removed that I'm never going to use that too oh I'll give it a shot this is
-Dialogue: 0,0:53:13.80,0:53:19.07,Default,,0,0,0,,interesting once that post came out like within three months after that I would
-Dialogue: 0,0:53:19.07,0:53:22.02,Default,,0,0,0,,say that we were one of the big contenders if you were picking a
-Dialogue: 0,0:53:22.02,0:53:25.31,Default,,0,0,0,,JavaScript framework if you want to spread an idea you need to really
-Dialogue: 0,0:53:25.31,0:53:29.76,Default,,0,0,0,,convince a few people and have those people share your message
-Dialogue: 0,0:53:29.76,0:53:34.02,Default,,0,0,0,,you can't just be shouting at yourself more people started to realize that
-Dialogue: 0,0:53:34.02,0:53:40.38,Default,,0,0,0,,react some good ideas and made UI development
-Dialogue: 0,0:53:40.38,0:53:45.92,Default,,0,0,0,,simpler in a lot of ways over the course of the next I would say like year or two
-Dialogue: 0,0:53:45.92,0:53:51.72,Default,,0,0,0,,we're kind of just tracking things like you know like Google Alerts of how many
-Dialogue: 0,0:53:51.72,0:53:55.20,Default,,0,0,0,,times is it being mentioned who's writing about it what projects are
-Dialogue: 0,0:53:55.20,0:53:58.31,Default,,0,0,0,,cropping up um because react was very unopinionated
-Dialogue: 0,0:53:58.31,0:54:04.92,Default,,0,0,0,,about a lot of stuff that you need in order to build a front-end web application and you know people would
-Dialogue: 0,0:54:04.92,0:54:08.64,Default,,0,0,0,,fill in the blanks and there was a bunch of State Management libraries that
-Dialogue: 0,0:54:08.64,0:54:12.30,Default,,0,0,0,,cropped up and there was a bunch of you know router libraries that cropped up
-Dialogue: 0,0:54:12.30,0:54:16.80,Default,,0,0,0,,and server-side rendering strategies and so there was this sort of Slow Burn of
-Dialogue: 0,0:54:16.80,0:54:22.26,Default,,0,0,0,,adoption over the next year or two react is a small focused UI library but it
-Dialogue: 0,0:54:22.26,0:54:26.70,Default,,0,0,0,,proved capable when tackling Facebook's hardest problems in other big companies
-Dialogue: 0,0:54:26.70,0:54:34.76,Default,,0,0,0,,noticed but there was one company especially eager to rethink best practices
-Dialogue: 0,0:54:34.96,0:54:43.39,Default,,0,0,0,,[Music]
-Dialogue: 0,0:54:46.04,0:54:50.88,Default,,0,0,0,,we first heard about react back in 2014 the Netflix website had been built using
-Dialogue: 0,0:54:50.88,0:54:56.33,Default,,0,0,0,,Java web uh it was very slow it took about 15 minutes to get up a build and
-Dialogue: 0,0:54:56.33,0:55:02.09,Default,,0,0,0,,we decided to move to a more modern framework there we go now at the time we
-Dialogue: 0,0:55:02.09,0:55:04.92,Default,,0,0,0,,weren't quite sure if you know this react thing was going to work out it was
-Dialogue: 0,0:55:04.92,0:55:09.11,Default,,0,0,0,,kind of new and so we were very apprehensive especially since we were
-Dialogue: 0,0:55:09.11,0:55:13.02,Default,,0,0,0,,building the future of the next 10 years of the website right you know we make a
-Dialogue: 0,0:55:13.02,0:55:17.16,Default,,0,0,0,,bad choice now we got to backtrack um you know years worth of work and so
-Dialogue: 0,0:55:17.16,0:55:20.28,Default,,0,0,0,,we were very careful about you're not jumping into something that was too
-Dialogue: 0,0:55:20.28,0:55:23.16,Default,,0,0,0,,bleeding edge and so what they did was they actually
-Dialogue: 0,0:55:23.16,0:55:27.05,Default,,0,0,0,,pitted two teams against each other each was given 30 days to build a prototype
-Dialogue: 0,0:55:27.05,0:55:31.07,Default,,0,0,0,,with one being react and the other one being backbone and after 30 days the
-Dialogue: 0,0:55:31.07,0:55:36.54,Default,,0,0,0,,choice was clear so thank you all for coming out tonight
-Dialogue: 0,0:55:36.54,0:55:39.11,Default,,0,0,0,,we're really excited to have you here and share the learnings that we've had
-Dialogue: 0,0:55:39.11,0:55:43.68,Default,,0,0,0,,building the new UI in react for the past year it was not this stage it was our next
-Dialogue: 0,0:55:43.68,0:55:49.02,Default,,0,0,0,,stage over where I gave my react presentation back I guess in 2015.
-Dialogue: 0,0:55:49.02,0:55:53.33,Default,,0,0,0,,same feeling like oh my goodness I've got to convince all these people that
-Dialogue: 0,0:55:53.33,0:55:58.55,Default,,0,0,0,,react is amazing um but I guess it worked so as part of
-Dialogue: 0,0:55:58.55,0:56:03.30,Default,,0,0,0,,the team that built the new site using react at first it was very clunky like
-Dialogue: 0,0:56:03.30,0:56:06.05,Default,,0,0,0,,you're writing components and they're not quite you know you're putting too
-Dialogue: 0,0:56:06.05,0:56:10.92,Default,,0,0,0,,much logic into them or you're thinking too big it's not clear the difference in
-Dialogue: 0,0:56:10.92,0:56:14.28,Default,,0,0,0,,the Paradigm and then you start to use it and you go okay wait wait wait I'm
-Dialogue: 0,0:56:14.28,0:56:18.83,Default,,0,0,0,,thinking much more Atomic hence the symbol of react I'm thinking about this
-Dialogue: 0,0:56:18.83,0:56:22.61,Default,,0,0,0,,in individual reusability okay now I'm thinking about the testability of these
-Dialogue: 0,0:56:22.61,0:56:26.70,Default,,0,0,0,,components I'm seeing the benefits now come out of it I can reuse this over
-Dialogue: 0,0:56:26.70,0:56:29.57,Default,,0,0,0,,here we can test this over here we can change this here we can add props in
-Dialogue: 0,0:56:29.57,0:56:35.09,Default,,0,0,0,,here and it becomes very exciting to see that new paradigm come to play and go
-Dialogue: 0,0:56:35.09,0:56:38.33,Default,,0,0,0,,this is going to be revolutionary this is going to change the world let's go
-Dialogue: 0,0:56:38.33,0:56:42.42,Default,,0,0,0,,back in time one year to the old Netflix UI you guys might remember this one the
-Dialogue: 0,0:56:42.42,0:56:47.04,Default,,0,0,0,,overall look and feel is kind of like this old DVD kind of box art feel and so
-Dialogue: 0,0:56:47.04,0:56:50.16,Default,,0,0,0,,I actually want to show you one of the early prototypes of what we thought the
-Dialogue: 0,0:56:50.16,0:56:55.20,Default,,0,0,0,,new UI would look like we knew that going forward the world was changing web
-Dialogue: 0,0:56:55.20,0:56:57.96,Default,,0,0,0,,was changed changing things were moving faster and our competition was moving
-Dialogue: 0,0:56:57.96,0:57:01.55,Default,,0,0,0,,faster as well so choosing react and going with a more modern framework
-Dialogue: 0,0:57:01.55,0:57:05.57,Default,,0,0,0,,really helped us accelerate how fast we could build the website how fast we
-Dialogue: 0,0:57:05.57,0:57:08.57,Default,,0,0,0,,could get new changes that door how fast we could try improvements for our
-Dialogue: 0,0:57:08.57,0:57:15.83,Default,,0,0,0,,customers to make the best possible experience and because of that we've been at the
-Dialogue: 0,0:57:15.83,0:57:19.38,Default,,0,0,0,,Forefront of leading what UI design looks like in terms of web development
-Dialogue: 0,0:57:19.38,0:57:23.94,Default,,0,0,0,,we've had a lot of companies copy us which we take is a great compliment but
-Dialogue: 0,0:57:23.94,0:57:28.61,Default,,0,0,0,,we were there first because of react and its ability to move so quickly in terms of design
-Dialogue: 0,0:57:28.61,0:57:36.68,Default,,0,0,0,,this is how it ended up turning out and this is a UI that's big and immersive and completely built in react so we're very very proud of it and the result
-Dialogue: 0,0:57:36.68,0:57:42.35,Default,,0,0,0,,[Music]
-Dialogue: 0,0:57:42.35,0:57:47.04,Default,,0,0,0,,Netflix was now praising react publicly and with a second big company betting
-Dialogue: 0,0:57:47.04,0:57:53.04,Default,,0,0,0,,big on react the framework grew in popularity in fact it kind of took on a
-Dialogue: 0,0:57:53.04,0:57:58.33,Default,,0,0,0,,life of its own and the community started to take off
-Dialogue: 0,0:58:04.80,0:58:08.04,Default,,0,0,0,,[Music]
-Dialogue: 0,0:58:08.04,0:58:14.33,Default,,0,0,0,,react at this point was getting more popular and somebody on Twitter mentioned like
-Dialogue: 0,0:58:14.33,0:58:20.33,Default,,0,0,0,,hey it would be cool to have like a react conference and a lot of people started like uh commenting and tweeting
-Dialogue: 0,0:58:20.33,0:58:27.30,Default,,0,0,0,,and everything about this and uh I went to my manager tomokino and he was like there's like 50 tweets about react today
-Dialogue: 0,0:58:27.30,0:58:33.24,Default,,0,0,0,,like people are talking about organizing conferences should we organize a conference and I was like I don't know
-Dialogue: 0,0:58:33.24,0:58:36.90,Default,,0,0,0,,what that means I don't know how to do that but like maybe I was very post
-Dialogue: 0,0:58:36.90,0:58:42.68,Default,,0,0,0,,doing a conference um I thought it was very cool that we got so much traction
-Dialogue: 0,0:58:42.68,0:58:49.44,Default,,0,0,0,,without really pouring marketing money into it even though react came from big
-Dialogue: 0,0:58:49.44,0:58:52.92,Default,,0,0,0,,tech company Juggernaut Facebook it was a small group of people that were like
-Dialogue: 0,0:58:52.92,0:58:57.74,Default,,0,0,0,,really dedicated to seeing this thing succeed so it felt like this very Indie
-Dialogue: 0,0:58:57.74,0:59:02.88,Default,,0,0,0,,you know Rebel Alliance type of project and so I was like we don't need a user
-Dialogue: 0,0:59:02.88,0:59:06.78,Default,,0,0,0,,conference like with like we got this Cool vibe going on like let's see how
-Dialogue: 0,0:59:06.78,0:59:11.04,Default,,0,0,0,,far we can push it I was totally wrong we had said to ourselves I think it
-Dialogue: 0,0:59:11.04,0:59:14.94,Default,,0,0,0,,would be fun to host a react conference but are there even enough people using
-Dialogue: 0,0:59:14.94,0:59:20.16,Default,,0,0,0,,react who would want to go to that and eventually we decided Well let's try it
-Dialogue: 0,0:59:20.16,0:59:24.05,Default,,0,0,0,,let's try to host the conference and see how it goes
-Dialogue: 0,0:59:24.05,0:59:29.64,Default,,0,0,0,,within a minutes all of the tickets were sold out and we actually crashed the
-Dialogue: 0,0:59:29.64,0:59:35.90,Default,,0,0,0,,website that we are handled for like the actual payment system and everything
-Dialogue: 0,0:59:36.83,0:59:42.24,Default,,0,0,0,,trap the CTO of Facebook actually like reach out to me saying like hey I have
-Dialogue: 0,0:59:42.24,0:59:47.76,Default,,0,0,0,,this very important like VP or CTO or like of some company that one scene that
-Dialogue: 0,0:59:47.76,0:59:53.81,Default,,0,0,0,,couldn't get in like hey can you do as a favor and I was like I would love to
-Dialogue: 0,0:59:53.81,0:59:57.59,Default,,0,0,0,,like kill the CTO and everything but like you know like we're like completely
-Dialogue: 0,0:59:57.59,1:00:01.74,Default,,0,0,0,,booked certainly we were very surprised about how quickly the tickets had sold
-Dialogue: 0,1:00:01.74,1:00:06.29,Default,,0,0,0,,out we didn't realize just how much the react ecosystem had grown and just how
-Dialogue: 0,1:00:06.29,1:00:11.96,Default,,0,0,0,,much enthusiasm had been created by early adopters
-Dialogue: 0,1:00:12.66,1:00:13.97,Default,,0,0,0,,foreign
-Dialogue: 0,1:00:13.97,1:00:25.28,Default,,0,0,0,,[Music]
-Dialogue: 0,1:00:25.28,1:00:29.88,Default,,0,0,0,,quickly as far as conference planning goes and we just had it on campus in one
-Dialogue: 0,1:00:29.88,1:00:37.85,Default,,0,0,0,,of our cafes and we you know bus people from the nearest hotel and it was very very under produced
-Dialogue: 0,1:00:37.85,1:00:46.09,Default,,0,0,0,,um but it worked out really really well good morning everyone and welcome to react Jessica
-Dialogue: 0,1:00:46.26,1:00:49.98,Default,,0,0,0,,the conference when they're like extremely extremely well as the
-Dialogue: 0,1:00:49.98,1:00:54.35,Default,,0,0,0,,organizer of the conference I'm so excited to be here and we open source
-Dialogue: 0,1:00:54.35,1:00:57.83,Default,,0,0,0,,like a bunch of our projects like so react native and we started talking
-Dialogue: 0,1:00:57.83,1:01:02.81,Default,,0,0,0,,about graphql about three day and so yeah it's been a massive success there
-Dialogue: 0,1:01:02.81,1:01:12.42,Default,,0,0,0,,is this moment where you go and you see the stage and it's like there's a giant wood cut out like logo of the react atom and
-Dialogue: 0,1:01:12.42,1:01:17.28,Default,,0,0,0,,I was like my friend Michael the designer at Instagram drew that in front
-Dialogue: 0,1:01:17.28,1:01:20.28,Default,,0,0,0,,of me like in the middle of the night before we were going to open sources
-Dialogue: 0,1:01:20.28,1:01:22.68,Default,,0,0,0,,thing because we needed a logo and I was like Michael just like throw something
-Dialogue: 0,1:01:22.68,1:01:27.00,Default,,0,0,0,,together real quick and like now it's this thing that has somebody has built a
-Dialogue: 0,1:01:27.00,1:01:30.78,Default,,0,0,0,,giant sign with this on it and there's something about the physical impact of
-Dialogue: 0,1:01:30.78,1:01:34.98,Default,,0,0,0,,that that's really cool that was the moment when it dawned on me that react
-Dialogue: 0,1:01:34.98,1:01:39.29,Default,,0,0,0,,was becoming something different you know so for a long time what react
-Dialogue: 0,1:01:39.29,1:01:44.28,Default,,0,0,0,,was to me was a software project and the reason why I wanted people to
-Dialogue: 0,1:01:44.28,1:01:47.40,Default,,0,0,0,,adopt it was because I really thought it would make their software better and
-Dialogue: 0,1:01:47.40,1:01:51.59,Default,,0,0,0,,make their lives better and make their on-call rotations better there are a lot
-Dialogue: 0,1:01:51.59,1:01:56.33,Default,,0,0,0,,of reasons why I thought it would help them after that conference what I realized is
-Dialogue: 0,1:01:56.33,1:02:00.35,Default,,0,0,0,,that react was becoming a community there was meetups that would happen the
-Dialogue: 0,1:02:00.35,1:02:03.66,Default,,0,0,0,,immediate next week that would have an expanded audience that they could go
-Dialogue: 0,1:02:03.66,1:02:07.85,Default,,0,0,0,,deeper into some of the things that were discussed was really really cool and a
-Dialogue: 0,1:02:07.85,1:02:12.18,Default,,0,0,0,,huge recognition for us that the community was going to be
-Dialogue: 0,1:02:12.18,1:02:16.68,Default,,0,0,0,,an incredible part of what would make react work and had at that point was
-Dialogue: 0,1:02:16.68,1:02:21.13,Default,,0,0,0,,definitely already a really important part of what had gotten react to that point so far
-Dialogue: 0,1:02:21.13,1:02:23.81,Default,,0,0,0,,[Music]
-Dialogue: 0,1:02:23.81,1:02:28.31,Default,,0,0,0,,it's proven to me that uh engaging with your open source Community is is
-Dialogue: 0,1:02:28.31,1:02:31.85,Default,,0,0,0,,actually more important than the technical work itself like if you don't
-Dialogue: 0,1:02:31.85,1:02:35.33,Default,,0,0,0,,have a community you don't have an open source project I'm excited that we just
-Dialogue: 0,1:02:35.33,1:02:38.81,Default,,0,0,0,,continue rethinking best practices I want to thank this community for making
-Dialogue: 0,1:02:38.81,1:02:42.66,Default,,0,0,0,,it possible for us to keep investing in this and keep working on it
-Dialogue: 0,1:02:42.66,1:02:50.33,Default,,0,0,0,,um that's all I got thanks it was a real high point for not just
-Dialogue: 0,1:02:50.33,1:02:54.59,Default,,0,0,0,,for me but for the team and you know I think for Facebook engineering I think
-Dialogue: 0,1:02:54.59,1:03:00.05,Default,,0,0,0,,we really felt like not just validated but like we were
-Dialogue: 0,1:03:00.05,1:03:03.72,Default,,0,0,0,,actually like doing something that people cared about
-Dialogue: 0,1:03:03.72,1:03:07.98,Default,,0,0,0,,and it was a really really good feeling it was already like more widely used
-Dialogue: 0,1:03:07.98,1:03:12.24,Default,,0,0,0,,within the company but now it was like okay how do we like actually start
-Dialogue: 0,1:03:12.24,1:03:16.02,Default,,0,0,0,,converting everything to react how do we like remove and deprecate like all of
-Dialogue: 0,1:03:16.02,1:03:20.94,Default,,0,0,0,,the other Frameworks and really like double down on react oh hey I was going
-Dialogue: 0,1:03:20.94,1:03:25.92,Default,,0,0,0,,going from like an interesting product to like this is the next big thing so it
-Dialogue: 0,1:03:25.92,1:03:30.18,Default,,0,0,0,,was really like a really amazing time to be around and to like really like get
-Dialogue: 0,1:03:30.18,1:03:36.07,Default,,0,0,0,,the whole company like working together as one uh you know to like make this happen
-Dialogue: 0,1:03:36.68,1:03:47.52,Default,,0,0,0,,let's see I have some keepsakes up here which will be not easy for me to get down but
-Dialogue: 0,1:03:47.96,1:03:57.00,Default,,0,0,0,,let's see I have some stickers oh this is a fun one this is the first ever react die cut sticker
-Dialogue: 0,1:03:57.00,1:04:00.90,Default,,0,0,0,,we ordered like a bunch of these and put them on our laptops and I just I never
-Dialogue: 0,1:04:00.90,1:04:06.05,Default,,0,0,0,,wanted to use the last one that I had Facebook open source stickers
-Dialogue: 0,1:04:06.05,1:04:11.09,Default,,0,0,0,,oh some of these will be a trip down memory lane for folks react conf we made
-Dialogue: 0,1:04:11.09,1:04:15.18,Default,,0,0,0,,you know 2018 Facebook open source
-Dialogue: 0,1:04:15.18,1:04:22.16,Default,,0,0,0,,it's a good one react conf attendee badge this was a book uh from the original
-Dialogue: 0,1:04:22.16,1:04:28.07,Default,,0,0,0,,react.js conf at Facebook's headquarters so this had a list of the speakers and
-Dialogue: 0,1:04:28.07,1:04:35.94,Default,,0,0,0,,the schedule and um here's the Keynote and Christopher shadow
-Dialogue: 0,1:04:35.94,1:04:42.18,Default,,0,0,0,,we had all sorts of swag made and a bunch of other stuff so pretty good stuff
-Dialogue: 0,1:04:42.18,1:04:54.50,Default,,0,0,0,,pretty good memories dated with questions from the community and a new developer enters reacts orbit
-Dialogue: 0,1:04:55.75,1:05:09.06,Default,,0,0,0,,[Music]
-Dialogue: 0,1:05:12.14,1:05:19.44,Default,,0,0,0,,what should I do with my hands so you're saying that I should actually
-Dialogue: 0,1:05:19.44,1:05:25.07,Default,,0,0,0,,uh start like uh let me Focus for a second just for the record I did not
-Dialogue: 0,1:05:25.07,1:05:29.76,Default,,0,0,0,,create react react was created by Jordan walk
-Dialogue: 0,1:05:29.76,1:05:35.04,Default,,0,0,0,,I worked at a small startup we were creating a sort of a digital publishing
-Dialogue: 0,1:05:35.04,1:05:40.31,Default,,0,0,0,,platform so there was a really complex post editor with different blocks or
-Dialogue: 0,1:05:40.31,1:05:44.40,Default,,0,0,0,,like a scrollable text with like different effects and stuff and so uh
-Dialogue: 0,1:05:44.40,1:05:49.02,Default,,0,0,0,,creating a dynamic kind of interactive editor for for these things was really
-Dialogue: 0,1:05:49.02,1:05:52.55,Default,,0,0,0,,difficult and we returned it with backbone I kind of wanted to give react
-Dialogue: 0,1:05:52.55,1:05:57.59,Default,,0,0,0,,a try because it was supposed to solve this problem the first react component I wrote was a
-Dialogue: 0,1:05:57.59,1:06:01.50,Default,,0,0,0,,like button so it was just like a button you click it and it says like you like
-Dialogue: 0,1:06:01.50,1:06:08.64,Default,,0,0,0,,this or you and somebody like this or you and like 40 others like this so
-Dialogue: 0,1:06:08.64,1:06:11.88,Default,,0,0,0,,there was a bit of like a split and logic and then the way you would Express
-Dialogue: 0,1:06:11.88,1:06:17.22,Default,,0,0,0,,this in uh like in other Frameworks at the time uh like you had you had to kind
-Dialogue: 0,1:06:17.22,1:06:21.66,Default,,0,0,0,,of manually like watch what's changed and like update it and in react you
-Dialogue: 0,1:06:21.66,1:06:25.92,Default,,0,0,0,,could just say if nobody liked this show this if one person like this show this
-Dialogue: 0,1:06:25.92,1:06:30.42,Default,,0,0,0,,otherwise show this and like it's a very natural way to write this kind of code
-Dialogue: 0,1:06:30.42,1:06:35.33,Default,,0,0,0,,and yeah I just wrote that button and I was like yeah that looks good ship it
-Dialogue: 0,1:06:35.33,1:06:41.81,Default,,0,0,0,,and so we actually rewrote the entire app in react over the course of like 90
-Dialogue: 0,1:06:41.81,1:06:46.92,Default,,0,0,0,,months while still shipping new features so react speed up our development so
-Dialogue: 0,1:06:46.92,1:06:50.88,Default,,0,0,0,,much that we were able to add new features faster at the same time as we
-Dialogue: 0,1:06:50.88,1:06:56.96,Default,,0,0,0,,were replacing old features that's why I really kind of fell in love with it
-Dialogue: 0,1:06:58.02,1:07:01.92,Default,,0,0,0,,a lot of things didn't exist back then like there was no such thing as a react
-Dialogue: 0,1:07:01.92,1:07:07.98,Default,,0,0,0,,ecosystem so if you needed something it didn't exist you'd have to write it
-Dialogue: 0,1:07:07.98,1:07:11.33,Default,,0,0,0,,so like you'd have to figure out how to do it because otherwise you're not going
-Dialogue: 0,1:07:11.33,1:07:16.38,Default,,0,0,0,,to have a product right so that's kind of what I did for a bunch of things
-Dialogue: 0,1:07:16.38,1:07:19.02,Default,,0,0,0,,one of those projects in particular was
-Dialogue: 0,1:07:19.02,1:07:20.28,Default,,0,0,0,,uh
-Dialogue: 0,1:07:20.28,1:07:26.46,Default,,0,0,0,,like I just saw like a big opportunity there it was called react hot loader at the
-Dialogue: 0,1:07:26.46,1:07:31.55,Default,,0,0,0,,time so I wanted to give a talk about that somebody else has done a talk that
-Dialogue: 0,1:07:31.55,1:07:36.18,Default,,0,0,0,,mentioned it earlier at reactant a really clever fellow called Damn abramov
-Dialogue: 0,1:07:36.18,1:07:40.38,Default,,0,0,0,,figured this out and he created the react hotloader and I felt that well
-Dialogue: 0,1:07:40.38,1:07:44.64,Default,,0,0,0,,then that just wouldn't be interesting because people kind of already saw it
-Dialogue: 0,1:07:44.64,1:07:48.29,Default,,0,0,0,,which in retrospect I don't think it would be true but that's how I saw it at
-Dialogue: 0,1:07:48.29,1:07:52.50,Default,,0,0,0,,the time so I wanted to kind of spice it up a little bit and I wanted to make a
-Dialogue: 0,1:07:52.50,1:07:57.18,Default,,0,0,0,,proof of concept of a thing I saw in breath Victor's demo that is often
-Dialogue: 0,1:07:57.18,1:08:02.16,Default,,0,0,0,,referred to as time traveling you're designing something embedded in
-Dialogue: 0,1:08:02.16,1:08:06.00,Default,,0,0,0,,time you need to be able to control time you need to be able to see across time
-Dialogue: 0,1:08:06.00,1:08:10.50,Default,,0,0,0,,otherwise you're designing blind I didn't really know how to do it but I
-Dialogue: 0,1:08:10.50,1:08:14.52,Default,,0,0,0,,thought that's a cool idea for a talk so I'm gonna send the proposal if the
-Dialogue: 0,1:08:14.52,1:08:18.89,Default,,0,0,0,,proposal is successful then I'll just figure it out and it turned out that the
-Dialogue: 0,1:08:18.89,1:08:22.14,Default,,0,0,0,,proposal was more successful than I thought it would be and so I made a
-Dialogue: 0,1:08:22.14,1:08:28.56,Default,,0,0,0,,proof of concept for that and that approval concept became known as Redux
-Dialogue: 0,1:08:28.56,1:08:33.29,Default,,0,0,0,,so my talk is about developer tools because react and hotel ordering and
-Dialogue: 0,1:08:33.29,1:08:37.43,Default,,0,0,0,,time travel these are all developer tools he was like literally creating
-Dialogue: 0,1:08:37.43,1:08:42.60,Default,,0,0,0,,Redux in service of being able to deliver this this talk and I called it
-Dialogue: 0,1:08:42.60,1:08:47.21,Default,,0,0,0,,presentation driven development because the Thing That Shook out of it was you
-Dialogue: 0,1:08:47.21,1:08:50.75,Default,,0,0,0,,know this sort of like canonical State Management library for react apps for
-Dialogue: 0,1:08:50.75,1:08:54.83,Default,,0,0,0,,for several years most of my work is around the react ecosystem because
-Dialogue: 0,1:08:54.83,1:08:59.69,Default,,0,0,0,,that's what inspired me to contribute to the open source in the first place but
-Dialogue: 0,1:08:59.69,1:09:03.77,Default,,0,0,0,,there are two particular projects that I'm going to talk about today it was
-Dialogue: 0,1:09:03.77,1:09:07.81,Default,,0,0,0,,very validating to give that talk
-Dialogue: 0,1:09:07.81,1:09:14.21,Default,,0,0,0,,but I was not surprised by the response because well I I had my
-Dialogue: 0,1:09:14.21,1:09:19.56,Default,,0,0,0,,doubts but also I thought the talk was good like I thought it's a really good talk
-Dialogue: 0,1:09:19.56,1:09:25.25,Default,,0,0,0,,and I was glad that people also liked it but I think it was actually not the talk
-Dialogue: 0,1:09:25.25,1:09:29.46,Default,,0,0,0,,that was uh that was really like the moment for me I think it was just like
-Dialogue: 0,1:09:29.46,1:09:34.02,Default,,0,0,0,,being there I kind of felt like you know like like
-Dialogue: 0,1:09:34.02,1:09:38.33,Default,,0,0,0,,going to Hogwarts for the first time I think it kind of had this uh this
-Dialogue: 0,1:09:38.33,1:09:42.06,Default,,0,0,0,,feeling because there were all these people who I only knew them as these
-Dialogue: 0,1:09:42.06,1:09:46.73,Default,,0,0,0,,avatars and when I season meet somebody in person they they kind of become
-Dialogue: 0,1:09:46.73,1:09:51.00,Default,,0,0,0,,three-dimensional of course you kind of see the whole picture and I think it was
-Dialogue: 0,1:09:51.00,1:09:56.10,Default,,0,0,0,,just like such a wholesome feeling is the feeling that we are all trying to
-Dialogue: 0,1:09:56.10,1:09:59.88,Default,,0,0,0,,figure out what we can do with this thing and we don't know it yet and we're
-Dialogue: 0,1:09:59.88,1:10:09.17,Default,,0,0,0,,just playing with it that's also where I met jinchan I asked
-Dialogue: 0,1:10:09.17,1:10:14.04,Default,,0,0,0,,for for her advice before because she's one of the co-creators of the fox
-Dialogue: 0,1:10:14.04,1:10:18.12,Default,,0,0,0,,architecture so it was nice to meet her in person and she mentioned that
-Dialogue: 0,1:10:18.12,1:10:23.82,Default,,0,0,0,,actually Facebook is hiring in London and so they arranged an interview for me
-Dialogue: 0,1:10:23.82,1:10:27.42,Default,,0,0,0,,right at the conference which was like our normal interview process the same I
-Dialogue: 0,1:10:27.42,1:10:31.56,Default,,0,0,0,,think like four interviews or something like this but I I missed the second day
-Dialogue: 0,1:10:31.56,1:10:34.86,Default,,0,0,0,,of the conference but we just did an interview there and so that's kind of
-Dialogue: 0,1:10:34.86,1:10:39.12,Default,,0,0,0,,how I got into Facebook we just quickly grabbed them out of the
-Dialogue: 0,1:10:39.12,1:10:46.19,Default,,0,0,0,,conference a little bit like on the down low and then uh conducted the interviews
-Dialogue: 0,1:10:46.19,1:10:51.90,Default,,0,0,0,,um in the basement of a hotel I think is that normal entries no Dan is so special
-Dialogue: 0,1:10:51.90,1:10:56.04,Default,,0,0,0,,he's always been all special I guess like I would think of myself as like
-Dialogue: 0,1:10:56.04,1:11:00.96,Default,,0,0,0,,maybe the first member of what would become the react
-Dialogue: 0,1:11:00.96,1:11:05.88,Default,,0,0,0,,team as you know it today because I joined a little bit earlier than I think
-Dialogue: 0,1:11:05.88,1:11:12.17,Default,,0,0,0,,Andrew Brian Luna and and like a bunch of other people who work with us now and
-Dialogue: 0,1:11:12.17,1:11:16.73,Default,,0,0,0,,I joined at the time when a few people who worked with us before were just
-Dialogue: 0,1:11:16.73,1:11:23.82,Default,,0,0,0,,about to leave so I was kind of in this transitional period when the team was changing a lot
-Dialogue: 0,1:11:23.82,1:11:26.06,Default,,0,0,0,,foreign
-Dialogue: 0,1:11:26.45,1:11:31.88,Default,,0,0,0,,[Music]
-Dialogue: 0,1:11:31.88,1:11:35.64,Default,,0,0,0,,do you remember the first time you met Andrew
-Dialogue: 0,1:11:35.64,1:11:42.48,Default,,0,0,0,,uh I think I've met I think I met him yeah well that was the
-Dialogue: 0,1:11:42.48,1:11:46.38,Default,,0,0,0,,clear moment maybe was that the first time we actually did you get invited to
-Dialogue: 0,1:11:46.38,1:11:50.71,Default,,0,0,0,,react conf because of that he had a speech
-Dialogue: 0,1:11:51.23,1:11:56.82,Default,,0,0,0,,I met him like I think before that I met you and Sophie and Joe and Tim like all
-Dialogue: 0,1:11:56.82,1:12:01.32,Default,,0,0,0,,in the same week yeah he started asking some questions that were very similar to
-Dialogue: 0,1:12:01.32,1:12:04.73,Default,,0,0,0,,the questions that on the team we were talking about internally and so I just
-Dialogue: 0,1:12:04.73,1:12:08.28,Default,,0,0,0,,remember like I gotta connect you with like Sebastian and Jordan and the rest
-Dialogue: 0,1:12:08.28,1:12:10.92,Default,,0,0,0,,of the team yeah and then also I was like to the recruiters I was like yeah
-Dialogue: 0,1:12:10.92,1:12:15.00,Default,,0,0,0,,this guy like we gotta hire this Andrew guy and I think we were really fortunate
-Dialogue: 0,1:12:15.00,1:12:18.17,Default,,0,0,0,,early on to have a bunch of people liking that kind of stepped up and they
-Dialogue: 0,1:12:18.17,1:12:21.78,Default,,0,0,0,,were like this seems cool I just want to be a part of this I just want to help
-Dialogue: 0,1:12:21.78,1:12:25.26,Default,,0,0,0,,I didn't realize it was kind of like a freshman class sort of feeling at the
-Dialogue: 0,1:12:25.26,1:12:29.34,Default,,0,0,0,,time started managing the team around that time as well
-Dialogue: 0,1:12:29.34,1:12:34.56,Default,,0,0,0,,um and like I couldn't have really asked for a better uh both project and like a
-Dialogue: 0,1:12:34.56,1:12:40.85,Default,,0,0,0,,set of colleagues and team to to join the beginning of phase two yeah that's cool
-Dialogue: 0,1:12:40.85,1:12:46.05,Default,,0,0,0,,[Music]
-Dialogue: 0,1:12:49.40,1:12:53.54,Default,,0,0,0,,like man we're nailing this
-Dialogue: 0,1:12:55.40,1:12:58.56,Default,,0,0,0,,[Music]
-Dialogue: 0,1:12:58.56,1:13:03.06,Default,,0,0,0,,react was now out of the hands of its Founders it was ready to take on New
-Dialogue: 0,1:13:03.06,1:13:08.88,Default,,0,0,0,,Life in the care of a new community grown and future-minded team we tried to
-Dialogue: 0,1:13:08.88,1:13:13.19,Default,,0,0,0,,watch some of the numbers like the number of GitHub stars or the number of
-Dialogue: 0,1:13:13.19,1:13:19.14,Default,,0,0,0,,npm downloads on Google Trends how many people are searching for react and none
-Dialogue: 0,1:13:19.14,1:13:25.73,Default,,0,0,0,,of those numbers are perfect but basically all of them kept going up over
-Dialogue: 0,1:13:25.73,1:13:31.80,Default,,0,0,0,,time and eventually got to a point where we looked at it and said oh yeah like
-Dialogue: 0,1:13:31.80,1:13:37.44,Default,,0,0,0,,millions of people essentially are using react there are a lot of little details
-Dialogue: 0,1:13:37.44,1:13:44.10,Default,,0,0,0,,in how we did things that encourages an ecosystem to participate that were
-Dialogue: 0,1:13:44.10,1:13:48.42,Default,,0,0,0,,critical Parts on making it what it is today we didn't put everything in the
-Dialogue: 0,1:13:48.42,1:13:54.00,Default,,0,0,0,,framework we left a lot of it to the ecosystem to innovate and we got a lot
-Dialogue: 0,1:13:54.00,1:13:58.34,Default,,0,0,0,,of contributions we got a lot of interest that way we got a lot of things
-Dialogue: 0,1:13:58.34,1:14:05.69,Default,,0,0,0,,spurring from that it was not ever a foregone conclusion I like it's still
-Dialogue: 0,1:14:05.69,1:14:10.08,Default,,0,0,0,,surreal to me that it's as popular as it is it's this great example of this like
-Dialogue: 0,1:14:10.08,1:14:15.23,Default,,0,0,0,,Underdog technology within a big company where there could have been these forces
-Dialogue: 0,1:14:15.23,1:14:19.98,Default,,0,0,0,,that really pushed back on it I think a lot of elements of good timing Good
-Dialogue: 0,1:14:19.98,1:14:24.71,Default,,0,0,0,,Fortune good luck good leadership support all sort of like aggregated to
-Dialogue: 0,1:14:24.71,1:14:31.62,Default,,0,0,0,,allow react to be a success that had we missed a few of those or had a handful
-Dialogue: 0,1:14:31.62,1:14:36.12,Default,,0,0,0,,more things failed instead of succeeded then I do not think react would be in
-Dialogue: 0,1:14:36.12,1:14:40.02,Default,,0,0,0,,the spot that it is today I feel like you can't take anyone out of
-Dialogue: 0,1:14:40.02,1:14:45.00,Default,,0,0,0,,it and have it be what it became I think in the early days obviously Jordan right
-Dialogue: 0,1:14:45.00,1:14:49.56,Default,,0,0,0,,like this thing wouldn't exist and then Jing Chan just absolutely critical I
-Dialogue: 0,1:14:49.56,1:14:52.86,Default,,0,0,0,,mean she was so instrumental in the early days of react that it just
-Dialogue: 0,1:14:52.86,1:14:56.94,Default,,0,0,0,,wouldn't have been a thing that we cared about if it didn't prove itself
-Dialogue: 0,1:14:56.94,1:15:02.46,Default,,0,0,0,,and then Shane O'Sullivan is responsible for you know really I mean a very hard
-Dialogue: 0,1:15:02.46,1:15:07.19,Default,,0,0,0,,decision to like I'm gonna go this path instead of that thing and then the
-Dialogue: 0,1:15:07.19,1:15:10.56,Default,,0,0,0,,engineers that worked on refining and iterating on it and turning it into
-Dialogue: 0,1:15:10.56,1:15:14.82,Default,,0,0,0,,something good it was Chateau and Paul shantacy and Pete hunt and my manager
-Dialogue: 0,1:15:14.82,1:15:18.06,Default,,0,0,0,,Adam wolf when I was like you know asking all these questions about like
-Dialogue: 0,1:15:18.06,1:15:22.50,Default,,0,0,0,,should we be do like is this even worth it especially after JS conf when we were
-Dialogue: 0,1:15:22.50,1:15:25.80,Default,,0,0,0,,feeling defeated you know he was there to pick me back up and be like no look
-Dialogue: 0,1:15:25.80,1:15:30.30,Default,,0,0,0,,it is delivering value this is good keep going and there's different phases too
-Dialogue: 0,1:15:30.30,1:15:34.32,Default,,0,0,0,,right you have the early early days and you had the like for the next literally
-Dialogue: 0,1:15:34.32,1:15:38.76,Default,,0,0,0,,almost we're going on 10 years now with Sebastian's technical leadership and
-Dialogue: 0,1:15:38.76,1:15:45.42,Default,,0,0,0,,Andrew and Dan and Dominic and flarney and Sophie and I I just feel like it's
-Dialogue: 0,1:15:45.42,1:15:50.58,Default,,0,0,0,,just a group of incredible people and if you take any of them out of it
-Dialogue: 0,1:15:50.58,1:15:55.08,Default,,0,0,0,,it just looks pretty different it was really a team effort
-Dialogue: 0,1:15:55.08,1:15:59.96,Default,,0,0,0,,uh it was really a team effort from the very beginning
-Dialogue: 0,1:16:04.14,1:16:06.92,Default,,0,0,0,,[Music]
-Dialogue: 0,1:16:06.92,1:16:12.78,Default,,0,0,0,,says that awesome Solutions are rarely created by large organizations it's
-Dialogue: 0,1:16:12.78,1:16:18.00,Default,,0,0,0,,almost always one person with passion and vision that slowly start to infect
-Dialogue: 0,1:16:18.00,1:16:23.82,Default,,0,0,0,,others this is this is a great summary of how react became react because it was
-Dialogue: 0,1:16:23.82,1:16:29.46,Default,,0,0,0,,never inevitable it was always this wild idea that kept Gathering momentum person
-Dialogue: 0,1:16:29.46,1:16:35.64,Default,,0,0,0,,by person and any expected react to fail and if it weren't for the hard work of a
-Dialogue: 0,1:16:35.64,1:16:41.30,Default,,0,0,0,,few determined developers it very well could have
-Dialogue: 0,1:16:42.38,1:16:47.71,Default,,0,0,0,,this is just the beginning of the react story the story of how a community
-Dialogue: 0,1:16:47.71,1:16:52.92,Default,,0,0,0,,transformed an underdog UI Library into the most popular JavaScript framework
-Dialogue: 0,1:16:52.92,1:17:01.34,Default,,0,0,0,,today this is react podcast I'm fantastic
-Dialogue: 0,1:17:03.33,1:17:11.92,Default,,0,0,0,,[Music]
-Dialogue: 0,1:17:18.93,1:17:26.67,Default,,0,0,0,,[Music]
-Dialogue: 0,1:17:27.32,1:17:36.78,Default,,0,0,0,,thank you I'm like so tempted to just prize FaceTime Jordan right now be like
-Dialogue: 0,1:17:36.78,1:17:41.46,Default,,0,0,0,,interview it's just really strange to think that
-Dialogue: 0,1:17:41.46,1:17:49.15,Default,,0,0,0,,you're just so close to death the first reactive shirt that we made
-Dialogue: 0,1:17:49.15,1:17:53.94,Default,,0,0,0,,thousands of developers find jobs across Europe using Honeypot if you're up for a
-Dialogue: 0,1:17:53.94,1:17:58.40,Default,,0,0,0,,new challenge in one of these European cities sign up at honeypot.io
-Dialogue: 0,1:17:58.40,1:18:05.60,Default,,0,0,0,,if you want to see more Tech documentaries then subscribe so you don't miss the next one
-Dialogue: 0,1:18:07.05,1:18:10.87,Default,,0,0,0,,[Music]
+Dialogue: 0,0:47:31.04,0:47:35.79,Default,,0,0,0,,The open source feels like a milestone\Nand it feels like this is the end. But in
+Dialogue: 0,0:47:35.79,0:47:39.76,Default,,0,0,0,,practice it is just the beginning. Because\Nwhen you open source you actually have zero
+Dialogue: 0,0:47:39.76,0:47:45.32,Default,,0,0,0,,users, now you need to actually build a community,\Nget all of the bugs fixed, make sure it actually
+Dialogue: 0,0:47:45.32,0:47:50.98,Default,,0,0,0,,solves the use case for the people. And so\Nthis is like when the journey begins. We buckled
+Dialogue: 0,0:47:50.98,0:47:58.19,Default,,0,0,0,,down. And we also realized I think that really\Nwhen you have a project like this that's um
+Dialogue: 0,0:47:58.19,0:48:03.97,Default,,0,0,0,,different you have to convince people one\Nby one. So I think that's really what we focused on.
+Dialogue: 0,0:48:04.42,0:48:10.85,Default,,0,0,0,,And we learned a lot doing that. We learned\Nthat the ideas in React are solid, but really
+Dialogue: 0,0:48:10.85,0:48:14.79,Default,,0,0,0,,the ideas are not what people encounter when\Nthey adopt a framework. What they encounter
+Dialogue: 0,0:48:14.79,0:48:20.28,Default,,0,0,0,,are the docs and the error messages. What\Nthey need more than anything else when they
+Dialogue: 0,0:48:20.28,0:48:23.13,Default,,0,0,0,,adopt something is an incremental way of doing that.
+Dialogue: 0,0:48:23.74,0:48:26.03,Default,,0,0,0,,So the team got to work. They focused
+Dialogue: 0,0:48:26.03,0:48:31.12,Default,,0,0,0,,on spreading the knowledge of React one concept\Nat a time, one person at a time.
+Dialogue: 0,0:48:31.12,0:48:35.06,Default,,0,0,0,,Then an opportunity arose: another conference.
+Dialogue: 0,0:48:35.96,0:48:41.56,Default,,0,0,0,,Later the same year, thank goodness,\NPete gave a talk at JSconf EU.
+Dialogue: 0,0:48:41.56,0:48:46.02,Default,,0,0,0,,I had my desk over by the product\Ninfrastructure team. I was sitting next to
+Dialogue: 0,0:48:46.02,0:48:53.28,Default,,0,0,0,,Tomo and he's like, oh we're just like sponsoring\Nthis JSconf EU conference and we have to give
+Dialogue: 0,0:48:53.28,0:48:57.97,Default,,0,0,0,,a keynote and I don't want to give it. Because\NI think he was like he didn't want to go through
+Dialogue: 0,0:48:57.97,0:49:01.47,Default,,0,0,0,,all that stuff. Because you know after you\Ngive the talk like people go and yell at you
+Dialogue: 0,0:49:01.47,0:49:06.35,Default,,0,0,0,,after you get off stage and when you go to\Nthe happy hour and stuff. It's not the most
+Dialogue: 0,0:49:06.35,0:49:11.10,Default,,0,0,0,,pleasant thing in the world. And I was like,\NI'll do it! I'll take the free trip to Berlin
+Dialogue: 0,0:49:11.10,0:49:16.97,Default,,0,0,0,,and go give a talk at a conference. Hey I'm\NPete, I'm gonna talk to you about a library
+Dialogue: 0,0:49:16.97,0:49:23.63,Default,,0,0,0,,for creating user interfaces that we call\NReact. We open sourced this at JSconf US a
+Dialogue: 0,0:49:23.63,0:49:28.88,Default,,0,0,0,,couple months ago. And we got some kind of\Nsarcastic responses on Twitter, a little bit
+Dialogue: 0,0:49:28.88,0:49:34.93,Default,,0,0,0,,of snickering, that kind of thing. We weren't\Nreally communicating what we were doing so
+Dialogue: 0,0:49:34.93,0:49:39.98,Default,,0,0,0,,I'd like to talk to you today about the design\Ndecisions around React, what we're doing differently
+Dialogue: 0,0:49:39.98,0:49:45.40,Default,,0,0,0,,than other Frameworks and kind of the implementation\Nthat lets us make these decisions and make them really fast.
+Dialogue: 0,0:49:45.96,0:49:49.07,Default,,0,0,0,,For this talk it was like,\Nhere's what makes React different.
+Dialogue: 0,0:49:49.07,0:49:52.83,Default,,0,0,0,,I'm not even trying to say it's good, I'm not even\Ntrying to say you should use it, I'm trying
+Dialogue: 0,0:49:52.83,0:49:56.78,Default,,0,0,0,,to say that this is interesting and there's\Na lot of interesting stuff about how this
+Dialogue: 0,0:49:56.78,0:50:03.31,Default,,0,0,0,,thing works that you should pay attention\Nto. And that really resonated with people.
+Dialogue: 0,0:50:03.31,0:50:07.35,Default,,0,0,0,,And so we got these kind of early innovators\Nyou know if you think of the crossing the
+Dialogue: 0,0:50:07.35,0:50:13.15,Default,,0,0,0,,chasm diagram, where you've got your your\Nearly adopters and then you've got your laggards
+Dialogue: 0,0:50:13.15,0:50:17.70,Default,,0,0,0,,and in the middle you have your kind of normal\Ncompanies. That talk really got those early
+Dialogue: 0,0:50:17.70,0:50:23.16,Default,,0,0,0,,adopters fired up and evangelizing React inside\Nof their own companies. After Pete's talk,
+Dialogue: 0,0:50:23.16,0:50:26.31,Default,,0,0,0,,interest started to pick up. People started\Npaying attention. They just wanted to, you
+Dialogue: 0,0:50:26.31,0:50:31.53,Default,,0,0,0,,know, let me just see if there's something\Nthere. And so we got this kind of like slow
+Dialogue: 0,0:50:31.53,0:50:36.23,Default,,0,0,0,,burn of adoption of React. And it prompted\Nsome really interesting conversations. It
+Dialogue: 0,0:50:36.23,0:50:41.23,Default,,0,0,0,,recruited Brandon Bloom into the community\Nwho came from the functional programming world,
+Dialogue: 0,0:50:41.23,0:50:46.87,Default,,0,0,0,,somewhere. He started talking to his friends\Nand said, hey I think this React thing is
+Dialogue: 0,0:50:46.87,0:50:51.09,Default,,0,0,0,,actually worth paying attention to. And then\Nhe goes and talks to his friend David Nolen
+Dialogue: 0,0:50:51.09,0:50:58.15,Default,,0,0,0,,who is this very well known, very well respected,\Nreally great musician and JavaScript developer.
+Dialogue: 0,0:50:58.15,0:51:03.04,Default,,0,0,0,,I think he was working at the New York Times\Nat the time and I was passing through New
+Dialogue: 0,0:51:03.04,0:51:10.71,Default,,0,0,0,,York to do something and we grabbed coffee.\NAnd I asked Pete some questions and Brandon
+Dialogue: 0,0:51:10.71,0:51:16.89,Default,,0,0,0,,Bloom, that was my friend that said you should\Nreally look at React. And the reason I was
+Dialogue: 0,0:51:16.89,0:51:21.16,Default,,0,0,0,,excited about it, more than I think you could\Nhave been if you were JavaScript developer,
+Dialogue: 0,0:51:21.16,0:51:25.11,Default,,0,0,0,,JavaScript is kind of multi-paradigm you can\Ndo object oriented you can do functional if
+Dialogue: 0,0:51:25.11,0:51:31.98,Default,,0,0,0,,you want but it's not required but in Clojure\Nand ClojureScript functional is the most idiomatic
+Dialogue: 0,0:51:31.98,0:51:37.34,Default,,0,0,0,,thing and nothing existed. Like we were sort\Nof like always trying to get things to work
+Dialogue: 0,0:51:37.34,0:51:39.11,Default,,0,0,0,,but it always felt like there was friction.
+Dialogue: 0,0:51:39.32,0:51:42.73,Default,,0,0,0,,I was still early in my career right and this
+Dialogue: 0,0:51:42.73,0:51:48.04,Default,,0,0,0,,is like really senior super smart engineer\Nand it was the type of thing where he would
+Dialogue: 0,0:51:48.04,0:51:53.10,Default,,0,0,0,,ask me questions about it and I would stumble\Nto explain it and I would explain it poorly
+Dialogue: 0,0:51:53.10,0:51:58.93,Default,,0,0,0,,and then he would repeat it back to me in\Nlike a super eloquent great way and I was
+Dialogue: 0,0:51:58.93,0:52:04.52,Default,,0,0,0,,like yes, I'm gonna steal that! And so when\NI sat with Brandon and Pete it was like this
+Dialogue: 0,0:52:04.52,0:52:11.43,Default,,0,0,0,,huge light bulb went off, I was like: finally\Nthis is so random, Facebook made this functional
+Dialogue: 0,0:52:11.43,0:52:18.70,Default,,0,0,0,,UI framework. Eureka! I mean it was definitely\Na eureka moment. It it did allow ClojureScript
+Dialogue: 0,0:52:18.70,0:52:25.02,Default,,0,0,0,,programmers to finally write a reasonably\Nperformant functional UIs. And it was very
+Dialogue: 0,0:52:25.02,0:52:27.46,Default,,0,0,0,,natural, it was a very, very good fit.
+Dialogue: 0,0:52:27.46,0:52:29.43,Default,,0,0,0,,Like a week or two later he wrote this blog post
+Dialogue: 0,0:52:29.49,0:52:34.36,Default,,0,0,0,,called the Future of JavaScript MVCs that\Njust like changed the trajectory of the project.
+Dialogue: 0,0:52:35.03,0:52:39.84,Default,,0,0,0,,In many ways you look at React and you're\Nlike there's no way this could be fast, there's
+Dialogue: 0,0:52:39.84,0:52:46.12,Default,,0,0,0,,no way it could be efficient. And then I showed\Nthese diagrams of what Backbone and React/Om
+Dialogue: 0,0:52:46.12,0:52:52.11,Default,,0,0,0,,look like and React is much better. Especially\Nwhen you're using persistent data structures.
+Dialogue: 0,0:52:52.11,0:52:59.57,Default,,0,0,0,,So my article I think was focusing purely\Non the technical benefits of the design. It
+Dialogue: 0,0:52:59.57,0:53:05.10,Default,,0,0,0,,removed the superficial consideration and\NI think people started saying, okay I will
+Dialogue: 0,0:53:05.10,0:53:12.10,Default,,0,0,0,,try it. Not I'm going to use it but it removed\Nthat "I'm never going to use that" to "oh
+Dialogue: 0,0:53:12.10,0:53:17.66,Default,,0,0,0,,I'll give it a shot, this is interesting".\NOnce that post came out like within three
+Dialogue: 0,0:53:17.66,0:53:21.69,Default,,0,0,0,,months after that I would say that we were\None of the big contenders if you were picking
+Dialogue: 0,0:53:21.69,0:53:22.83,Default,,0,0,0,,a JavaScript framework.
+Dialogue: 0,0:53:23.38,0:53:25.29,Default,,0,0,0,,If you want to spread\Nan idea you need to really convince a few
+Dialogue: 0,0:53:25.84,0:53:31.73,Default,,0,0,0,,people and have those people share your message,\Nyou can't just be shouting it yourself.
+Dialogue: 0,0:53:31.73,0:53:40.75,Default,,0,0,0,,More people started to realize that React had some\Ngood ideas and made UI development simpler
+Dialogue: 0,0:53:40.75,0:53:47.01,Default,,0,0,0,,in a lot of ways. Over the course of the next\NI would say like year or two, we're kind of
+Dialogue: 0,0:53:47.01,0:53:53.07,Default,,0,0,0,,just tracking things like Google Alerts of\Nhow many times is it being mentioned, who's
+Dialogue: 0,0:53:53.07,0:53:58.42,Default,,0,0,0,,writing about it, what projects are cropping\Nup. Because React was very unopinionated about
+Dialogue: 0,0:53:58.42,0:54:04.55,Default,,0,0,0,,a lot of stuff that you need in order to build\Na front-end web application and you know people
+Dialogue: 0,0:54:04.55,0:54:08.79,Default,,0,0,0,,would fill in the blanks. And there was a\Nbunch of state management libraries that cropped
+Dialogue: 0,0:54:08.79,0:54:13.59,Default,,0,0,0,,up and there was a bunch of router libraries\Nthat cropped up and server-side rendering
+Dialogue: 0,0:54:13.59,0:54:18.83,Default,,0,0,0,,strategies. And so there was this sort of\Nslow burn of adoption over the next year or two.
+Dialogue: 0,0:54:18.83,0:54:24.04,Default,,0,0,0,,React is a small focused UI library but\Nit proved capable when tackling Facebook's
+Dialogue: 0,0:54:24.04,0:54:30.84,Default,,0,0,0,,hardest problems and other big companies noticed.\NBut there was one company especially eager
+Dialogue: 0,0:54:30.84,0:54:33.54,Default,,0,0,0,,to rethink best practices.
+Dialogue: 0,0:54:33.54,0:54:46.88,Default,,0,0,0,,[Music]
+Dialogue: 0,0:54:46.88,0:54:51.72,Default,,0,0,0,,We first heard about React back in 2014. The\NNetflix website had been built using Java Web.
+Dialogue: 0,0:54:51.72,0:54:57.38,Default,,0,0,0,,It was very slow, it took about 15 minutes\Nto get up a build and we decided to move to
+Dialogue: 0,0:54:57.38,0:55:03.16,Default,,0,0,0,,a more modern framework. There we go. Now\Nat the time we weren't quite sure if you know
+Dialogue: 0,0:55:03.16,0:55:07.24,Default,,0,0,0,,this React thing was going to work out. It\Nwas kind of new and so we were very apprehensive,
+Dialogue: 0,0:55:07.24,0:55:12.53,Default,,0,0,0,,especially since we were building the future\Nof the next 10 years of the website, right,
+Dialogue: 0,0:55:12.53,0:55:18.03,Default,,0,0,0,,we make a bad choice now we got to backtrack\Nyears worth of work. And so we were very careful
+Dialogue: 0,0:55:18.03,0:55:22.67,Default,,0,0,0,,about not jumping into something that was\Ntoo bleeding edge. And so what they did was
+Dialogue: 0,0:55:22.67,0:55:26.86,Default,,0,0,0,,they actually pitted two teams against each\Nother. Each was given 30 days to build a prototype
+Dialogue: 0,0:55:26.86,0:55:31.98,Default,,0,0,0,,with one being React and the other one being\NBackbone and after 30 days the choice was clear.
+Dialogue: 0,0:55:34.81,0:55:37.95,Default,,0,0,0,,So thank you all for coming out tonight. We're\Nreally excited to have you here and share
+Dialogue: 0,0:55:37.95,0:55:42.22,Default,,0,0,0,,the learnings that we've had, building the\Nnew UI in React for the past year. It was
+Dialogue: 0,0:55:42.22,0:55:46.58,Default,,0,0,0,,not this stage, it was our next stage over,\Nwhere I gave my React presentation back I
+Dialogue: 0,0:55:46.58,0:55:53.22,Default,,0,0,0,,guess in 2015. Same feeling like oh my goodness\NI've got to convince all these people that
+Dialogue: 0,0:55:53.22,0:55:56.89,Default,,0,0,0,,React is amazing.
+Dialogue: 0,0:55:56.89,0:56:01.39,Default,,0,0,0,,But I guess it worked. So I was part of the\Nteam that built the new site using React.
+Dialogue: 0,0:56:01.39,0:56:05.82,Default,,0,0,0,,At first it was very clunky, like you're writing\Ncomponents and they're not quite, you know,
+Dialogue: 0,0:56:05.82,0:56:10.45,Default,,0,0,0,,you're putting too much logic into them or\Nyou're thinking too big. It's not clear the
+Dialogue: 0,0:56:10.45,0:56:14.10,Default,,0,0,0,,difference in the paradigm. And then you start\Nto use it and you go okay wait wait wait I'm
+Dialogue: 0,0:56:14.10,0:56:19.57,Default,,0,0,0,,thinking much more atomic. Hence the symbol\Nof react. I'm thinking about this individual
+Dialogue: 0,0:56:19.57,0:56:23.45,Default,,0,0,0,,reusability, okay now I'm thinking about the\Ntestability of these components, I'm seeing
+Dialogue: 0,0:56:23.45,0:56:27.83,Default,,0,0,0,,the benefits now come out of it. I can reuse\Nthis over here, we can test this over here,
+Dialogue: 0,0:56:27.83,0:56:32.46,Default,,0,0,0,,we can change this here, we can add props\Nin here. And it becomes very exciting to see
+Dialogue: 0,0:56:32.46,0:56:37.12,Default,,0,0,0,,that new paradigm come to play and go: this\Nis going to be revolutionary, this is going
+Dialogue: 0,0:56:37.12,0:56:41.18,Default,,0,0,0,,to change the world. Let's go back in time\None year to the old Netflix UI, you guys might
+Dialogue: 0,0:56:41.18,0:56:45.69,Default,,0,0,0,,remember this one. The overall look and feel\Nis kind of like this old DVD kind of box art
+Dialogue: 0,0:56:45.69,0:56:49.85,Default,,0,0,0,,feel and so I actually want to show you one\Nof the early prototypes of what we thought
+Dialogue: 0,0:56:49.85,0:56:55.96,Default,,0,0,0,,the new UI would look like. We knew that going\Nforward the world was changing, web was changing,
+Dialogue: 0,0:56:55.96,0:57:00.05,Default,,0,0,0,,things were moving faster, and our competition\Nwas moving faster as well. So choosing React
+Dialogue: 0,0:57:00.05,0:57:04.26,Default,,0,0,0,,and going with a more modern framework really\Nhelped us accelerate how fast we could build
+Dialogue: 0,0:57:04.26,0:57:08.08,Default,,0,0,0,,the website, how fast we could get new changes\Nout the door, how fast we could try improvements
+Dialogue: 0,0:57:08.08,0:57:13.61,Default,,0,0,0,,for our customers to make the best possible\Nexperience.
+Dialogue: 0,0:57:13.61,0:57:18.24,Default,,0,0,0,,And because of that we've been at the forefront\Nof leading what UI design looks like in terms
+Dialogue: 0,0:57:18.24,0:57:23.72,Default,,0,0,0,,of web development. We've had a lot of companies\Ncopy us, which we take is a great compliment,
+Dialogue: 0,0:57:23.72,0:57:27.75,Default,,0,0,0,,but we were there first because of react and\Nits ability to move so quickly in terms of
+Dialogue: 0,0:57:27.75,0:57:33.17,Default,,0,0,0,,design. This is how it ended up turning out\Nand this is a UI that's big and immersive
+Dialogue: 0,0:57:33.17,0:57:36.22,Default,,0,0,0,,and completely built in React. So we're very\Nvery proud of it and the result.
+Dialogue: 0,0:57:36.22,0:57:42.13,Default,,0,0,0,,[Music]
+Dialogue: 0,0:57:42.13,0:57:47.80,Default,,0,0,0,,Netflix was now praising React publicly and with a\Nsecond big company betting big on React,
+Dialogue: 0,0:57:47.80,0:57:54.74,Default,,0,0,0,,the framework grew in popularity. In fact it kind\Nof took on a life of its own and the community
+Dialogue: 0,0:57:54.74,0:57:56.99,Default,,0,0,0,,started to take off.
+Dialogue: 0,0:57:56.99,0:58:08.16,Default,,0,0,0,,[Music]
+Dialogue: 0,0:58:08.16,0:58:11.93,Default,,0,0,0,,React at this point was getting more\Npopular
+Dialogue: 0,0:58:11.93,0:58:17.14,Default,,0,0,0,,and somebody on Twitter mentioned "hey it would be cool to have a React conference"
+Dialogue: 0,0:58:17.14,0:58:19.82,Default,,0,0,0,,and a lot of people started commenting and
+Dialogue: 0,0:58:19.82,0:58:24.77,Default,,0,0,0,,tweeting about this. And I went to my manager\NTom Occhino. And he was like: there's like
+Dialogue: 0,0:58:24.77,0:58:31.02,Default,,0,0,0,,50 tweets about React today, like people are\Ntalking about organizing conferences, should
+Dialogue: 0,0:58:31.02,0:58:34.20,Default,,0,0,0,,we organize a conference? And I was like,\NI don't know what that means, I don't know
+Dialogue: 0,0:58:34.20,0:58:38.68,Default,,0,0,0,,how to do that, but like maybe. I was very\Nopposed to doing a conference. I thought it
+Dialogue: 0,0:58:38.68,0:58:47.07,Default,,0,0,0,,was very cool that we got so much traction\Nwithout really pouring marketing money into it.
+Dialogue: 0,0:58:47.07,0:58:51.92,Default,,0,0,0,,Even though React came from big tech company\Njuggernaut Facebook, it was a small group
+Dialogue: 0,0:58:51.92,0:58:56.09,Default,,0,0,0,,of people that were like really dedicated\Nto seeing this thing succeed, so it felt like
+Dialogue: 0,0:58:56.09,0:59:03.07,Default,,0,0,0,,this very indie you know Rebel Alliance type\Nof project. And so I was like we don't need
+Dialogue: 0,0:59:03.07,0:59:07.86,Default,,0,0,0,,a user conference, like we got this cool vibe\Ngoing on, let's see how far we can push it.
+Dialogue: 0,0:59:07.86,0:59:09.20,Default,,0,0,0,,I was totally wrong.
+Dialogue: 0,0:59:09.20,0:59:12.63,Default,,0,0,0,,We had said to ourselves,\NI think it would be fun to host a React conference
+Dialogue: 0,0:59:12.63,0:59:18.21,Default,,0,0,0,,but are there even enough people using React\Nwho would want to go to that, and eventually
+Dialogue: 0,0:59:18.21,0:59:22.95,Default,,0,0,0,,we decided: Well let's try it, let's try to\Nhost the conference, and see how it goes.
+Dialogue: 0,0:59:24.23,0:59:30.39,Default,,0,0,0,,Within a minute, all of the tickets were sold\Nout and we actually crashed the website that
+Dialogue: 0,0:59:30.39,0:59:34.34,Default,,0,0,0,,were handling the actual payment system.
+Dialogue: 0,0:59:36.73,0:59:42.55,Default,,0,0,0,,Schrep, the CTO of Facebook, actually reached\Nout to me saying like: hey I have this very
+Dialogue: 0,0:59:42.55,0:59:48.63,Default,,0,0,0,,important like VP or CTO of some company that\Nwants in that couldn't get in. Like hey can
+Dialogue: 0,0:59:48.63,0:59:56.01,Default,,0,0,0,,you do us a favor and I was like I would love\Nto, it's the CTO and everything, but like
+Dialogue: 0,0:59:56.01,1:00:00.90,Default,,0,0,0,,you know we're completely booked. Certainly\Nwe were very surprised about how quickly the
+Dialogue: 0,1:00:00.90,1:00:05.74,Default,,0,0,0,,tickets had sold out. We didn't realize just\Nhow much the React ecosystem had grown and
+Dialogue: 0,1:00:05.74,1:00:10.30,Default,,0,0,0,,just how much enthusiasm had been created\Nby early adopters.
+Dialogue: 0,1:00:12.61,1:00:23.69,Default,,0,0,0,,[Music]
+Dialogue: 0,1:00:23.69,1:00:26.78,Default,,0,0,0,,We put it together pretty quickly as far as
+Dialogue: 0,1:00:26.78,1:00:31.91,Default,,0,0,0,,conference planning goes and we just had it\Non campus in one of our cafes and we bussed
+Dialogue: 0,1:00:31.91,1:00:38.34,Default,,0,0,0,,people from the nearest hotel. And it was\Nvery, very under produced but it worked out
+Dialogue: 0,1:00:38.34,1:00:40.12,Default,,0,0,0,,really, really well.
+Dialogue: 0,1:00:40.12,1:00:44.51,Default,,0,0,0,,Good morning everyone\Nand welcome to React.js conf!
+Dialogue: 0,1:00:46.36,1:00:50.92,Default,,0,0,0,,The conference went like extremely, extremely\Nwell. As the organizer of the conference,
+Dialogue: 0,1:00:50.92,1:00:56.94,Default,,0,0,0,,I'm so excited to be here. And we open sourced\Na bunch of our projects like React Native
+Dialogue: 0,1:00:56.94,1:01:00.93,Default,,0,0,0,,and we started talking about GraphQL, about\NRelay. And so yeah it was a massive success.
+Dialogue: 0,1:01:00.93,1:01:09.23,Default,,0,0,0,,There is this moment where you go and you\Nsee the stage and there's a giant wood cut
+Dialogue: 0,1:01:09.23,1:01:15.94,Default,,0,0,0,,out like logo of the React atom. And I was\Nlike, my friend Maykel, the designer at Instagram,
+Dialogue: 0,1:01:15.94,1:01:19.75,Default,,0,0,0,,drew that in front of me like in the middle\Nof the night before we were going to open
+Dialogue: 0,1:01:19.75,1:01:22.58,Default,,0,0,0,,source this thing, because we needed a logo,\Nand I was like: Maykel just like throw something
+Dialogue: 0,1:01:22.58,1:01:27.73,Default,,0,0,0,,together real quick. And now it's this thing\Nthat somebody has built a giant sign with
+Dialogue: 0,1:01:27.73,1:01:32.23,Default,,0,0,0,,this on it and there's something about the\Nphysical impact of that, that's really cool.
+Dialogue: 0,1:01:32.23,1:01:37.49,Default,,0,0,0,,That was the moment when it dawned on me that\NReact was becoming something different, you know.
+Dialogue: 0,1:01:37.49,1:01:43.35,Default,,0,0,0,,So for a long time what React was to\Nme was a software project and the reason why
+Dialogue: 0,1:01:43.35,1:01:46.81,Default,,0,0,0,,I wanted people to adopt it was because I\Nreally thought it would make their software
+Dialogue: 0,1:01:46.81,1:01:51.15,Default,,0,0,0,,better and make their lives better and make\Ntheir on-call rotations better. There are
+Dialogue: 0,1:01:51.15,1:01:56.10,Default,,0,0,0,,a lot of reasons why I thought it would help\Nthem. After that conference what I realized
+Dialogue: 0,1:01:56.10,1:02:00.61,Default,,0,0,0,,is that React was becoming a community. There\Nwere meetups that would happen the immediate
+Dialogue: 0,1:02:00.61,1:02:04.88,Default,,0,0,0,,next week that would have an expanded audience\Nthat they could go deeper into some of the
+Dialogue: 0,1:02:04.88,1:02:09.44,Default,,0,0,0,,things that were discussed was really, really\Ncool and a huge recognition for us that the
+Dialogue: 0,1:02:09.44,1:02:15.92,Default,,0,0,0,,community was going to be an incredible part\Nof what would make React work and at that
+Dialogue: 0,1:02:15.92,1:02:21.13,Default,,0,0,0,,point was definitely already a really important\Npart of what had gotten React to that point so far.
+Dialogue: 0,1:02:21.13,1:02:24.04,Default,,0,0,0,,[Music]
+Dialogue: 0,1:02:24.04,1:02:28.64,Default,,0,0,0,,It's proven to me that engaging\Nwith your open source community is actually
+Dialogue: 0,1:02:28.64,1:02:32.65,Default,,0,0,0,,more important than the technical work itself,\Nlike if you don't have a community you don't
+Dialogue: 0,1:02:32.65,1:02:37.07,Default,,0,0,0,,have an open source project. I'm excited that\Nwe just continue rethinking best practices.
+Dialogue: 0,1:02:37.07,1:02:40.79,Default,,0,0,0,,I want to thank this community for making\Nit possible for us to keep investing in this
+Dialogue: 0,1:02:40.79,1:02:44.46,Default,,0,0,0,,and keep working on it. That's all I got,\Nthanks.
+Dialogue: 0,1:02:48.19,1:02:52.72,Default,,0,0,0,,It was a real high point for, not just for\Nme but for the team, and you know I think
+Dialogue: 0,1:02:52.72,1:02:59.68,Default,,0,0,0,,for Facebook engineering. I think we really\Nfelt like not just validated but like we were
+Dialogue: 0,1:02:59.68,1:03:05.23,Default,,0,0,0,,actually like doing something that people\Ncared about and it was a really, really good
+Dialogue: 0,1:03:05.23,1:03:10.32,Default,,0,0,0,,feeling. It was already like more widely used\Nwithin the company but now it was like, okay
+Dialogue: 0,1:03:10.32,1:03:15.66,Default,,0,0,0,,how do we actually start converting everything\Nto React, how do we remove and deprecate all
+Dialogue: 0,1:03:15.66,1:03:21.56,Default,,0,0,0,,of the other frameworks and really like double\Ndown on React. Oh hey, how is it going? Going
+Dialogue: 0,1:03:21.56,1:03:27.44,Default,,0,0,0,,from like an interesting product to this is\Nthe next big thing. So it was a really amazing
+Dialogue: 0,1:03:27.44,1:03:33.59,Default,,0,0,0,,time to be around and to get the whole company\Nworking together as one, you know, to make
+Dialogue: 0,1:03:33.59,1:03:34.74,Default,,0,0,0,,this happen.
+Dialogue: 0,1:03:36.91,1:03:41.57,Default,,0,0,0,,Let's see, I have some keepsakes up here,
+Dialogue: 0,1:03:41.57,1:03:46.83,Default,,0,0,0,,which will be not easy for me to get down
+Dialogue: 0,1:03:46.83,1:03:48.70,Default,,0,0,0,,but.. Let's see.
+Dialogue: 0,1:03:48.70,1:03:56.74,Default,,0,0,0,,I have some stickers, oh this is a fun one,\Nthis is the first ever React die cut sticker.
+Dialogue: 0,1:03:56.74,1:04:01.32,Default,,0,0,0,,We ordered like a bunch of these and put them\Non our laptops and I never wanted to use the
+Dialogue: 0,1:04:01.32,1:04:07.97,Default,,0,0,0,,last one that I had. Facebook open source\Nstickers. Oh some of these will be a trip
+Dialogue: 0,1:04:07.97,1:04:15.16,Default,,0,0,0,,down memory lane for folks. React conf. We\Nmade you know, 2018 Facebook open source it's
+Dialogue: 0,1:04:15.16,1:04:23.63,Default,,0,0,0,,a good one. React conf attendee badge. This\Nwas a book from the original React.js conf
+Dialogue: 0,1:04:23.63,1:04:30.94,Default,,0,0,0,,at Facebook's headquarters so this had a list\Nof the speakers and the schedule and um here's
+Dialogue: 0,1:04:30.94,1:04:39.11,Default,,0,0,0,,the keynote. Me and Christopher Chedeau. We\Nhad all sorts of swag made and a bunch of
+Dialogue: 0,1:04:39.11,1:04:45.32,Default,,0,0,0,,other stuff.. So pretty good stuff, pretty\Ngood memories.
+Dialogue: 0,1:04:45.32,1:04:51.81,Default,,0,0,0,,The team became inundated with questions from\Nthe community and a new developer enters React's
+Dialogue: 0,1:04:51.81,1:04:53.08,Default,,0,0,0,,orbit.
+Dialogue: 0,1:04:53.08,1:05:12.20,Default,,0,0,0,,[Music]
+Dialogue: 0,1:05:12.20,1:05:20.05,Default,,0,0,0,,What should I do with my hands?\NSo you're saying that I should actually uh
+Dialogue: 0,1:05:20.05,1:05:25.90,Default,,0,0,0,,start like uh.. Let me focus for a second.\NJust for the record, I did not create React,
+Dialogue: 0,1:05:25.90,1:05:28.25,Default,,0,0,0,,React was created by Jordan Walke.
+Dialogue: 0,1:05:29.75,1:05:33.62,Default,,0,0,0,,I worked at a small startup. We were creating a sort
+Dialogue: 0,1:05:33.62,1:05:38.94,Default,,0,0,0,,of a digital publishing platform so there\Nwas a really complex post editor with different
+Dialogue: 0,1:05:38.94,1:05:43.93,Default,,0,0,0,,blocks or like a scrollable text with like\Ndifferent effects and stuff. And so creating
+Dialogue: 0,1:05:43.93,1:05:50.03,Default,,0,0,0,,a dynamic kind of interactive editor for for\Nthese things was really difficult. And were
+Dialogue: 0,1:05:50.03,1:05:53.70,Default,,0,0,0,,doing it with Backbone. I kind of wanted to\Ngive React a try because it was supposed to
+Dialogue: 0,1:05:53.70,1:05:59.18,Default,,0,0,0,,solve this problem. The first React component\NI wrote was a like button so it was just like
+Dialogue: 0,1:05:59.18,1:06:05.30,Default,,0,0,0,,a button you click it and it says like you\Nlike this or you and somebody like this or
+Dialogue: 0,1:06:05.30,1:06:11.02,Default,,0,0,0,,you and like 40 others like this. So there\Nwas a bit of like a split and logic, and then
+Dialogue: 0,1:06:11.02,1:06:18.90,Default,,0,0,0,,the way you would express this in other Frameworks\Nat the time, you had to kind of manually watch
+Dialogue: 0,1:06:18.90,1:06:23.54,Default,,0,0,0,,what's changed and update it. And in React\Nyou could just say, if nobody liked this show
+Dialogue: 0,1:06:23.54,1:06:28.35,Default,,0,0,0,,this, if one person like this, show this,\Notherwise show this and like it's a very natural
+Dialogue: 0,1:06:28.35,1:06:33.63,Default,,0,0,0,,way to write this kind of code. And yeah I\Njust wrote that button and I was like yeah
+Dialogue: 0,1:06:33.63,1:06:40.98,Default,,0,0,0,,that looks good, ship it. And so we actually\Nrewrote the entire app in React over the course
+Dialogue: 0,1:06:40.98,1:06:46.47,Default,,0,0,0,,of like 9 months while still shipping new\Nfeatures. So React sped up our development
+Dialogue: 0,1:06:46.47,1:06:51.27,Default,,0,0,0,,so much that we were able to add new features\Nfaster, at the same time as we were replacing
+Dialogue: 0,1:06:51.27,1:06:55.52,Default,,0,0,0,,old features, that's why I really kind of\Nfell in love with it.
+Dialogue: 0,1:06:57.91,1:07:02.84,Default,,0,0,0,,A lot of things didn't exist back then. Like\Nthere was no such thing as a React ecosystem.
+Dialogue: 0,1:07:02.84,1:07:08.40,Default,,0,0,0,,So if you needed something, it didn't exist,\Nyou'd have to write it. So like you'd have
+Dialogue: 0,1:07:08.40,1:07:13.26,Default,,0,0,0,,to figure out how to do it because otherwise\Nyou're not going to have a product, right.
+Dialogue: 0,1:07:13.26,1:07:18.09,Default,,0,0,0,,So that's kind of what I did for a bunch of\Nthings. One of those projects in particular
+Dialogue: 0,1:07:18.09,1:07:23.02,Default,,0,0,0,,was.. I just saw a big opportunity there.
+Dialogue: 0,1:07:24.07,1:07:26.56,Default,,0,0,0,,It was called React Hot Loader at the time.
+Dialogue: 0,1:07:26.56,1:07:31.75,Default,,0,0,0,,So I wanted to give a talk about that, but\Nsomebody else had done a talk that mentioned
+Dialogue: 0,1:07:31.75,1:07:36.76,Default,,0,0,0,,it earlier at React conf. A really clever\Nfellow called Dan Abramov figured this out
+Dialogue: 0,1:07:36.76,1:07:42.04,Default,,0,0,0,,and he created the React Hot Loader. And I\Nfelt that well then that just wouldn't be
+Dialogue: 0,1:07:42.04,1:07:46.21,Default,,0,0,0,,interesting because people kind of already\Nsaw it which in retrospect I don't think it
+Dialogue: 0,1:07:46.21,1:07:50.35,Default,,0,0,0,,would be true but that's how I saw it at the\Ntime. So I wanted to kind of spice it up a
+Dialogue: 0,1:07:50.35,1:07:55.96,Default,,0,0,0,,little bit and I wanted to make a proof of\Nconcept of a thing I saw in a Bret Victor
+Dialogue: 0,1:07:55.96,1:08:02.20,Default,,0,0,0,,demo that is often referred to as time traveling.\NIf you're designing something embedded in
+Dialogue: 0,1:08:02.20,1:08:06.63,Default,,0,0,0,,time, you need to be able to control time,\Nyou need to be able to see across time, otherwise
+Dialogue: 0,1:08:06.63,1:08:11.39,Default,,0,0,0,,you're designing blind. I didn't really know\Nhow to do it but I thought that's a cool idea
+Dialogue: 0,1:08:11.39,1:08:16.81,Default,,0,0,0,,for a talk. So I'm gonna send the proposal\Nif the proposal is successful then I'll just
+Dialogue: 0,1:08:16.81,1:08:20.54,Default,,0,0,0,,figure it out. And it turned out that the\Nproposal was more successful than I thought
+Dialogue: 0,1:08:20.54,1:08:25.60,Default,,0,0,0,,it would be and so I made a proof of concept\Nfor that and that proof of concept became
+Dialogue: 0,1:08:25.60,1:08:26.92,Default,,0,0,0,,known as Redux.
+Dialogue: 0,1:08:28.64,1:08:33.26,Default,,0,0,0,,So my talk is about developer\Ntools because React and Hot Loading and time
+Dialogue: 0,1:08:33.27,1:08:39.96,Default,,0,0,0,,travel these are all developer tools. He was\Nliterally creating Redux in service of being
+Dialogue: 0,1:08:39.96,1:08:44.85,Default,,0,0,0,,able to deliver this talk and I called it\Npresentation driven development because the
+Dialogue: 0,1:08:44.85,1:08:49.54,Default,,0,0,0,,thing that shook out of it was you know this\Nsort of like canonical state management library
+Dialogue: 0,1:08:49.54,1:08:54.75,Default,,0,0,0,,for React apps for several years. Most of\Nmy work is around the React ecosystem because
+Dialogue: 0,1:08:54.75,1:08:59.77,Default,,0,0,0,,that's what inspired me to contribute to the\Nopen source in the first place, but there
+Dialogue: 0,1:08:59.77,1:09:06.12,Default,,0,0,0,,are two particular projects that I'm going\Nto talk about today. It was very validating
+Dialogue: 0,1:09:06.12,1:09:14.85,Default,,0,0,0,,to give that talk but I was not surprised\Nby the response because well I had my doubts
+Dialogue: 0,1:09:14.85,1:09:21.72,Default,,0,0,0,,but also I thought the talk was good.. like\NI thought it's a really good talk. And I was
+Dialogue: 0,1:09:21.72,1:09:27.25,Default,,0,0,0,,glad that people also liked it but I think\Nit was actually not the talk that was really
+Dialogue: 0,1:09:27.25,1:09:30.08,Default,,0,0,0,,like the moment for me. I think it was just\Nlike being there.
+Dialogue: 0,1:09:31.80,1:09:33.34,Default,,0,0,0,,It kind of felt like
+Dialogue: 0,1:09:33.35,1:09:38.40,Default,,0,0,0,,going to Hogwarts for the first\Ntime. I think it kind of had this this feeling
+Dialogue: 0,1:09:38.40,1:09:44.38,Default,,0,0,0,,because there were all these people who I\Nonly knew them as these avatars and when you
+Dialogue: 0,1:09:44.39,1:09:48.87,Default,,0,0,0,,meet somebody in person they kind of become\Nthree-dimensional of course. You kind of see
+Dialogue: 0,1:09:48.87,1:09:53.73,Default,,0,0,0,,the whole picture. And I think it was just\Nlike such a wholesome feeling. It's the feeling
+Dialogue: 0,1:09:53.73,1:09:58.87,Default,,0,0,0,,that we are all trying to figure out what\Nwe can do with this thing and we don't know
+Dialogue: 0,1:09:58.87,1:10:01.42,Default,,0,0,0,,it yet and we're just playing with it.
+Dialogue: 0,1:10:05.92,1:10:11.85,Default,,0,0,0,,That's also where I met Jing Chen. I had asked\Nfor her advice before because she's one of
+Dialogue: 0,1:10:11.85,1:10:17.40,Default,,0,0,0,,the co-creators of the Flux architecture.\NSo it was nice to meet her in person and she
+Dialogue: 0,1:10:17.40,1:10:23.39,Default,,0,0,0,,mentioned that actually Facebook is hiring\Nin London. And so they arranged an interview
+Dialogue: 0,1:10:23.39,1:10:27.42,Default,,0,0,0,,for me right at the conference which was like\Nour normal interview process the same I think
+Dialogue: 0,1:10:27.42,1:10:31.98,Default,,0,0,0,,like four interviews or something like this\Nbut I missed the second day of the conference
+Dialogue: 0,1:10:31.98,1:10:37.10,Default,,0,0,0,,but we just did an interview there and so\Nthat's kind of how I got into Facebook. We
+Dialogue: 0,1:10:37.10,1:10:43.12,Default,,0,0,0,,just quickly grabbed them out of the conference\Na little bit like on the down low and then
+Dialogue: 0,1:10:43.12,1:10:48.53,Default,,0,0,0,,conducted the interviews in the basement of\Na hotel I think.
+Dialogue: 0,1:10:50.69,1:10:54.03,Default,,0,0,0,,No Dan is special, he's always been a little\Nspecial.
+Dialogue: 0,1:10:54.03,1:10:55.58,Default,,0,0,0,,I guess like I would think of myself
+Dialogue: 0,1:10:55.58,1:11:02.52,Default,,0,0,0,,as like maybe the first member of what would\Nbecome the React team as you know it today
+Dialogue: 0,1:11:02.52,1:11:08.98,Default,,0,0,0,,because I joined a little bit earlier than\NI think Andrew, Brian, Luna and and like a
+Dialogue: 0,1:11:08.98,1:11:14.21,Default,,0,0,0,,bunch of other people who work with us now.\NAnd I joined at the time when a few people
+Dialogue: 0,1:11:14.21,1:11:19.96,Default,,0,0,0,,who worked with us before were just about\Nto leave. So I was kind of in this transitional
+Dialogue: 0,1:11:19.96,1:11:22.64,Default,,0,0,0,,period when the team was changing a lot.
+Dialogue: 0,1:11:22.64,1:11:30.70,Default,,0,0,0,,[Music]
+Dialogue: 0,1:11:30.70,1:11:32.20,Default,,0,0,0,,Remember the old days?
+Dialogue: 0,1:11:32.20,1:11:34.95,Default,,0,0,0,,Do you remember the first time you\Nmet Andrew?
+Dialogue: 0,1:11:35.72,1:11:40.05,Default,,0,0,0,,Uh I think I've met.. I do! I think
+Dialogue: 0,1:11:40.05,1:11:43.73,Default,,0,0,0,,I met him yeah.. I thought it was at React\Nconf. Well that was the clear moment, maybe,
+Dialogue: 0,1:11:43.73,1:11:49.18,Default,,0,0,0,,was that the first time? Did you get invited\Nto React conf because of that.. He had a speech.
+Dialogue: 0,1:11:50.57,1:11:56.72,Default,,0,0,0,,I met him like I think before that. I met\Nyou and Sophie and Joe and Tim like all in
+Dialogue: 0,1:11:56.72,1:12:01.58,Default,,0,0,0,,the same week. Yeah he started asking some\Nquestions that were very similar to the questions
+Dialogue: 0,1:12:01.58,1:12:06.15,Default,,0,0,0,,that on the team we were talking about internally\Nand so I just remember like, I gotta connect
+Dialogue: 0,1:12:06.15,1:12:09.58,Default,,0,0,0,,you with like Sebastian and Jordan and the\Nrest of the team. Yeah and then also I was
+Dialogue: 0,1:12:09.58,1:12:13.81,Default,,0,0,0,,like to the recruiters I was like yeah this\Nguy like we gotta hire this Andrew guy. And
+Dialogue: 0,1:12:13.81,1:12:17.54,Default,,0,0,0,,I think we were really fortunate early on\Nto have a bunch of people that kind of stepped
+Dialogue: 0,1:12:17.54,1:12:22.06,Default,,0,0,0,,up and they were this seems cool, I just want\Nto be a part of this, I just want to help.
+Dialogue: 0,1:12:22.06,1:12:26.46,Default,,0,0,0,,I didn't realize it was kind of like a freshman\Nclass sort of feeling at the time. Sophie
+Dialogue: 0,1:12:26.46,1:12:31.28,Default,,0,0,0,,had started managing the team around that\Ntime as well and I couldn't have really asked
+Dialogue: 0,1:12:31.28,1:12:38.73,Default,,0,0,0,,for a better both project and set of colleagues\Nand team to join. The beginning of phase two.
+Dialogue: 0,1:12:38.73,1:12:41.82,Default,,0,0,0,,Yeah, that's cool.
+Dialogue: 0,1:12:42.54,1:12:47.73,Default,,0,0,0,,Awesome! I feel\Nlike we really brought it home there at the end.
+Dialogue: 0,1:12:50.00,1:12:52.17,Default,,0,0,0,,Like man we're nailing this!
+Dialogue: 0,1:12:52.17,1:12:58.49,Default,,0,0,0,,[Music]
+Dialogue: 0,1:12:58.49,1:13:01.60,Default,,0,0,0,,React was now out of the hands of\Nits founders.
+Dialogue: 0,1:13:01.60,1:13:08.25,Default,,0,0,0,,It was ready to take on new life in the care of a\Nnew community grown and future-minded team.
+Dialogue: 0,1:13:08.25,1:13:12.55,Default,,0,0,0,,We tried to watch some of the numbers like the number of GitHub stars
+Dialogue: 0,1:13:12.55,1:13:15.66,Default,,0,0,0,,or the number of npm downloads. On Google
+Dialogue: 0,1:13:15.66,1:13:21.69,Default,,0,0,0,,Trends, how many people are searching for\NReact and none of those numbers are perfect
+Dialogue: 0,1:13:21.69,1:13:29.34,Default,,0,0,0,,but basically all of them kept going up over\Ntime and eventually got to a point where we
+Dialogue: 0,1:13:29.34,1:13:35.81,Default,,0,0,0,,looked at it and said oh yeah like millions\Nof people essentially are using React.
+Dialogue: 0,1:13:35.81,1:13:43.09,Default,,0,0,0,,There are a lot of little details in how we did\Nthings that encourages an ecosystem to participate,
+Dialogue: 0,1:13:43.09,1:13:49.06,Default,,0,0,0,,that were critical parts in making it what\Nit is today. We didn't put everything in the
+Dialogue: 0,1:13:49.06,1:13:54.38,Default,,0,0,0,,framework. We left a lot of it to the ecosystem\Nto innovate. And we got a lot of contributions,
+Dialogue: 0,1:13:54.38,1:14:01.23,Default,,0,0,0,,we got a lot of interest that way, we got\Na lot of things spurring from that. It was
+Dialogue: 0,1:14:01.23,1:14:07.67,Default,,0,0,0,,not ever a foregone conclusion. Like it's\Nstill surreal to me that it's as popular as
+Dialogue: 0,1:14:07.67,1:14:13.55,Default,,0,0,0,,it is. It's this great example of this like\Nunderdog technology within a big company where
+Dialogue: 0,1:14:13.55,1:14:18.04,Default,,0,0,0,,there could have been these forces that really\Npushed back on it. I think a lot of elements
+Dialogue: 0,1:14:18.04,1:14:24.31,Default,,0,0,0,,of good timing, good fortune, good luck, good\Nleadership support, all sort of like aggregated
+Dialogue: 0,1:14:24.31,1:14:31.74,Default,,0,0,0,,to allow React to be a success, that had we\Nmissed a few of those or had a handful more
+Dialogue: 0,1:14:31.74,1:14:36.55,Default,,0,0,0,,things failed instead of succeeded, then I\Ndo not think React would be in the spot that
+Dialogue: 0,1:14:36.55,1:14:42.84,Default,,0,0,0,,it is today. I feel like you can't take anyone\Nout of it and have it be what it became. I
+Dialogue: 0,1:14:42.84,1:14:46.55,Default,,0,0,0,,think in the early days obviously Jordan,\Nright. Like this thing wouldn't exist. And
+Dialogue: 0,1:14:46.55,1:14:51.56,Default,,0,0,0,,then Jing Chen just absolutely critical. I\Nmean she was so instrumental in the early
+Dialogue: 0,1:14:51.56,1:14:56.07,Default,,0,0,0,,days of React that it just wouldn't have been\Na thing that we cared about if it didn't prove
+Dialogue: 0,1:14:56.07,1:15:03.44,Default,,0,0,0,,itself. And then Shane O'Sullivan is responsible\Nfor you know really I mean a very hard decision
+Dialogue: 0,1:15:03.44,1:15:07.77,Default,,0,0,0,,to like I'm gonna go this path instead of\Nthat thing. And then the engineers that worked
+Dialogue: 0,1:15:07.77,1:15:12.00,Default,,0,0,0,,on refining and iterating on it and turning\Nit into something good it was Chedeau and
+Dialogue: 0,1:15:12.00,1:15:16.60,Default,,0,0,0,,Paul O'Shannessy and Pete Hunt. And my manager\NAdam Wolff, when I was like you know asking
+Dialogue: 0,1:15:16.60,1:15:20.86,Default,,0,0,0,,all these questions about like should we be\Ndoing, like is this even worth it, especially
+Dialogue: 0,1:15:20.86,1:15:24.78,Default,,0,0,0,,after JS conf when we were feeling defeated,\Nyou know, he was there to pick me back up
+Dialogue: 0,1:15:24.78,1:15:29.52,Default,,0,0,0,,and be like: no look it is delivering value,\Nthis is good, keep going. And there's different
+Dialogue: 0,1:15:29.52,1:15:34.15,Default,,0,0,0,,phases too right, you have the early, early\Ndays and you had the like for the next literally
+Dialogue: 0,1:15:34.15,1:15:40.30,Default,,0,0,0,,almost we're going on 10 years now, with Sebastian's\Ntechnical leadership and Andrew and Dan and
+Dialogue: 0,1:15:40.30,1:15:46.83,Default,,0,0,0,,Dominic and Flarney and Sophie and I just\Nfeel like it's just a group of incredible
+Dialogue: 0,1:15:46.83,1:15:53.15,Default,,0,0,0,,people and if you take any of them out of\Nit it just looks pretty different. It was
+Dialogue: 0,1:15:53.15,1:15:58.87,Default,,0,0,0,,really a team effort, it was really a team\Neffort from the very beginning.
+Dialogue: 0,1:15:59.28,1:16:06.07,Default,,0,0,0,,[Music]
+Dialogue: 0,1:16:06.07,1:16:12.67,Default,,0,0,0,,Misko Hevery says that awesome solutions\Nare rarely created by large organizations.
+Dialogue: 0,1:16:12.67,1:16:19.28,Default,,0,0,0,,It's almost always one person with passion\Nand vision that slowly start to infect others.
+Dialogue: 0,1:16:19.28,1:16:25.37,Default,,0,0,0,,This is a great summary of how React became\NReact. Because it was never inevitable, it
+Dialogue: 0,1:16:25.37,1:16:31.60,Default,,0,0,0,,was always this wild idea that kept gathering\Nmomentum, person by person. And many expected
+Dialogue: 0,1:16:31.60,1:16:37.88,Default,,0,0,0,,React to fail and if it weren't for the hard\Nwork of a few determined developers
+Dialogue: 0,1:16:37.88,1:16:39.84,Default,,0,0,0,,it very well could have.
+Dialogue: 0,1:16:43.02,1:16:48.63,Default,,0,0,0,,This is just the beginning of the React story.\NThe story of how a community transformed an
+Dialogue: 0,1:16:48.63,1:16:53.97,Default,,0,0,0,,underdog UI library into the most popular\NJavaScript framework today.
+Dialogue: 0,1:16:56.76,1:16:59.16,Default,,0,0,0,,This is React Podcast, I'm Chantastic.
+Dialogue: 0,1:16:59.72,1:17:21.53,Default,,0,0,0,,[Music]
+Dialogue: 0,1:17:32.19,1:17:37.96,Default,,0,0,0,,I'm like so tempted to just surprise FaceTime\NJordan right now be like: interview!
+Dialogue: 0,1:17:38.46,1:17:43.72,Default,,0,0,0,,It's just really strange to think that you're just\Nso close to death.
+Dialogue: 0,1:17:43.72,1:17:47.60,Default,,0,0,0,,The first React T-shirt that we made.
+Dialogue: 0,1:17:48.71,1:17:54.01,Default,,0,0,0,,Thousands of developers find jobs across Europe\Nusing Honeypot. If you're up for a new challenge
+Dialogue: 0,1:17:54.01,1:18:00.35,Default,,0,0,0,,in one of these European cities, sign up at\Nhoneypot.io. If you want to see more tech
+Dialogue: 0,1:18:00.35,1:18:03.54,Default,,0,0,0,,documentaries then subscribe so you don't\Nmiss the next one.
