@@ -16,9 +16,9 @@ Video File: React.js_ The Documentary.mp4
 Video AR Mode: 4
 Video AR Value: 2.000000
 Video Zoom Percent: 0.750000
-Scroll Position: 470
-Active Line: 477
-Video Position: 71277
+Scroll Position: 489
+Active Line: 500
+Video Position: 74374
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -503,30 +503,29 @@ Dialogue: 0,0:47:02.57,0:47:12.82,Default,,0,0,0,,我记得当时团队里的一
 Dialogue: 0,0:47:12.90,0:47:19.60,Default,,0,0,0,,我们相信React是有价值的技术，我个人坚信这一点\Nwe knew that this was good technology and I was so sure of that that um
 Dialogue: 0,0:47:20.22,0:47:26.54,Default,,0,0,0,,我认为这是一个宣传问题，也就是我们需要改变我们宣传React的策略\Nyou know I viewed it as just a a messaging problem you know okay we gotta
 Dialogue: 0,0:47:26.58,0:47:31.07,Default,,0,0,0,,人们现在还不能理解React的作用，我们需要帮助他们理解\Ncrack how we message this to people because they don't get it and we have to figure out how to how to bring them there
-Dialogue: 0,0:47:31.04,0:47:35.79,Default,,0,0,0,,The open source feels like a milestone\Nand it feels like this is the end. But in
-Dialogue: 0,0:47:35.79,0:47:39.76,Default,,0,0,0,,practice it is just the beginning. Because\Nwhen you open source you actually have zero
-Dialogue: 0,0:47:39.76,0:47:45.32,Default,,0,0,0,,users, now you need to actually build a community,\Nget all of the bugs fixed, make sure it actually
-Dialogue: 0,0:47:45.32,0:47:50.98,Default,,0,0,0,,solves the use case for the people. And so\Nthis is like when the journey begins. We buckled
-Dialogue: 0,0:47:50.98,0:47:58.19,Default,,0,0,0,,down. And we also realized I think that really\Nwhen you have a project like this that's um
-Dialogue: 0,0:47:58.19,0:48:03.97,Default,,0,0,0,,different you have to convince people one\Nby one. So I think that's really what we focused on.
-Dialogue: 0,0:48:04.42,0:48:10.85,Default,,0,0,0,,And we learned a lot doing that. We learned\Nthat the ideas in React are solid, but really
-Dialogue: 0,0:48:10.85,0:48:14.79,Default,,0,0,0,,the ideas are not what people encounter when\Nthey adopt a framework. What they encounter
-Dialogue: 0,0:48:14.79,0:48:20.28,Default,,0,0,0,,are the docs and the error messages. What\Nthey need more than anything else when they
-Dialogue: 0,0:48:20.28,0:48:23.13,Default,,0,0,0,,adopt something is an incremental way of doing that.
-Dialogue: 0,0:48:23.74,0:48:26.03,Default,,0,0,0,,So the team got to work. They focused
-Dialogue: 0,0:48:26.03,0:48:31.12,Default,,0,0,0,,on spreading the knowledge of React one concept\Nat a time, one person at a time.
-Dialogue: 0,0:48:31.12,0:48:35.06,Default,,0,0,0,,Then an opportunity arose: another conference.
-Dialogue: 0,0:48:35.96,0:48:41.56,Default,,0,0,0,,Later the same year, thank goodness,\NPete gave a talk at JSconf EU.
-Dialogue: 0,0:48:41.56,0:48:46.02,Default,,0,0,0,,I had my desk over by the product\Ninfrastructure team. I was sitting next to
-Dialogue: 0,0:48:46.02,0:48:53.28,Default,,0,0,0,,Tomo and he's like, oh we're just like sponsoring\Nthis JSconf EU conference and we have to give
-Dialogue: 0,0:48:53.28,0:48:57.97,Default,,0,0,0,,a keynote and I don't want to give it. Because\NI think he was like he didn't want to go through
-Dialogue: 0,0:48:57.97,0:49:01.47,Default,,0,0,0,,all that stuff. Because you know after you\Ngive the talk like people go and yell at you
-Dialogue: 0,0:49:01.47,0:49:06.35,Default,,0,0,0,,after you get off stage and when you go to\Nthe happy hour and stuff. It's not the most
-Dialogue: 0,0:49:06.35,0:49:11.10,Default,,0,0,0,,pleasant thing in the world. And I was like,\NI'll do it! I'll take the free trip to Berlin
-Dialogue: 0,0:49:11.10,0:49:16.97,Default,,0,0,0,,and go give a talk at a conference. Hey I'm\NPete, I'm gonna talk to you about a library
-Dialogue: 0,0:49:16.97,0:49:23.63,Default,,0,0,0,,for creating user interfaces that we call\NReact. We open sourced this at JSconf US a
-Dialogue: 0,0:49:23.63,0:49:28.88,Default,,0,0,0,,couple months ago. And we got some kind of\Nsarcastic responses on Twitter, a little bit
-Dialogue: 0,0:49:28.88,0:49:34.93,Default,,0,0,0,,of snickering, that kind of thing. We weren't\Nreally communicating what we were doing so
+Dialogue: 0,0:47:31.12,0:47:35.48,Default,,0,0,0,,开源感觉上是一个里程碑，是项目的终点\NThe open source feels like a milestone and it feels like this is the end. 
+Dialogue: 0,0:47:35.52,0:47:39.76,Default,,0,0,0,,但实际上这只是开始，因为一开始你的用户数量是零\NBut in practice it is just the beginning. Because\Nwhen you open source you actually have zero
+Dialogue: 0,0:47:39.76,0:47:47.12,Default,,0,0,0,,你要开始建设一个社区，修复所有的bug，确保它能满足人们的使用场景\Nusers, now you need to actually build a community,\Nget all of the bugs fixed, make sure it actually solves the use case for the people. 
+Dialogue: 0,0:47:47.16,0:47:49.68,Default,,0,0,0,,真正的旅程由此开始\NAnd so this is like when the journey begins. 
+Dialogue: 0,0:47:49.80,0:47:59.09,Default,,0,0,0,,我们准备大干一场，我们也意识到当你的项目如此特别的时候\NWe buckled down. And we also realized I think that really when you have a project like this that's um different 
+Dialogue: 0,0:47:59.14,0:48:03.97,Default,,0,0,0,,你需要一对一地去争取支持者，这也成了我们接下来工作的重点\Nyou have to convince people one\Nby one. So I think that's really what we focused on.
+Dialogue: 0,0:48:04.42,0:48:09.90,Default,,0,0,0,,我们从中学到了很多，我们确信React框架的思想是先进的\NAnd we learned a lot doing that. We learned that the ideas in React are solid, 
+Dialogue: 0,0:48:10.04,0:48:14.14,Default,,0,0,0,,但是当人们考虑采用一个新框架的时候，首先遇到的不是框架思想\Nbut really the ideas are not what people encounter when they adopt a framework. 
+Dialogue: 0,0:48:14.18,0:48:23.13,Default,,0,0,0,,他们首先遇到的是文档和错误提示，他们最最需要的是一种能够逐渐接纳这个框架的方式，而非一蹴而就\NWhat they encounter are the docs and the error messages. What\Nthey need more than anything else when they adopt something is an incremental way of doing that.
+Dialogue: 0,0:48:23.74,0:48:25.36,Default,,0,0,0,,计策已定，团队成员们忙活了起来\NSo the team got to work. 
+Dialogue: 0,0:48:25.54,0:48:31.12,Default,,0,0,0,,他们开始专注于一次一人，一次一地，一次一个概念地传播React\NThey focused on spreading the knowledge of React one concept\Nat a time, one person at a time.
+Dialogue: 0,0:48:31.12,0:48:35.06,Default,,0,0,0,,接着机会来了，另一个JS会议到了\NThen an opportunity arose: another conference.
+Dialogue: 0,0:48:35.96,0:48:41.56,Default,,0,0,0,,React开源当年的晚些时候，谢天谢地，Pete在JSConf EU做了另一次努力\NLater the same year, thank goodness,\NPete gave a talk at JSconf EU.
+Dialogue: 0,0:48:41.56,0:48:46.40,Default,,0,0,0,,当时我的工位挨着产品基础团队，\NI had my desk over by the product\Ninfrastructure team. I was sitting next to Tomo 
+Dialogue: 0,0:48:46.44,0:48:52.20,Default,,0,0,0,,我听到旁边的Tomo说我们资助了JSConf EU，\Nand he's like, oh we're just like sponsoring\Nthis JSconf EU conference 
+Dialogue: 0,0:48:52.28,0:48:55.80,Default,,0,0,0,,现在我们要在会上做一次演讲，好烦不想做\Nand we have to give a keynote and I don't want to give it. Because
+Dialogue: 0,0:48:55.96,0:49:05.02,Default,,0,0,0,,我觉得他是不想重温噩梦: 当你做了一次演讲之后本来准备放松一下，却被台下的观众针对\N I think he was like he didn't want to go through all that stuff. Because you know after you\Ngive the talk like people go and yell at you after you get off stage and when you go to\Nthe happy hour and stuff.
+Dialogue: 0,0:49:05.20,0:49:07.46,Default,,0,0,0,,这种经历并不好受\NIt's not the most pleasant thing in the world.
+Dialogue: 0,0:49:07.64,0:49:13.80,Default,,0,0,0,,我表示：我来！免费去柏林的机票给我，我去在会上做演讲\NAnd I was like, I'll do it! I'll take the free trip to Berlin and go give a talk at a conference. 
+Dialogue: 0,0:49:13.86,0:49:19.67,Default,,0,0,0,,"嘿！我是Pete，我今天要谈的是一个我们叫做React的框架，我们用它构建用户界面"\NHey I'm Pete, I'm gonna talk to you about a library for creating user interfaces that we call React. 
+Dialogue: 0,0:49:20.02,0:49:24.72,Default,,0,0,0,,几个月前我们在JSConf US会议上开源了这个库\NWe open sourced this at JSconf US a couple months ago. 
+Dialogue: 0,0:49:24.78,0:49:30.54,Default,,0,0,0,,在推特上我们收获了一些嘲讽和恶搞\NAnd we got some kind of sarcastic responses on Twitter, a little bit of snickering, that kind of thing. 
+Dialogue: 0,0:49:30.68,0:49:34.30,Default,,0,0,0,,原因在于我们没有很好解释React的设计哲学\NWe weren't really communicating what we were doing so
 Dialogue: 0,0:49:34.93,0:49:39.98,Default,,0,0,0,,I'd like to talk to you today about the design\Ndecisions around React, what we're doing differently
 Dialogue: 0,0:49:39.98,0:49:45.40,Default,,0,0,0,,than other Frameworks and kind of the implementation\Nthat lets us make these decisions and make them really fast.
 Dialogue: 0,0:49:45.96,0:49:49.07,Default,,0,0,0,,For this talk it was like,\Nhere's what makes React different.
