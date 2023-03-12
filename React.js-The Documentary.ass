@@ -16,9 +16,9 @@ Video File: React.js_ The Documentary.mp4
 Video AR Mode: 4
 Video AR Value: 2.000000
 Video Zoom Percent: 0.750000
-Scroll Position: 655
-Active Line: 670
-Video Position: 101102
+Scroll Position: 668
+Active Line: 683
+Video Position: 103113
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -647,73 +647,69 @@ Dialogue: 0,1:01:23.42,1:01:32.23,Default,,0,0,0,,现在有人把这个logo做�
 Dialogue: 0,1:01:32.23,1:01:37.49,Default,,0,0,0,,这时我意识到React正在变成一种非常特别的东西\NThat was the moment when it dawned on me that\NReact was becoming something different, you know.
 Dialogue: 0,1:01:37.49,1:01:43.35,Default,,0,0,0,,之前的很长一段时间React对于我来说只是一个软件项目\NSo for a long time what React was to me was a software project and the reason why
 Dialogue: 0,1:01:43.35,1:01:46.81,Default,,0,0,0,,我想让人们采用它是因为我认为它会对人们开发的软件有益\NI wanted people to adopt it was because I really thought it would make their software
-Dialogue: 0,1:01:46.81,1:01:51.15,Default,,0,0,0,,会让开发更容易，会让他们值班的时候心情更好\Nbetter and make their lives better and make their on-call rotations better. 
-Dialogue: 0,1:01:51.15,1:01:53.94,Default,,0,0,0,,总之有很多理由我认为React会对人们有用\NThere are a lot of reasons why I thought it would help them. 
+Dialogue: 0,1:01:46.81,1:01:51.15,Default,,0,0,0,,会让开发更容易，会让他们值班的时候心情更好\Nbetter and make their lives better and make their on-call rotations better.
+Dialogue: 0,1:01:51.15,1:01:53.94,Default,,0,0,0,,总之有很多理由我认为React会对人们有用\NThere are a lot of reasons why I thought it would help them.
 Dialogue: 0,1:01:56.10,1:01:58.00,Default,,0,0,0,,但是这次会议之后，我意识到React正在变成一个社区，\NAfter that conference what I realized is that React was becoming a community.
-Dialogue: 0,1:01:58.28,1:02:05.34,Default,,0,0,0,,这次会议的下一周还有数次用户聚会，出席的人会更多，大家可以更深入地讨论之前会议提到的东西 \NThere were meetups that would happen the immediate next week that would have an expanded audience that they could go deeper into some of the  things that were discussed 
-Dialogue: 0,1:02:05.40,1:02:15.50,Default,,0,0,0,,React社区将成为React发展的重要力量，这对于我们来说是一种巨大的肯定，感觉非常棒\NIt was really, really cool and a huge recognition for us that the community was going to be an incredible part of what would make React work 
+Dialogue: 0,1:01:58.28,1:02:05.34,Default,,0,0,0,,这次会议的下一周还有数次用户聚会，出席的人会更多，大家可以更深入地讨论之前会议提到的东西 \NThere were meetups that would happen the immediate next week that would have an expanded audience that they could go deeper into some of the  things that were discussed
+Dialogue: 0,1:02:05.40,1:02:15.50,Default,,0,0,0,,React社区将成为React发展的重要力量，这对于我们来说是一种巨大的肯定，感觉非常棒\NIt was really, really cool and a huge recognition for us that the community was going to be an incredible part of what would make React work
 Dialogue: 0,1:02:15.92,1:02:21.13,Default,,0,0,0,,当然在此之前，社区的参与已经是React能够发展到那个程度的重要因素\Nand at that point was definitely already a really important part of what had gotten React to that point so far.
 Dialogue: 0,1:02:21.13,1:02:24.04,Default,,0,0,0,,[Music]
-Dialogue: 0,1:02:24.04,1:02:33.92,Default,,0,0,0,,我的总结是和开源社区交流互动比技术工作本身要重要，如果没有社区，就没有开源项目\NIt's proven to me that engaging with your open source community is actually more important than the technical work itself, like if you don't have a community you don't have an open source project. 
+Dialogue: 0,1:02:24.04,1:02:33.92,Default,,0,0,0,,我的总结是和开源社区交流互动比技术工作本身要重要，如果没有社区，就没有开源项目\NIt's proven to me that engaging with your open source community is actually more important than the technical work itself, like if you don't have a community you don't have an open source project.
 Dialogue: 0,1:02:34.20,1:02:37.07,Default,,0,0,0,,"我很高兴我们能够持续地思考最佳实践"\NI'm excited that we just continue rethinking best practices.
 Dialogue: 0,1:02:37.07,1:02:44.46,Default,,0,0,0,,"我想感谢这个社区，是社区让我们能够持续投入，持续改善，我说完了，谢谢！"\NI want to thank this community for making it possible for us to keep investing in this and keep working on it. That's all I got, thanks.
 Dialogue: 0,1:02:48.19,1:02:54.08,Default,,0,0,0,,我觉得这次会议对于我个人，团队，甚至整个Facebook工程师群体都是一个高光时刻\NIt was a real high point for, not just for me but for the team, and you know I think for Facebook engineering.
 Dialogue: 0,1:02:54.10,1:02:59.68,Default,,0,0,0,,我们不仅感到被认可\NI think we really felt like not just validated but like we were
-Dialogue: 0,1:02:59.68,1:03:05.72,Default,,0,0,0,,而且感到人们关心在意我们的工作，这种感觉非常非常好\Nactually like doing something that people cared about and it was a really, really good feeling. 
-Dialogue: 0,1:03:05.92,1:03:13.66,Default,,0,0,0,,当时Facebook内部已经更加广泛地使用了React，现在我们要考虑将所有东西都转为使用React\NIt was already like more widely used within the company but now it was like, okay how do we actually start converting everything to React, 
-Dialogue: 0,1:03:13.76,1:03:19.42,Default,,0,0,0,,取代和弃用其他所有框架，加大对React的投入\Nhow do we remove and deprecate all of the other frameworks and really like double down on React. 
-Dialogue: 0,1:03:19.42,1:03:21.10,Default,,0,0,0,,"嘿！最近怎样？"\NOh hey, how is it going? 
-Dialogue: 0,1:03:21.20,1:03:25.18,Default,,0,0,0,,React从一个有趣的项目变成了未来的趋势\NGoing from like an interesting product to this is the next big thing. 
+Dialogue: 0,1:02:59.68,1:03:05.72,Default,,0,0,0,,而且感到人们关心在意我们的工作，这种感觉非常非常好\Nactually like doing something that people cared about and it was a really, really good feeling.
+Dialogue: 0,1:03:05.92,1:03:13.66,Default,,0,0,0,,当时Facebook内部已经更加广泛地使用了React，现在我们要考虑将所有东西都转为使用React\NIt was already like more widely used within the company but now it was like, okay how do we actually start converting everything to React,
+Dialogue: 0,1:03:13.76,1:03:19.42,Default,,0,0,0,,取代和弃用其他所有框架，加大对React的投入\Nhow do we remove and deprecate all of the other frameworks and really like double down on React.
+Dialogue: 0,1:03:19.42,1:03:21.10,Default,,0,0,0,,"嘿！最近怎样？"\NOh hey, how is it going?
+Dialogue: 0,1:03:21.20,1:03:25.18,Default,,0,0,0,,React从一个有趣的项目变成了未来的趋势\NGoing from like an interesting product to this is the next big thing.
 Dialogue: 0,1:03:25.38,1:03:34.74,Default,,0,0,0,,能够参与这整个过程，推动整个公司都使用同一个框架，感觉非常棒\NSo it was a really amazing time to be around and to get the whole company working together as one, you know, to make this happen.
 Dialogue: 0,1:03:36.91,1:03:46.83,Default,,0,0,0,,让我瞧瞧，这里我放了一些收藏品，拿下来有点困难\NLet's see, I have some keepsakes up here, which will be not easy for me to get down
 Dialogue: 0,1:03:48.26,1:03:49.52,Default,,0,0,0,,拿下来了\Nbut.. Let's see.
 Dialogue: 0,1:03:49.56,1:03:56.74,Default,,0,0,0,,有一些贴纸，哦，这个很有意思，这是有史以来第一个React定制贴纸\NI have some stickers, oh this is a fun one, this is the first ever React die cut sticker.
-Dialogue: 0,1:03:56.74,1:04:02.60,Default,,0,0,0,,当时定制了一批这样的贴纸然后贴在我们的笔记本上，这是最后一个了，不舍得用\NWe ordered like a bunch of these and put them on our laptops and I never wanted to use the last one that I had. 
-Dialogue: 0,1:04:02.90,1:04:07.97,Default,,0,0,0,,这个是Facebook开源贴纸，这些东西对于一些人来说会勾起很多回忆\NFacebook open source stickers. Oh some of these will be a trip down memory lane for folks. 
-Dialogue: 0,1:04:09.92,1:04:15.88,Default,,0,0,0,,React Conf 2018贴纸，又是一个Facebook开源贴纸，这个不错\NReact conf. We made you know, 2018 Facebook open source it's a good one. 
-Dialogue: 0,1:04:16.38,1:04:25.30,Default,,0,0,0,,React Conf参会者徽章，这个是第一次在Facebook总部举行的React Conf的小册子\NReact conf attendee badge. This was a book from the original React.js conf at Facebook's headquarters 
-Dialogue: 0,1:04:25.50,1:04:31.92,Default,,0,0,0,,这里列出了演讲者名单，会议的日程安排，还有预告摘要\Nso this had a list of the speakers and the schedule and um here's the keynote. 
+Dialogue: 0,1:03:56.74,1:04:02.60,Default,,0,0,0,,当时定制了一批这样的贴纸然后贴在我们的笔记本上，这是最后一个了，不舍得用\NWe ordered like a bunch of these and put them on our laptops and I never wanted to use the last one that I had.
+Dialogue: 0,1:04:02.90,1:04:07.97,Default,,0,0,0,,这个是Facebook开源贴纸，这些东西对于一些人来说会勾起很多回忆\NFacebook open source stickers. Oh some of these will be a trip down memory lane for folks.
+Dialogue: 0,1:04:09.92,1:04:15.88,Default,,0,0,0,,React Conf 2018贴纸，又是一个Facebook开源贴纸，这个不错\NReact conf. We made you know, 2018 Facebook open source it's a good one.
+Dialogue: 0,1:04:16.38,1:04:25.30,Default,,0,0,0,,React Conf参会者徽章，这个是第一次在Facebook总部举行的React Conf的小册子\NReact conf attendee badge. This was a book from the original React.js conf at Facebook's headquarters
+Dialogue: 0,1:04:25.50,1:04:31.92,Default,,0,0,0,,这里列出了演讲者名单，会议的日程安排，还有预告摘要\Nso this had a list of the speakers and the schedule and um here's the keynote.
 Dialogue: 0,1:04:33.40,1:04:45.32,Default,,0,0,0,,提到了我和Christopher，我们制作了各种各样的挂饰和其他东西，都是好东西，都是好回忆\NMe and Christopher Chedeau. We had all sorts of swag made and a bunch of other stuff.. So pretty good stuff, pretty good memories.
 Dialogue: 0,1:04:45.32,1:04:52.54,Default,,0,0,0,,接着React团队收到了来自社区的超多问题，应接不暇，同时一位新的开发者进入了React的发展轨迹\NThe team became inundated with questions from\Nthe community and a new developer enters React's orbit.
 Dialogue: 0,1:04:53.08,1:05:12.20,Default,,0,0,0,,[Music]
 Dialogue: 0,1:05:12.76,1:05:15.54,Default,,0,0,0,,我说话的时候手要怎么放？\NWhat should I do with my hands?
 Dialogue: 0,1:05:17.44,1:05:23.18,Default,,0,0,0,,所以我应该怎样开始来着...让我缓缓...So you're saying that I should actually uh start like uh.. Let me focus for a second.
 Dialogue: 0,1:05:23.24,1:05:28.25,Default,,0,0,0,,首先声明，我没有发明React，React的发明者是Jordan Walke\NJust for the record, I did not create React, React was created by Jordan Walke.
-Dialogue: 0,1:05:29.75,1:05:35.48,Default,,0,0,0,,2014年我在一个小的创业公司工作，我们当时正在创建一个数字出版平台\NI worked at a small startup. We were creating a sort a digital publishing platform 
-Dialogue: 0,1:05:35.52,1:05:43.54,Default,,0,0,0,,其中有一个非常复杂的海报编辑器，需要支持不同的区块，可滑动的带有不同特效的文字等等\Nof so there was a really complex post editor with different blocks or like a scrollable text with like different effects and stuff. 
+Dialogue: 0,1:05:29.75,1:05:35.48,Default,,0,0,0,,2014年我在一个小的创业公司工作，我们当时正在创建一个数字出版平台\NI worked at a small startup. We were creating a sort a digital publishing platform
+Dialogue: 0,1:05:35.52,1:05:43.54,Default,,0,0,0,,其中有一个非常复杂的海报编辑器，需要支持不同的区块，可滑动的带有不同特效的文字等等\Nof so there was a really complex post editor with different blocks or like a scrollable text with like different effects and stuff.
 Dialogue: 0,1:05:43.78,1:05:51.06,Default,,0,0,0,,创建一个支持这些功能的动态交互编辑器非常困难，当时用的技术是Backbone\NAnd so creating a dynamic kind of interactive editor for for these things was really difficult. And were doing it with Backbone.
-Dialogue: 0,1:05:51.16,1:05:54.82,Default,,0,0,0,,我有点想用React尝试一下，因为理论上React可以解决这个问题\NI kind of wanted to give React a try because it was supposed to solve this problem. 
+Dialogue: 0,1:05:51.16,1:05:54.82,Default,,0,0,0,,我有点想用React尝试一下，因为理论上React可以解决这个问题\NI kind of wanted to give React a try because it was supposed to solve this problem.
 Dialogue: 0,1:05:55.00,1:05:59.18,Default,,0,0,0,,我写的第一个React组件是一个喜欢按钮\NThe first React component I wrote was a like button so it was just like
-Dialogue: 0,1:05:59.18,1:06:08.16,Default,,0,0,0,,点击之后它会反馈你点击了喜欢，或者你和其他什么人点击了喜欢，或者你和其他40个人点击了喜欢之类的\Na button you click it and it says like you like this or you and somebody like this or you and like 40 others like this. 
-Dialogue: 0,1:06:08.22,1:06:20.70,Default,,0,0,0,,这个组件用到了一点点逻辑的拆分，之前如果是用其他框架，你需要弄清楚什么变了并手动处理更新\NSo there was a bit of like a split in logic, and then the way you would express this in other Frameworks at the time, you had to kind of manually watch what's changed and update it. 
+Dialogue: 0,1:05:59.18,1:06:08.16,Default,,0,0,0,,点击之后它会反馈你点击了喜欢，或者你和其他什么人点击了喜欢，或者你和其他40个人点击了喜欢之类的\Na button you click it and it says like you like this or you and somebody like this or you and like 40 others like this.
+Dialogue: 0,1:06:08.22,1:06:20.70,Default,,0,0,0,,这个组件用到了一点点逻辑的拆分，之前如果是用其他框架，你需要弄清楚什么变了并手动处理更新\NSo there was a bit of like a split in logic, and then the way you would express this in other Frameworks at the time, you had to kind of manually watch what's changed and update it.
 Dialogue: 0,1:06:20.72,1:06:23.54,Default,,0,0,0,,用React的话你只需说明，当无人喜欢的时候显示这个\NAnd in React you could just say, if nobody liked this show
 Dialogue: 0,1:06:23.54,1:06:30.00,Default,,0,0,0,,如果一人喜欢显示这个，否则显示这个，写这种逻辑用React非常自然\Nthis, if one person like this, show this, otherwise show this and like it's a very natural way to write this kind of code.
-Dialogue: 0,1:06:30.20,1:06:35.12,Default,,0,0,0,,And yeah I just wrote that button and I was like yeah that looks good, ship it. 
-Dialogue: 0,1:06:35.14,1:06:44.84,Default,,0,0,0,,And so we actually rewrote the entire app in React over the course of like 9 months while still shipping new features. 
-Dialogue: 0,1:06:44.92,1:06:55.52,Default,,0,0,0,,So React sped up our development so much that we were able to add new features faster, at the same time as we were replacing old features, that's why I really kind of fell in love with it.
-Dialogue: 0,1:06:57.91,1:07:02.84,Default,,0,0,0,,A lot of things didn't exist back then. Like there was no such thing as a React ecosystem.
-Dialogue: 0,1:07:02.84,1:07:08.40,Default,,0,0,0,,So if you needed something, it didn't exist,\Nyou'd have to write it. So like you'd have
-Dialogue: 0,1:07:08.40,1:07:13.26,Default,,0,0,0,,to figure out how to do it because otherwise\Nyou're not going to have a product, right.
-Dialogue: 0,1:07:13.26,1:07:18.09,Default,,0,0,0,,So that's kind of what I did for a bunch of things. One of those projects in particular
-Dialogue: 0,1:07:18.09,1:07:23.02,Default,,0,0,0,,was.. I just saw a big opportunity there.
-Dialogue: 0,1:07:24.07,1:07:26.56,Default,,0,0,0,,It was called React Hot Loader at the time.
-Dialogue: 0,1:07:26.56,1:07:31.75,Default,,0,0,0,,So I wanted to give a talk about that, but\Nsomebody else had done a talk that mentioned
-Dialogue: 0,1:07:31.75,1:07:36.76,Default,,0,0,0,,it earlier at React conf. A really clever\Nfellow called Dan Abramov figured this out
-Dialogue: 0,1:07:36.76,1:07:42.04,Default,,0,0,0,,and he created the React Hot Loader. And I\Nfelt that well then that just wouldn't be
-Dialogue: 0,1:07:42.04,1:07:46.21,Default,,0,0,0,,interesting because people kind of already\Nsaw it which in retrospect I don't think it
-Dialogue: 0,1:07:46.21,1:07:50.35,Default,,0,0,0,,would be true but that's how I saw it at the\Ntime. So I wanted to kind of spice it up a
-Dialogue: 0,1:07:50.35,1:07:55.96,Default,,0,0,0,,little bit and I wanted to make a proof of\Nconcept of a thing I saw in a Bret Victor
-Dialogue: 0,1:07:55.96,1:08:02.20,Default,,0,0,0,,demo that is often referred to as time traveling.\NIf you're designing something embedded in
-Dialogue: 0,1:08:02.20,1:08:06.63,Default,,0,0,0,,time, you need to be able to control time,\Nyou need to be able to see across time, otherwise
-Dialogue: 0,1:08:06.63,1:08:11.39,Default,,0,0,0,,you're designing blind. I didn't really know\Nhow to do it but I thought that's a cool idea
-Dialogue: 0,1:08:11.39,1:08:16.81,Default,,0,0,0,,for a talk. So I'm gonna send the proposal\Nif the proposal is successful then I'll just
-Dialogue: 0,1:08:16.81,1:08:20.54,Default,,0,0,0,,figure it out. And it turned out that the\Nproposal was more successful than I thought
-Dialogue: 0,1:08:20.54,1:08:25.60,Default,,0,0,0,,it would be and so I made a proof of concept\Nfor that and that proof of concept became
-Dialogue: 0,1:08:25.60,1:08:26.92,Default,,0,0,0,,known as Redux.
-Dialogue: 0,1:08:28.64,1:08:33.26,Default,,0,0,0,,So my talk is about developer\Ntools because React and Hot Loading and time
-Dialogue: 0,1:08:33.27,1:08:39.96,Default,,0,0,0,,travel these are all developer tools. He was\Nliterally creating Redux in service of being
-Dialogue: 0,1:08:39.96,1:08:44.85,Default,,0,0,0,,able to deliver this talk and I called it\Npresentation driven development because the
-Dialogue: 0,1:08:44.85,1:08:49.54,Default,,0,0,0,,thing that shook out of it was you know this\Nsort of like canonical state management library
+Dialogue: 0,1:06:30.20,1:06:35.12,Default,,0,0,0,,我写完这个按钮组件后觉得不错，就上生产了\NAnd yeah I just wrote that button and I was like yeah that looks good, ship it.
+Dialogue: 0,1:06:35.14,1:06:44.84,Default,,0,0,0,,之后的9个月我们用React重写了整个应用，与此同时还添加了新功能\NAnd so we actually rewrote the entire app in React over the course of like 9 months while still shipping new features.
+Dialogue: 0,1:06:44.92,1:06:55.52,Default,,0,0,0,,React加快了我们的开发以至于我们可以在添加新功能的时候还可以替换掉旧功能，由此我爱上了React\NSo React sped up our development so much that we were able to add new features faster, at the same time as we were replacing old features, that's why I really kind of fell in love with it.
+Dialogue: 0,1:06:57.91,1:07:02.84,Default,,0,0,0,,很多现在所谓的React生态当时还不存在\NA lot of things didn't exist back then. Like there was no such thing as a React ecosystem.
+Dialogue: 0,1:07:02.84,1:07:10.18,Default,,0,0,0,,所以如果你需要的东西不存在，你就得自己琢磨着自己实现\NSo if you needed something, it didn't exist, you'd have to write it. So like you'd have to figure out how to do it 
+Dialogue: 0,1:07:10.24,1:07:13.26,Default,,0,0,0,,否则你的产品就做不成\Nbecause otherwise you're not going to have a product, right.
+Dialogue: 0,1:07:13.26,1:07:26.56,Default,,0,0,0,,当时我做的几个项目都是出于这个原因，特别是其中一个叫做React Hot Loader的项目，因为这块存在空白，所以我抓住了机会\NSo that's kind of what I did for a bunch of things. One of those projects in particular was.. I just saw a big opportunity there. It was called React Hot Loader at the time.
+Dialogue: 0,1:07:26.56,1:07:33.76,Default,,0,0,0,,我想以此项目为主题做一次会议演讲，但是之前已经有人在React会议上提到了这个项目\NSo I wanted to give a talk about that, but somebody else had done a talk that mentioned it earlier at React conf.
+Dialogue: 0,1:07:33.92,1:07:40.46,Default,,0,0,0,,"有一个非常聪明的小伙叫Dan，他用React Hot Loader解决了这个问题"\NA really clever fellow called Dan Abramov figured this out and he created the React Hot Loader. 
+Dialogue: 0,1:07:40.62,1:07:44.76,Default,,0,0,0,,我感觉如果再讲这个项目就没意思了，因为人们已经知道了\NAnd I felt that well then that just wouldn't be interesting because people kind of already\Nsaw it 
+Dialogue: 0,1:07:44.82,1:07:48.88,Default,,0,0,0,,现在回头看倒是未必，但是我当时是如此认为的\Nwhich in retrospect I don't think it would be true but that's how I saw it at the time. 
+Dialogue: 0,1:07:49.00,1:07:53.84,Default,,0,0,0,,不管怎样，当时我想做出点不一样的东西来做为演讲主题\NSo I wanted to kind of spice it up a little bit and I wanted to make a proof of concept of a thing 
+Dialogue: 0,1:07:53.92,1:07:59.26,Default,,0,0,0,,我注意到此前在Bret Victor的demo里面经常提到一个叫做"时间穿梭"的概念\NI saw in a Bret Victor demo that is often referred to as time traveling.
+Dialogue: 0,1:08:00.34,1:08:05.90,Default,,0,0,0,,"如果你要设计一个嵌入在时间里的东西，你就需要能够控制时间，你需要能够跨越时间观察"\NIf you're designing something embedded in time, you need to be able to control time,\Nyou need to be able to see across time, 
+Dialogue: 0,1:08:06.04,1:08:07.96,Default,,0,0,0,,"否则你就是蒙着眼睛在设计"\Notherwise you're designing blind. 
+Dialogue: 0,1:08:08.44,1:08:12.06,Default,,0,0,0,,当时我还不知道怎么实现"时间穿梭"，但是我觉得这个话题做为演讲主题非常酷\NI didn't really know how to do it but I thought that's a cool idea for a talk. 
+Dialogue: 0,1:08:12.06,1:08:17.66,Default,,0,0,0,,我决定先写一个演讲提议，如果提议得到接受我再去弄清楚如何实现\NSo I'm gonna send the proposal if the proposal is successful then I'll just figure it out. 
+Dialogue: 0,1:08:17.70,1:08:21.18,Default,,0,0,0,,结果提议比我想的要成功\NAnd it turned out that the proposal was more successful than I thought it would be 
+Dialogue: 0,1:08:21.24,1:08:26.92,Default,,0,0,0,,所以我写了这个提议的概念性验证(poc)，这份概念性验证后面发展成为Redux\Nand so I made a proof of concept for that and that proof of concept became known as Redux.
+Dialogue: 0,1:08:28.64,1:08:35.66,Default,,0,0,0,,"所以我的演讲是关于开发者工具的，因为React，热重载，时间穿梭都是开发者工具"\NSo my talk is about developer tools because React and Hot Loading and time travel these are all developer tools. 
+Dialogue: 0,1:08:35.84,1:08:44.38,Default,,0,0,0,,他当时就是为了能够有一次好的演讲而创造了Redux，我把这个叫做PDD(演讲驱动式开发)\NHe was literally creating Redux in service of being able to deliver this talk and I called it presentation driven development 
+Dialogue: 0,1:08:44.50,1:08:49.54,Default,,0,0,0,,because the thing that shook out of it was you know this\Nsort of like canonical state management library
 Dialogue: 0,1:08:49.54,1:08:54.75,Default,,0,0,0,,for React apps for several years. Most of\Nmy work is around the React ecosystem because
 Dialogue: 0,1:08:54.75,1:08:59.77,Default,,0,0,0,,that's what inspired me to contribute to the\Nopen source in the first place, but there
 Dialogue: 0,1:08:59.77,1:09:06.12,Default,,0,0,0,,are two particular projects that I'm going\Nto talk about today. It was very validating
