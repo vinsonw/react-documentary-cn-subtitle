@@ -15,28 +15,29 @@ Audio File: React.js_ The Documentary.mp4
 Video File: React.js_ The Documentary.mp4
 Video AR Mode: 4
 Video AR Value: 2.000000
-Video Zoom Percent: 0.625000
-Scroll Position: 746
-Active Line: 759
-Video Position: 116690
+Video Zoom Percent: 0.500000
+Scroll Position: 777
+Active Line: 781
+Video Position: 115143
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,思源黑体 CN Heavy,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,7,1
+Style: 2nd,思源黑体 CN Heavy,70,&H05FBDA61,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,8,10,10,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.68,0:00:23.42,Default,,0,0,0,,[开场音乐]
-Dialogue: 0,0:00:23.72,0:00:32.66,Default,,0,0,0,,收音检查1, 2...1, 2, 3, 4...敏捷的棕色狐狸跳过了懒狗...\NCheck 1,2 Check 1,2 1,2,3,4 The quick brown fox jumps over the lazy dog
+Dialogue: 0,0:00:23.72,0:00:31.22,Default,,0,0,0,,收音检查1, 2...1, 2, 3, 4...敏捷的棕色狐狸跳过了懒狗...\NCheck 1,2 Check 1,2 1,2,3,4 The quick brown fox jumps over the lazy dog
 Dialogue: 0,0:00:33.12,0:00:36.54,Default,,0,0,0,,这里是React播客，我是小钱\NThis is react podcast I'm chantastic
-Dialogue: 0,0:00:36.72,0:00:42.66,Default,,0,0,0,,今天我们逆溯时光，回到React的起源\Ntoday we're going back, way back, back to the beginning of react
+Dialogue: 0,0:00:36.72,0:00:42.00,Default,,0,0,0,,今天我们逆溯时光，回到React的起源\Ntoday we're going back, way back, back to the beginning of react
 Dialogue: 0,0:00:42.66,0:00:45.23,Default,,0,0,0,,10年以后的今天回顾React的发展\N10 years in the rear view mirror it may
-Dialogue: 0,0:00:45.23,0:00:47.52,Default,,0,0,0,,感觉React的成功似乎是注定的\Nfeel like react was always going to
-Dialogue: 0,0:00:47.52,0:00:52.80,Default,,0,0,0,,毕竟这是一个由Facebook推出的明星框架，光环加身，似乎不可能失败\Nsucceed did a framework by Facebook was too big to fail but this isn't that kind
-Dialogue: 0,0:00:52.80,0:00:55.37,Default,,0,0,0,,但今天的故事会告诉你事情并没有那么简单\Nof story in fact there were many times
-Dialogue: 0,0:00:55.37,0:01:00.80,Default,,0,0,0,,事实上在React发展历程的很多时间点，这个框架都看起来要失败\Nin reacts history where it seemed like it wasn't going to succeed at all
-Dialogue: 0,0:01:00.80,0:01:07.43,Default,,0,0,0,,所以10年间到底发生了什么，让React从被人嫌弃到大受欢迎\Nso what happened how did react go in 10 years from looking Dead on Arrival to
-Dialogue: 0,0:01:07.43,0:01:12.11,Default,,0,0,0,,乃至成为今天居于统治地位的JavaScript框架\Nbecoming the dominant front-end JavaScript framework that it is today
+Dialogue: 0,0:00:45.23,0:00:47.66,Default,,0,0,0,,感觉React的成功似乎是注定的\Nfeel like react was always going to
+Dialogue: 0,0:00:47.68,0:00:51.48,Default,,0,0,0,,毕竟这是一个由Facebook推出的明星框架，光环加身，似乎不可能失败\Nsucceed did a framework by Facebook was too big to fail
+Dialogue: 0,0:00:51.62,0:00:54.30,Default,,0,0,0,,但今天的故事会告诉你事情并没有那么简单\Nbut this isn't that kind of story in fact there were many times
+Dialogue: 0,0:00:54.30,0:01:00.80,Default,,0,0,0,,事实上在React发展历程的很多时间点，这项技术都看起来要失败\Nin reacts history where it seemed like it wasn't going to succeed at all
+Dialogue: 0,0:01:00.80,0:01:06.92,Default,,0,0,0,,所以10年间到底发生了什么，让React从被人嫌弃到大受欢迎\Nso what happened how did react go in 10 years from looking Dead on Arrival to
+Dialogue: 0,0:01:07.18,0:01:12.11,Default,,0,0,0,,乃至成为今天居于统治地位的JavaScript框架\Nbecoming the dominant front-end JavaScript framework that it is today
 Dialogue: 0,0:01:12.11,0:01:14.78,Default,,0,0,0,,故事要从2011年的Facebook讲起\Nit starts at Facebook in 2011
 Dialogue: 0,0:01:14.80,0:01:17.82,Default,,0,0,0,,jQuery和Backbone在前端领域正如日中天\NjQuery and backbone are dominating front-end
 Dialogue: 0,0:01:17.82,0:01:24.36,Default,,0,0,0,,但是更富有自己独特哲学的工具，比如Ember, Angular, Knockout已经出道\NJavaScript but more opinionated tools like Ember angular knockout are already on the scene
@@ -44,77 +45,96 @@ Dialogue: 0,0:01:24.44,0:01:28.02,Default,,0,0,0,,在技术宅之外的世界中
 Dialogue: 0,0:01:28.40,0:01:30.84,Default,,0,0,0,,《Call me maybe》是第一热歌\NYouTube Call Me Maybe is topping the charts
 Dialogue: 0,0:01:30.86,0:01:35.40,Default,,0,0,0,,当时最新的迷因是过于黏人的女朋友\Nand the freshest meme is the overly attached girlfriend in Internet
 Dialogue: 0,0:01:35.40,0:01:37.86,Default,,0,0,0,,也就是说按照互联网纪年，从React诞生到现在，一个永恒已经过去了\Nyears it's basically been an eternity
-Dialogue: 0,0:01:38.08,0:01:45.78,Default,,0,0,0,,那么让我们系好安全带，留足时间，打开勿扰模式，观赏下面这个精彩的的菜狗逆袭故事\Nso strap in set yourself away enable that do not disturb because this is quite the Underdog Story
+Dialogue: 0,0:01:38.00,0:01:45.78,Default,,0,0,0,,那么让我们系好安全带，留足时间，打开勿扰模式，观赏下面这个精彩的的菜狗逆袭故事\Nso strap in set yourself away enable that do not disturb because this is quite the Underdog Story
 Dialogue: 0,0:01:45.78,0:01:55.44,Default,,0,0,0,,
+Dialogue: 0,0:01:47.92,0:01:50.02,2nd,,0,0,0,,《React纪录片》
+Dialogue: 0,0:01:51.12,0:01:52.68,2nd,,0,0,0,,@Sebastian
+Dialogue: 0,0:01:54.52,0:01:55.86,2nd,,0,0,0,,@Shane
 Dialogue: 0,0:01:56.02,0:01:59.16,Default,,0,0,0,,我发现这个摄像机有个红色提示灯，这个没有\NI think this camera has a red light, but this one doesn't
-Dialogue: 0,0:01:59.16,0:01:59.17,Default,,0,0,0,,[Applause]
-Dialogue: 0,0:01:59.17,0:02:02.23,Default,,0,0,0,,[Music]
+Dialogue: 0,0:01:56.22,0:01:58.40,2nd,,0,0,0,,@Sophie
+Dialogue: 0,0:01:59.16,0:01:59.17,Default,,0,0,0,,
+Dialogue: 0,0:01:59.14,0:02:00.34,2nd,,0,0,0,,@Lee
+Dialogue: 0,0:02:00.58,0:02:03.34,2nd,,0,0,0,,@Tom
+Dialogue: 0,0:01:59.17,0:02:02.23,Default,,0,0,0,,
 Dialogue: 0,0:02:03.02,0:02:06.42,Default,,0,0,0,,把这个挂在衣服上就行\Njust keep it on with this
+Dialogue: 0,0:02:08.58,0:02:10.94,2nd,,0,0,0,,@Adam
+Dialogue: 0,0:02:11.34,0:02:13.42,2nd,,0,0,0,,@Christopher
+Dialogue: 0,0:02:13.68,0:02:16.10,2nd,,0,0,0,,@Pete
+Dialogue: 0,0:02:16.10,0:02:17.28,2nd,,0,0,0,,@Dan
 Dialogue: 0,0:02:06.42,0:02:10.45,Default,,0,0,0,,收音测试1, 2...\Ntesting one two testing
 Dialogue: 0,0:02:14.51,0:02:17.28,Default,,0,0,0,,
-Dialogue: 0,0:02:17.28,0:02:19.76,Default,,0,0,0,,
+Dialogue: 0,0:02:17.38,0:02:18.14,2nd,,0,0,0,,
+Dialogue: 0,0:02:18.26,0:02:19.20,2nd,,0,0,0,,@David
+Dialogue: 0,0:02:19.44,0:02:21.18,2nd,,0,0,0,,@Andrew
 Dialogue: 0,0:02:19.76,0:02:25.04,Default,,0,0,0,,
-Dialogue: 0,0:02:36.37,0:02:40.86,Default,,0,0,0,,当拿到Facebook offer的时候我非常激动，我兴奋地告诉了妈妈\Nwork at Facebook I told my mom I was like really excited The Social Network
+Dialogue: 0,0:02:36.16,0:02:40.86,Default,,0,0,0,,当拿到Facebook offer的时候我非常激动，我兴奋地告诉了妈妈\Nwork at Facebook I told my mom I was like really excited The Social Network
+Dialogue: 0,0:02:39.88,0:02:43.90,2nd,,0,0,0,,@Pete
 Dialogue: 0,0:02:40.86,0:02:47.22,Default,,0,0,0,,当时《社交网络》这部电影刚刚上映，她看过电影后非常不鼓励我进入Facebook工作\Nthe movie had just come out and she had you know seen it recently and she was actively discouraging me from joining
 Dialogue: 0,0:02:47.22,0:02:50.66,Default,,0,0,0,,她的理由是扎克伯格看起来不是一个好孩子\Nbecause she was like Mark Zuckerberg doesn't seem like a very nice boy
 Dialogue: 0,0:02:50.66,0:02:57.66,Default,,0,0,0,,我还在那工作的那段时间，Facebook是有点特别的，那种特别是一去不返了\NFacebook in the time I was there was I don't think they'll be anything like it ever again it was certainly not like
+Dialogue: 0,0:02:51.58,0:02:53.42,2nd,,0,0,0,,@Adam
 Dialogue: 0,0:02:57.66,0:02:59.40,Default,,0,0,0,,可以确定的是当时的Facebook和我此前工作的任何一家公司都不一样\Nanything that I had experienced before
-Dialogue: 0,0:02:59.40,0:03:03.86,Default,,0,0,0,,我加入Facebook几个月以后，侃爷拜访了Facebook园区\Nin fact just a couple months after I joined Kanye West came to visit
-Dialogue: 0,0:03:03.86,0:03:09.66,Default,,0,0,0,,他爬上了食堂的桌子，现场rap了一段\NFacebook's campus and he got up on a table in the cafe and you know wrapped a
-Dialogue: 0,0:03:09.66,0:03:14.28,Default,,0,0,0,,我当时试图向一个刚刚毕业的同事解释，\Nfew bars and I was working mostly with this guy who had just graduated from
-Dialogue: 0,0:03:14.28,0:03:21.12,Default,,0,0,0,,我在这个行业工作了10多年，这种事情从来没有发生过,\Ncollege and I was trying to explain to him you know I've worked these crap jobs in software at that point had been like
-Dialogue: 0,0:03:21.12,0:03:27.00,Default,,0,0,0,,像这样的事情从来没有在软件工程师行业发生过\N10 or 15 years nothing like this ever happens not to software Engineers you're
-Dialogue: 0,0:03:27.00,0:03:29.22,Default,,0,0,0,,[侃爷rap中]\Nmy stressing your mama sues Mama say
+Dialogue: 0,0:02:59.40,0:03:05.22,Default,,0,0,0,,我加入Facebook几个月以后，侃爷拜访了Facebook园区\Nin fact just a couple months after I joined Kanye West came to visit
+Dialogue: 0,0:03:05.48,0:03:10.60,Default,,0,0,0,,他爬上了食堂的桌子，现场rap了一段\NFacebook's campus and he got up on a table in the cafe and you know wrapped a
+Dialogue: 0,0:03:10.74,0:03:14.28,Default,,0,0,0,,我当时试图向一个刚刚毕业的同事解释，\Nfew bars and I was working mostly with this guy who had just graduated from
+Dialogue: 0,0:03:14.28,0:03:22.78,Default,,0,0,0,,我跟他说我在这个行业工作了10多年，一直在这些烂岗位上蹉跎\Ncollege and I was trying to explain to him you know I've worked these crap jobs in software at that point had been like 10 or 15 years 
+Dialogue: 0,0:03:23.12,0:03:26.28,Default,,0,0,0,,像这样的事情从来没有发生过，从来没有在软件工程师行业发生过\Nnothing like this ever happens not to software Engineers you're
+Dialogue: 0,0:03:26.50,0:03:29.22,Default,,0,0,0,,[侃爷rap中]\Nmy stressing your mama sues Mama say
 Dialogue: 0,0:03:29.22,0:03:31.12,Default,,0,0,0,,[侃爷rap中]\NMama say Mama Don the son
-Dialogue: 0,0:03:31.16,0:03:37.44,Default,,0,0,0,,JavsScript当时正经历一场对自身存在意义的怀疑\NJavaScript at the time I think was going through this little bit of an existential crisis as to
+Dialogue: 0,0:03:31.16,0:03:37.44,Default,,0,0,0,,JavaScript当时正经历一场对自身存在意义的怀疑\NJavaScript at the time I think was going through this little bit of an existential crisis as to
+Dialogue: 0,0:03:33.50,0:03:35.64,2nd,,0,0,0,,@Lee
 Dialogue: 0,0:03:37.44,0:03:40.92,Default,,0,0,0,,比如说它是不是一门真正的编程语言\Nwhether it was like a real programming language
-Dialogue: 0,0:03:40.92,0:03:44.28,Default,,0,0,0,,还是说仅仅是一门玩具语言\Nor a toy programming language and so
-Dialogue: 0,0:03:44.28,0:03:46.14,Default,,0,0,0,,所以当时有很多发展的趋势\Nthere was a lot of churn so you had
-Dialogue: 0,0:03:46.14,0:03:48.18,Default,,0,0,0,,JQuery, mootools都很流行\NjQuery was popular and moo tools was
-Dialogue: 0,0:03:48.18,0:03:52.14,Default,,0,0,0,,有很多受欢迎的框架激烈竞争市场份额\Npopular and there was so many different like warring Frameworks to try to get
-Dialogue: 0,0:03:52.14,0:03:57.42,Default,,0,0,0,,这些工具之间有很多相似性，也各有其擅长的场景\Nthe Mind share and there's a lot of similarities between them but each one had its kind of bespoke differences and
+Dialogue: 0,0:03:40.92,0:03:43.44,Default,,0,0,0,,还是说仅仅是一门玩具语言\Nor a toy programming language and so
+Dialogue: 0,0:03:43.84,0:03:46.14,Default,,0,0,0,,所以当时有很多发展的趋势\Nthere was a lot of churn so you had
+Dialogue: 0,0:03:46.14,0:03:48.18,Default,,0,0,0,,jQuery, mootools都很流行\NjQuery was popular and moo tools was
+Dialogue: 0,0:03:48.18,0:03:53.10,Default,,0,0,0,,有很多受欢迎的框架激烈竞争市场份额\Npopular and there was so many different like warring Frameworks to try to get the Mind share 
+Dialogue: 0,0:03:53.22,0:03:57.42,Default,,0,0,0,,这些工具之间有很多相似性，也各有其擅长的场景\Nand there's a lot of similarities between them but each one had its kind of bespoke differences and
 Dialogue: 0,0:03:57.42,0:04:03.84,Default,,0,0,0,,但是它们中间没有一个在构造复杂用户界面和应用时表现特别突出\Nnone of them were actually really fantastic for building really kind of complicated user interfaces and apps
 Dialogue: 0,0:04:03.84,0:04:07.73,Default,,0,0,0,,当时的趋势是应用越来越复杂，需要做的事情也越来越多\Nthere was this trend towards more sophisticated applications that do more
 Dialogue: 0,0:04:07.73,0:04:15.29,Default,,0,0,0,,当时在Facebook我们的主要技术栈依然是服务端渲染\Nstuff and at Facebook we still had a primarily sort of server rendered technology stack which
-Dialogue: 0,0:04:15.29,0:04:20.27,Default,,0,0,0,,因为很长一段时间内，我们都致力于减小不断增大的前端应用中的JavsScript产物体积\Num you know one of the things that we fought against for a really long time was just growing JavaScript bundle sizes
-Dialogue: 0,0:04:20.27,0:04:24.06,Default,,0,0,0,,而这是因为当我们在浏览器中实现越来越多的功能以后，前端应用变得越来越慢\Nso as we moved more and more stuff to the client the client got slower and
-Dialogue: 0,0:04:24.06,0:04:31.86,Default,,0,0,0,,也就是说当时我们一直在往CSR-SSR这个天平的SSR端靠近，尽量减少客户端JavaScript体积\Nslower so we actually swung the pendulum towards server-side rendering and towards you know minimal amounts of JavaScript for a while and there was
-Dialogue: 0,0:04:31.86,0:04:35.40,Default,,0,0,0,,当时的感觉是我们知道浏览器端的开发模式已经不能满足新的需求\Nthis feeling that we knew that what we were doing for client-side development
+Dialogue: 0,0:04:07.74,0:04:09.74,2nd,,0,0,0,,@Tom
+Dialogue: 0,0:04:15.29,0:04:20.27,Default,,0,0,0,,因为很长一段时间内，我们都致力于减小不断增大的JS文件体积\Num you know one of the things that we fought against for a really long time was just growing JavaScript bundle sizes
+Dialogue: 0,0:04:20.27,0:04:24.06,Default,,0,0,0,,而这是因为当我们在客户端实现越来越多的功能以后，客户端应用变得越来越慢\Nso as we moved more and more stuff to the client the client got slower and
+Dialogue: 0,0:04:24.06,0:04:31.86,Default,,0,0,0,,也就是说当时我们一直在往CSR-SSR这个天平的SSR端靠近，尽量减少客户端JS文件体积\Nslower so we actually swung the pendulum towards server-side rendering and towards you know minimal amounts of JavaScript for a while and there was
+Dialogue: 0,0:04:31.86,0:04:35.40,Default,,0,0,0,,当时的感觉是我们知道客户端的开发模式已经不能满足新的需求\Nthis feeling that we knew that what we were doing for client-side development
 Dialogue: 0,0:04:35.40,0:04:40.38,Default,,0,0,0,,但是我们同时感到服务端技术也不能彻底解决问题\Nwasn't working but also that server side wasn't going to get us all the way there
 Dialogue: 0,0:04:40.38,0:04:46.88,Default,,0,0,0,,这差不多就是React诞生前的技术环境\Nso I think that was the kind of environment that react came out of
-Dialogue: 0,0:04:57.32,0:05:05.04,Default,,0,0,0,,2010年加入Facebook之前，我做了很多开源工作，特别是在JavsScript领域\NI joined Facebook back in 2010 I've been doing a lot of Open Source work particularly in the JavaScript world I
+Dialogue: 0,0:04:49.86,0:04:51.86,2nd,,0,0,0,,都柏林
+Dialogue: 0,0:04:57.32,0:05:05.04,Default,,0,0,0,,2010年加入Facebook之前，我做了很多开源工作，特别是在JavaScript领域\NI joined Facebook back in 2010 I've been doing a lot of Open Source work particularly in the JavaScript world I
+Dialogue: 0,0:05:02.54,0:05:04.54,2nd,,0,0,0,,@Shane
 Dialogue: 0,0:05:05.04,0:05:09.24,Default,,0,0,0,,我曾经是dojo.js toolkit委员会成员，\Nwas a committer on the dojo.js toolkit back in the day which is one of the the
 Dialogue: 0,0:05:09.24,0:05:13.97,Default,,0,0,0,,dojo.js，jQuery和prototype都是JavaScript运动的先声\Ngranddaddies of the JavaScript movement along with prototype and jQuery
 Dialogue: 0,0:05:13.97,0:05:18.60,Default,,0,0,0,,我在Facebook的头两年都在移动团队\NI spent my first two years of Facebook on the mobile team
 Dialogue: 0,0:05:18.60,0:05:23.69,Default,,0,0,0,,当时我们已经开始着力和Apple以及Google的竞争\Nwe had started off a big push to compete with Apple and Google and we thought
 Dialogue: 0,0:05:23.69,0:05:28.08,Default,,0,0,0,,我们认为我们最大的机会在于直接投入web领域\Nthat our best chance of success as a company was to go directly to the web
-Dialogue: 0,0:05:28.08,0:05:30.86,Default,,0,0,0,,着力于建设HTML5生态\Nand really push to build out the HTML5
-Dialogue: 0,0:05:30.86,0:05:38.28,Default,,0,0,0,,作为战略的一部分，我和另外两位工程师Vladimir和Bailey\Necosystem so as part of that we developed myself two other Engineers called Vladimir
-Dialogue: 0,0:05:38.28,0:05:42.90,Default,,0,0,0,,创建了一个叫做Bolt.js的JS框架，叫这个名字是因为我们\Nkhalestikov and will Bailey built a framework called bolt JS so named
-Dialogue: 0,0:05:42.90,0:05:45.84,Default,,0,0,0,,将几项我们几个喜欢的技术整合固定在一起，形成了这个框架\Nbecause we bolted together a bunch of things that each of us liked \N（bolt做动词有"用螺丝固定"的意思）
-Dialogue: 0,0:05:46.02,0:05:51.41,Default,,0,0,0,,Bolt.js基本上是Facebook对客户端MVC架构的一种实现\Nbolt was basically more or less Facebook's implementation of a client's
-Dialogue: 0,0:05:51.41,0:06:00.47,Default,,0,0,0,,对比当时的一些MVC框架比如Backbone.js，我认为Bolt.js可能是一种更好的MVC实现\Nhead MVC I think it was like a pretty good version maybe a better version of things like backbone and a couple of other Frameworks that had existed at the
+Dialogue: 0,0:05:28.08,0:05:30.86,Default,,0,0,0,,努力建设HTML5生态\Nand really push to build out the HTML5
+Dialogue: 0,0:05:30.86,0:05:38.28,Default,,0,0,0,,作为此战略的一部分，我和另外两位工程师Vladimir和Will\Necosystem so as part of that we developed myself two other Engineers called Vladimir
+Dialogue: 0,0:05:38.28,0:05:42.90,Default,,0,0,0,,一起创建了一个叫做Bolt.js的JS框架，叫这个名字是因为我们\Nkhalestikov and will Bailey built a framework called bolt JS so named
+Dialogue: 0,0:05:42.90,0:05:45.84,Default,,0,0,0,,将几项我们几个喜欢的技术整合在一起，形成了这个框架\Nbecause we bolted together a bunch of things that each of us liked \N（bolt做动词有"用螺丝固定"的意思）
+Dialogue: 0,0:05:46.02,0:05:51.41,Default,,0,0,0,,Bolt基本上是Facebook对客户端MVC架构的一种实现\Nbolt was basically more or less Facebook's implementation of a client's
+Dialogue: 0,0:05:51.41,0:06:00.47,Default,,0,0,0,,对比当时的一些MVC框架比如Backbone，我认为Bolt可能是一种更好的MVC实现\Nhead MVC I think it was like a pretty good version maybe a better version of things like backbone and a couple of other Frameworks that had existed at the
 Dialogue: 0,0:06:00.47,0:06:06.60,Default,,0,0,0,,但是它带有Facebook业务特有的一些限制\Ntime but it was born from a place of the specific constraints of Facebook
 Dialogue: 0,0:06:06.60,0:06:09.12,Default,,0,0,0,,"它将是你Facebook体验的核心"\Nit's the heart of your Facebook experience
+Dialogue: 0,0:06:06.58,0:06:09.12,2nd,,0,0,0,,2011年Facebook推出时间线功能
 Dialogue: 0,0:06:09.12,0:06:11.03,Default,,0,0,0,,"经过彻底的重新思考"\Ncompletely rethought from the ground up
-Dialogue: 0,0:06:11.03,0:06:13.97,Default,,0,0,0,,“和一年的精心打磨”\Nwe've been working on it all year
+Dialogue: 0,0:06:11.03,0:06:13.97,Default,,0,0,0,,"和一年的精心打磨"\Nwe've been working on it all year
 Dialogue: 0,0:06:13.97,0:06:17.16,Default,,0,0,0,,"它就是Timeline(时间线功能)"\Nand we're calling it timeline
 Dialogue: 0,0:06:17.18,0:06:22.50,Default,,0,0,0,,Facebook属于第一批体验重于其他一切的产品\NFacebook was one of the first big products that was really an experience more than anything else
 Dialogue: 0,0:06:22.50,0:06:26.94,Default,,0,0,0,,你不会用Facebook来买日用品或者买票\Nyou're not trying to buy groceries or get tickets or anything like that on
 Dialogue: 0,0:06:26.94,0:06:31.02,Default,,0,0,0,,用户只是想上去找点乐子\NFacebook you really just want to be entertained and as such you know the
-Dialogue: 0,0:06:31.02,0:06:32.88,Default,,0,0,0,,因此它的用户界面需要让人愉悦\Nuser interface itself needs to be really
-Dialogue: 0,0:06:32.88,0:06:36.53,Default,,0,0,0,,Bolt.js不是一系列分散工具的集合\Npleasing bolt was not a tool belt it was
-Dialogue: 0,0:06:36.53,0:06:44.28,Default,,0,0,0,,而是一个真正的应用开发框架，它被设计用来构建复杂，有丰富交互的应用\Ntruly a application development framework something designed and meant to build complicated interactive rich
-Dialogue: 0,0:06:44.28,0:06:49.50,Default,,0,0,0,,事实上，它也确实被当时的Facebook用来开发非常复杂的真实世界应用\Napps and was being used to build pretty complicated very real products at Facebook at the time
-Dialogue: 0,0:06:49.60,0:06:53.03,Default,,0,0,0,,最后的发展是我们基本上需要用Bolt.js来重构Facebook的大部分应用\Nwe ended up having to essentially replicate most of Facebook
+Dialogue: 0,0:06:31.02,0:06:33.42,Default,,0,0,0,,因此它的用户界面需要让人愉悦\Nuser interface itself needs to be really
+Dialogue: 0,0:06:33.42,0:06:36.53,Default,,0,0,0,,Bolt不是一系列分散工具的集合\Npleasing bolt was not a tool belt it was
+Dialogue: 0,0:06:36.53,0:06:45.02,Default,,0,0,0,,而是一个真正的应用开发框架，它被设计用来构建复杂，有丰富交互的应用\Ntruly a application development framework something designed and meant to build complicated interactive rich
+Dialogue: 0,0:06:45.02,0:06:49.50,Default,,0,0,0,,事实上，它也确实被当时的Facebook用来开发非常复杂的真实世界应用\Napps and was being used to build pretty complicated very real products at Facebook at the time
+Dialogue: 0,0:06:49.60,0:06:53.03,Default,,0,0,0,,最后的发展是我们基本上需要用Bolt来重写Facebook的大部分应用\Nwe ended up having to essentially replicate most of Facebook
 Dialogue: 0,0:06:53.03,0:06:59.10,Default,,0,0,0,,不管是时间线，聊天，还是新闻流，以及整个相册应用\Nall the various apps be it timeline chat news feed we had a whole photos app that
 Dialogue: 0,0:06:59.10,0:07:03.53,Default,,0,0,0,,整个团队快速扩张\Nwe built and so obviously the team had to expand greatly like that so I think
-Dialogue: 0,0:07:03.53,0:07:10.08,Default,,0,0,0,,在某个时刻团队大概有25个工程师，有的做bolt本身的开发，有的做基于bolt的应用开发\Nat some point we probably had maybe 25 Engineers working on all this between building bold and building apps built on
+Dialogue: 0,0:07:03.53,0:07:10.08,Default,,0,0,0,,在某个时刻团队大概有25个工程师，有的做Bolt本身的开发，有的做基于Bolt的应用开发\Nat some point we probably had maybe 25 Engineers working on all this between building bold and building apps built on
 Dialogue: 0,0:07:10.08,0:07:11.63,Default,,0,0,0,,这还仅限于移动团队\NBold and that's just on the mobile team
 Dialogue: 0,0:07:11.63,0:07:15.84,Default,,0,0,0,,Bolt从来就不是问题所在，有问题的是当时应用开发的架构\Nbolt was never the problem it was the architecture that would eventually break
 Dialogue: 0,0:07:15.84,0:07:18.36,Default,,0,0,0,,当时的架构是压倒骆驼的最后一根稻草\Ndown for us as the the product itself
 Dialogue: 0,0:07:18.36,0:07:22.97,Default,,0,0,0,,随着产品逐渐复杂和团队人数的增多，\Ngot more complex and as we added more Engineers to the team we didn't hit a
-Dialogue: 0,0:07:22.97,0:07:27.36,Default,,0,0,0,,变更产品功能变得越来越困难\Nwall but it started to get really really hard to make changes and so you know
+Dialogue: 0,0:07:22.97,0:07:27.36,Default,,0,0,0,,尽管开发仍然可以继续，但是变更产品功能变得越来越困难\Nwall but it started to get really really hard to make changes and so you know
 Dialogue: 0,0:07:27.36,0:07:30.36,Default,,0,0,0,,这时候广告团队的{\b1\u1}Jordan{\b0\u0}对现状发出了疑问:\Nthat was around the time that Jordan was on the ads team and he's like I wonder
 Dialogue: 0,0:07:30.46,0:07:32.60,Default,,0,0,0,,"难道没有更好的开发方式吗?"\Nthere's got to be a better way
 Dialogue: 0,0:07:34.90,0:07:38.12,Default,,0,0,0,,[谁是Jordan Walke?]
@@ -124,43 +144,46 @@ Dialogue: 0,0:07:41.42,0:07:42.53,Default,,0,0,0,,不是这个
 Dialogue: 0,0:07:42.53,0:07:46.38,Default,,0,0,0,,Jordan是一个谜一样的人物\NJordan is an enigmatic figure he uh he's a
 Dialogue: 0,0:07:46.38,0:07:49.24,Default,,0,0,0,,他行事隐秘，我对他所知不多\Nlittle secretive so there's not much that I know about him
 Dialogue: 0,0:07:49.38,0:07:58.56,Default,,0,0,0,, Jordan和我一直没有特别进入公共视野，特别是Jordan，\N从React的早期开始他就远离了关注的焦点\NJordan and I aren't necessarily we haven't necessarily been in the spotlight much especially Jordan kind of shied away from spotlights since the early days
+Dialogue: 0,0:07:49.38,0:07:51.38,2nd,,0,0,0,,@Sebastian
 Dialogue: 0,0:07:58.56,0:08:04.74,Default,,0,0,0,,Jordan当时是广告团队的一名工程师\NJordan was a product engineer at the time working on ads and ads has one of
 Dialogue: 0,0:08:04.74,0:08:09.72,Default,,0,0,0,,广告在当时是横跨Facebook所有业务中UI最为复杂的\Nthe most complicated pieces of UI across all of Facebook at the moment
 Dialogue: 0,0:08:09.72,0:08:16.91,Default,,0,0,0,,在应用复杂性方面，当时的广告团队正在逼近没有React框架时所能做到的极限\Non the as team they were hitting much you know really hitting the limits of what you can do without react uh
 Dialogue: 0,0:08:16.91,0:08:28.74,Default,,0,0,0,,当时的开发者已经很难把屏幕上的UI和对应的代码联系起来，并理解代码的作用\Ncomplexity wise and just the developers ability to hold in their head and understand a bit of code that somebody else wrote and you know look at the screen and say okay this code is doing that and I need to know why
-Dialogue: 0,0:08:28.88,0:08:36.16,Default,,0,0,0,,Jordan有很多有趣的想法，比如对于Blot的函数式使用\Nand Jordan had a lot of very interesting ideas around how you could take what we had done in both and make it much more functional
-Dialogue: 0,0:08:36.24,0:08:40.90,Default,,0,0,0,,如何让Blot更容易地规模化应用，以便让人更容易理解大型应用\Nand make it more um ability to make it easier for it to scale with, people's ability to understand large
+Dialogue: 0,0:08:28.88,0:08:36.16,Default,,0,0,0,,Jordan有很多有趣的想法，比如对于Bolt的函数式使用\Nand Jordan had a lot of very interesting ideas around how you could take what we had done in both and make it much more functional
+Dialogue: 0,0:08:29.54,0:08:33.06,2nd,,0,0,0,,@Jordan
+Dialogue: 0,0:08:36.24,0:08:40.90,Default,,0,0,0,,如何让Bolt更容易地规模化应用，以便让人更容易理解大型应用\Nand make it more um ability to make it easier for it to scale with, people's ability to understand large
 Dialogue: 0,0:08:41.10,0:08:43.44,Default,,0,0,0,,所以我们有很多持续进行的讨论\Napplications and so we had a lot of ongoing dialogue and he would come back
-Dialogue: 0,0:08:43.44,0:08:46.08,Default,,0,0,0,,我们会来来回回探讨可以如何改变Blot\Nand forth to us with various ideas how to change it
-Dialogue: 0,0:08:46.26,0:08:51.84,Default,,0,0,0,,我记得React早期的名字其中一直就是FBlot，意思是函数式Blot\NI think one of the original names for react was F bolt which is functional Bolt
+Dialogue: 0,0:08:43.44,0:08:46.08,Default,,0,0,0,,我们会来来回回探讨可以如何改变Bolt\Nand forth to us with various ideas how to change it
+Dialogue: 0,0:08:46.26,0:08:51.84,Default,,0,0,0,,我记得React早期的名字其中一个就是FBolt，意思是函数式Bolt\NI think one of the original names for react was F bolt which is functional Bolt
 Dialogue: 0,0:08:51.84,0:08:52.68,Default,,0,0,0,,
-Dialogue: 0,0:08:52.90,0:09:01.46,Default,,0,0,0,,Jordan意识到有一种更容易的方式，可以解决Blot中的一些棘手问题\Nto do it to solve some of the tricky Parts in bolts in an easier way so what
+Dialogue: 0,0:08:52.90,0:09:01.46,Default,,0,0,0,,Jordan意识到有一种更容易的方式，可以解决Bolt中的一些棘手问题\Nto do it to solve some of the tricky Parts in bolts in an easier way so what
 Dialogue: 0,0:09:01.52,0:09:08.58,Default,,0,0,0,,所以Jordan的思路是（至少他是这么告诉我的）\NJordan decided to do or at least the story that he had told me was
 Dialogue: 0,0:09:08.58,0:09:21.89,Default,,0,0,0,,不管应用中发生了什么改变，\N不管是API状态变动，还是用户输入了什么，我们都销毁掉所有UI，然后重新渲染一切\Nhey wouldn't it be easier if any time anything happened in the app API State changes user type something we just blow away the entire UI and we re-render all of it
 Dialogue: 0,0:09:21.89,0:09:27.24,Default,,0,0,0,,对比当时的框架，那时流行的是数据双向绑定\Nif you look at what every other framework was doing at the time it was called two-way data binding and this was
 Dialogue: 0,0:09:27.24,0:09:32.00,Default,,0,0,0,,但Jordan说忘记数据绑定吧，我们不再操心那个了\Nnot that it was like forget about data binding we're not going to do that at all
 Dialogue: 0,0:09:32.02,0:09:35.10,Default,,0,0,0,,新的做法是任何时刻发生任何变动，我们都重新渲染整个UI\Nanytime anything changes we're just going to re-render
-Dialogue: 0,0:09:35.10,0:09:39.36,Default,,0,0,0,,当然旁边有个注脚，我们不会真的重新渲染整个UI，并且我们会尽可能少地重新渲染\Nand then there's an asterisk which says well we're not going to remember everything we're going to try to render
-Dialogue: 0,0:09:39.36,0:09:45.95,Default,,0,0,0,,但是概念上，我们不会再手动维护视图和模型之间的关系\Nas little as possible but conceptually we're not going to manage these relationships between views and models
+Dialogue: 0,0:09:35.10,0:09:40.54,Default,,0,0,0,,当然旁边有个注脚，我们不会真的重新渲染整个UI，并且我们会尽可能少地重新渲染\Nand then there's an asterisk which says well we're not going to remember everything we're going to try to render
+Dialogue: 0,0:09:41.16,0:09:45.95,Default,,0,0,0,,但是概念上，我们不会再手动维护视图和模型之间的关系\Nas little as possible but conceptually we're not going to manage these relationships between views and models
 Dialogue: 0,0:09:45.95,0:09:47.22,Default,,0,0,0,,概念上我们会...(直接销毁之前的视图，并根据新的数据状态生成新的视图)\Nwe're just gonna
 Dialogue: 0,0:09:47.22,0:09:50.82,Default,,0,0,0,,坦白说，我那时觉得这是一个疯狂的想法，而且当时我也对框架持怀疑态度\Nhonestly I thought it was completely crazy at the time I was really down on
 Dialogue: 0,0:09:50.82,0:09:55.26,Default,,0,0,0,,我觉得这个想法不会成功\NFrameworks in general and I thought there was no way that was going to work
 Dialogue: 0,0:09:55.26,0:10:01.74,Default,,0,0,0,,对于很多人来说Jordan的想法过于魔法，超出了他们对于现实的认知\Nto many people that seemed like magic it was so far outside of everybody's idea of how things should work and do work
-Dialogue: 0,0:10:01.74,0:10:07.27,Default,,0,0,0,,(我们花费了)很多精力去说服他们\Nthat um yeah it took a lot of commenting
-Dialogue: 0,0:10:07.27,0:10:32.45,Default,,0,0,0,,[Music]
+Dialogue: 0,0:10:01.74,0:10:07.27,Default,,0,0,0,,说服他们花了很多努力\Nthat um yeah it took a lot of commenting
+Dialogue: 0,0:10:07.27,0:10:32.45,Default,,0,0,0,,
 Dialogue: 0,0:10:32.45,0:10:35.94,Default,,0,0,0,,我已经在Facebook工作10年了\NI've been working at Facebook for 10 years now
+Dialogue: 0,0:10:32.46,0:10:34.46,2nd,,0,0,0,,@Christopher
 Dialogue: 0,0:10:35.94,0:10:38.88,Default,,0,0,0,,曾经我和一个叫Jordan Walke的人碰过面\NI met this person called Jordan walk
 Dialogue: 0,0:10:38.88,0:10:44.45,Default,,0,0,0,,背景是有人告诉我Jordan有一个关于JS的有趣项目，我可能会对其感兴趣\Nsome people told me like he had an interesting project about JavaScript and I may be interested and so I had this
 Dialogue: 0,0:10:44.45,0:10:49.50,Default,,0,0,0,,所以我和他约了一个会，在会议的开始他问了我一个问题：\Nmeeting with him and uh one thing he asked me at the beginning of the meeting
-Dialogue: 0,0:10:49.50,0:10:59.39,Default,,0,0,0,,“前端开发目前最困难的事情是什么？”\Nwas what is the most difficult thing to do in the front end right now and I mean I was six months out of
-Dialogue: 0,0:10:59.39,0:11:05.82,Default,,0,0,0,,我那时刚毕业6个月，我说我不知道，他告诉我是“(UI的)更新”\Nschool I was like I don't know and the thing he told me is updates you need to
+Dialogue: 0,0:10:49.50,0:10:59.39,Default,,0,0,0,,"前端开发目前最困难的事情是什么?"\Nwas what is the most difficult thing to do in the front end right now and I mean I was six months out of
+Dialogue: 0,0:10:59.39,0:11:05.82,Default,,0,0,0,,我那时刚毕业6个月，我说我不知道，他告诉我是"(UI的)更新"\Nschool I was like I don't know and the thing he told me is updates you need to
 Dialogue: 0,0:11:05.82,0:11:13.74,Default,,0,0,0,,你需要找到要更新的dom节点，选择合适的事件后增加/移除事件回调等等这些\Nfind the dumb node that is going to change you need to like change the listener to like the Click event and like remove it and like do all of this
 Dialogue: 0,0:11:13.74,0:11:20.80,Default,,0,0,0,,整个过程相当繁琐，Facebook广告业务代码的大量bug都在这个过程中产生\Nwhich is like pretty complicated and then this was also like a massive source of bugs within the Facebook adbase
-Dialogue: 0,0:11:20.96,0:11:29.94,Default,,0,0,0,, 我被他说服了，承认道“好吧这大概是最困难的事情”，然后他说他有一个解决方案\NI was like okay yeah you're right like this is probably like the hardest thing and it was like I have a solution for this
+Dialogue: 0,0:11:20.96,0:11:29.94,Default,,0,0,0,, 我被他说服了，承认道"好吧这大概是最困难的事情"，然后他说他有一个解决方案\NI was like okay yeah you're right like this is probably like the hardest thing and it was like I have a solution for this
 Dialogue: 0,0:11:29.94,0:11:34.32,Default,,0,0,0,,(我听了他的方案以后)觉得这家伙的想法太疯狂，不会成功，也不会有好的性能表现\NI was like okay this guy is crazy like this is never going towards never going to be performance
 Dialogue: 0,0:11:34.44,0:11:38.45,Default,,0,0,0,,会议结束过了几个星期我就忘记了这件事\Nthe meeting ended for like a few weeks I forgot about the idea
 Dialogue: 0,0:11:38.45,0:11:44.84,Default,,0,0,0,,但是有一个周末我重新考虑了这件事，觉得自己也许应该尝试一下\Nbut uh one weekend I was like okay maybe I should try this like maybe there's something to it
-Dialogue: 0,0:11:44.84,0:11:46.86,Default,,0,0,0,,[Music]
+Dialogue: 0,0:11:44.84,0:11:46.86,Default,,0,0,0,,
 Dialogue: 0,0:11:46.86,0:11:51.48,Default,,0,0,0,,加入Facebook之前，我做过一个魔兽世界工会的搜索项目\Nbefore joining Facebook I walked on a way to find your guilds in World of
 Dialogue: 0,0:11:51.48,0:11:57.72,Default,,0,0,0,,我们需要在20000个工会中搜索到目标\NWarcraft and we basically need to search through like 20 000 yields and I did
 Dialogue: 0,0:11:57.72,0:12:05.84,Default,,0,0,0,,我做了很多的性能优化工作，以便用户更改搜索过滤条件时能更快给出搜索结果\Nlike a lot of uh performance work to like be the fastest way to display possible when you change all of those filters into this real time
@@ -172,10 +195,10 @@ Dialogue: 0,0:12:26.27,0:12:31.14,Default,,0,0,0,,从那以后，我就成了Rea
 Dialogue: 0,0:12:31.14,0:12:35.22,Default,,0,0,0,,之后我在相册团队的所有工作时间我都在使用React，并且尝试在自己的项目上使用\Nthe photos team and like spending all of my working hours like trying to like use
 Dialogue: 0,0:12:35.22,0:12:40.28,Default,,0,0,0,,同时也在向其他人布道React，因为我感觉React会改变世界\Nreact on my own project in the photos team evangelizing I felt like it could change the world
 Dialogue: 0,0:12:40.28,0:12:42.28,Default,,0,0,0,,它也确实改变了世界\Nwhich it did
-Dialogue: 0,0:12:44.27,0:12:49.62,Default,,0,0,0,,[Music]
+Dialogue: 0,0:12:44.27,0:12:49.62,Default,,0,0,0,,
 Dialogue: 0,0:12:50.12,0:12:59.45,Default,,0,0,0,,Jordan的项目现在开始逐步取得进展，其他人也开始参与进来\NJordan is making Headway on his project he's gotten others involved and they're seeing the value but not everyone is
 Dialogue: 0,0:12:59.45,0:13:05.45,Default,,0,0,0,,但不是所有人都买账，其中一个Facebook的经理认为Jordan的项目分散了员工的精力\Nimpressed one manager started to take notice but saw Jordan's project is a
-Dialogue: 0,0:13:05.45,0:13:10.82,Default,,0,0,0,,所以他们让Byron和Jordan会面，告诉他项目需要终止distraction so the athlete Byron to meet with Jordan and put a stop to it
+Dialogue: 0,0:13:05.45,0:13:10.82,Default,,0,0,0,,所以他们让Lee和Jordan会面，告诉他项目需要终止distraction so the athlete Byron to meet with Jordan and put a stop to it
 Dialogue: 0,0:13:10.98,0:13:14.54,Default,,0,0,0,,一见面我就知道这次会面会很尴尬奇怪\Nwe get into a room instantly I knew that this was going to be weird
 Dialogue: 0,0:13:14.60,0:13:22.38,Default,,0,0,0,,因为我们的态度明显不同，我的态度是我需要理解你的项目到底价值在哪\Nbecause we showed up with very different energies so I'm showing up with this like okay Jordan I want to understand what's going on with your
 Dialogue: 0,0:13:22.38,0:13:32.04,Default,,0,0,0,,我需要确定它值得长期投入和能带来长远价值，可以解决我们面临的问题\Nproject but I also want to help make sure that we are spending our time well and we're working on things that are gonna have longevity and solving problems we
@@ -193,9 +216,9 @@ Dialogue: 0,0:14:31.92,0:14:36.18,Default,,0,0,0,,我说好的好的，于是我
 Dialogue: 0,0:14:36.18,0:14:40.44,Default,,0,0,0,,一开始发现有点难懂，但是我最终学会了怎么使用\Na little hard to understand uh but I eventually got to play with it got to
 Dialogue: 0,0:14:40.44,0:14:49.13,Default,,0,0,0,,我用它做了几个小东西，然后总结发现，确实这里有非常有意思的东西\Nbuild a couple of things and uh like had to admit coming away that like yes there was something incredibly interesting there and that was how I got sucked into
 Dialogue: 0,0:14:49.13,0:14:53.16,Default,,0,0,0,,我就这样成了项目的一员，接下来好几个月都在做相关工作\Nthe project I ended up working on it quite a bit for the the next couple of
-Dialogue: 0,0:14:53.16,0:14:59.39,Default,,0,0,0,,Byron给项目带来了一种生机勃勃的设计思维\Nmonths Lee brings us like rigor and sort of design mentality to these things that
+Dialogue: 0,0:14:53.16,0:14:59.39,Default,,0,0,0,,Lee给项目带来了一种生机勃勃的设计思维\Nmonths Lee brings us like rigor and sort of design mentality to these things that
 Dialogue: 0,0:14:59.39,0:15:03.56,Default,,0,0,0,,他帮助React初始的几个版本做了标准化\Num really helped with the initial versions of react in terms of standardizing it
-Dialogue: 0,0:15:04.06,0:15:11.41,Default,,0,0,0,,将React从一个Facebook的内部项目变成了一个外部世界可以欣赏接受的东西\Nand turning it from something that was kind of like an ugly baby that it just uh grown up at Facebook to something that really people could approach from around the world
+Dialogue: 0,0:15:04.06,0:15:11.41,Default,,0,0,0,,将React从一个Facebook内部的丑陋原型变成了一个外部世界可以欣赏接受的东西\Nand turning it from something that was kind of like an ugly baby that it just uh grown up at Facebook to something that really people could approach from around the world
 Dialogue: 0,0:15:11.41,0:15:12.72,Default,,0,0,0,,[Music]
 Dialogue: 0,0:15:12.72,0:15:21.98,Default,,0,0,0,,当我开始尝试理解React代码库和使用它构建应用的时候，立刻就遇到了几个问题\Nthere were a couple of problems that I faced right away when trying to understand the code base and build something
 Dialogue: 0,0:15:22.16,0:15:28.38,Default,,0,0,0,,它所使用的一套工具和思维模型和我之前作为UI工程师接触到的完全不同\NNot only was the the set of tools and the mental models really different from what I was used to as a
@@ -217,7 +240,7 @@ Dialogue: 0,0:17:07.76,0:17:19.52,Default,,0,0,0,,我认为这是React思想的�
 Dialogue: 0,0:17:19.98,0:17:24.72,Default,,0,0,0,,这里说的团队就是受项目愿景吸引的一帮Facebook UI工程师\Nwhere team here is like a collection of UI Engineers scattered across Facebook who were sort of bought in on this
 Dialogue: 0,0:17:24.72,0:17:32.16,Default,,0,0,0,,现在有了统一的术语以后，如果有人有问题，任何人都可以跳出来回答而不用再仅仅依靠Jordan解答\NVision who now felt that like we now have the same terminology we can use when someone has a question anyone can jump in and answer it rather than only
 Dialogue: 0,0:17:32.16,0:17:34.39,Default,,0,0,0,,这就是React思想的第一次传播\NJordan that was the first big shift
-Dialogue: 0,0:17:34.39,0:17:40.39,Default,,0,0,0,,[Music]
+Dialogue: 0,0:17:34.39,0:17:40.39,Default,,0,0,0,,
 Dialogue: 0,0:17:40.91,0:17:49.74,Default,,0,0,0,,最开始使用React的几个项目之一是UFI: 统一反馈界面\None of the first projects um that Greg was used for was the ufi the universal feedback interface which
 Dialogue: 0,0:17:49.74,0:17:53.94,Default,,0,0,0,,基本上就是每篇贴文下面的喜欢/评论/分享功能\Nis basically the likes comments and shares at the bottom of each post this
 Dialogue: 0,0:17:53.94,0:18:00.84,Default,,0,0,0,,当时还处于Facebook称雄的网络时代，Facebook是连接人群的一大驱动力\Nwas still during Facebook's kind of web era when Facebook on the web was like the sort of Big Driver of Engagement
@@ -258,11 +281,11 @@ Dialogue: 0,0:20:51.36,0:20:59.16,Default,,0,0,0,,然而乡村生活的缓慢步
 Dialogue: 0,0:20:59.38,0:21:05.70,Default,,0,0,0,,我是一毕业就进入了Facebook，大学学了计算机，然后又读了研究生\NI went to Facebook straight at school Istudied computer science undergrad and I got a master's degree Facebook was
 Dialogue: 0,0:21:05.70,0:21:15.70,Default,,0,0,0,,现在说来你可能不信，那时Facebook还是非常有吸引力的，他们的产品触及到每个人，在校园也非常流行\Nbelieve it or not the like cool place to work back in 2010 it was like this great product that like everybody used it was super cool on college campuses and I was
 Dialogue: 0,0:21:16.38,0:21:19.26,Default,,0,0,0,,所以能去那里工作我非常激动\Nreally excited to work there
-Dialogue: 0,0:21:19.26,0:21:21.55,Default,,0,0,0,,foreign
+Dialogue: 0,0:21:19.26,0:21:21.55,Default,,0,0,0,,
 Dialogue: 0,0:21:23.05,0:21:29.03,Default,,0,0,0,,我当时加入的是视频团队，他们说我们是世界第三大视频网站\NI joined Facebook video the pitch was we're the third largest
 Dialogue: 0,0:21:29.03,0:21:35.40,Default,,0,0,0,,仅次于Youtube和Daily motion\Nvideo site in the world after YouTube and Daily motion I think and there was
 Dialogue: 0,0:21:35.40,0:21:38.58,Default,,0,0,0,,现在只有一个工程师在负责该项目，你可以成为二号工程师\Nlike one engineer working on it and like you get to be engineer number two and I
-Dialogue: 0,0:21:38.58,0:21:41.03,Default,,0,0,0,,我觉得这太棒了，当时我们和iOS和Android的相册团队紧密合作\Nwas like that sounds pretty cool we worked really closely with the iOS
+Dialogue: 0,0:21:38.58,0:21:41.03,Default,,0,0,0,,我觉得这太棒了，当时我们和iOS以及Android相册团队紧密合作\Nwas like that sounds pretty cool we worked really closely with the iOS
 Dialogue: 0,0:21:41.03,0:21:44.15,Default,,0,0,0,,试图打造一个可以干掉Instagram的产品\Nphotos team in the Android Photos team and we were building an Instagram killer
 Dialogue: 0,0:21:44.15,0:21:48.24,Default,,0,0,0,,这个产品就是Facebook Camera，现在已经被人遗忘了\Nand nobody remembers this but it was called Facebook Camera
 Dialogue: 0,0:21:48.24,0:21:58.10,Default,,0,0,0,,有天早上相册团队被通知提前8点到总部，工程副总裁通知Instagram已经被我们收购了，现在大家是同事了\None morning the photo scene got called into the office early they said like be at HQ at 8am and then the VP of engineering was like hey we bought Instagram they're your new co-workers now and
@@ -299,40 +322,40 @@ Dialogue: 0,0:25:00.41,0:25:05.88,Default,,0,0,0,,我需要将React和Facebook�
 Dialogue: 0,0:25:05.88,0:25:11.70,Default,,0,0,0,,这项工作的窍门是不要想一次完成工作，而是让迁移可持续，并且确保迁移的管道正常运转\Nkey was not doing that once but making that a repeatable process and and making sure that that pipeline didn't break
 Dialogue: 0,0:25:11.72,0:25:20.00,Default,,0,0,0,,我记得Pete遇到了很多有趣的问题，说明了React还不能拿来做Instagram规模的应用\NI think he hit a number of really interesting problems along the way which quite proved the fact that react was not quite ready for that scale
 Dialogue: 0,0:25:20.16,0:25:26.58,Default,,0,0,0,,为了解决问题，Pete和他的团队也在这个过程中构建了很多有意思的东西\Nand along the way Pete and the team that he was working with into that building a lot of really interesting things
-Dialogue: 0,0:25:26.58,0:25:28.08,Default,,0,0,0,,[Music]
-Dialogue: 0,0:25:28.08,0:25:31.08,Default,,0,0,0,,foreign
+Dialogue: 0,0:25:26.58,0:25:28.08,Default,,0,0,0,,
+Dialogue: 0,0:25:28.08,0:25:31.08,Default,,0,0,0,,
 Dialogue: 0,0:25:50.34,0:25:55.08,Default,,0,0,0,,早期使用React的几个项目都相当成功\Nsome of these products ended up being fairly successful there were relatively
 Dialogue: 0,0:25:55.08,0:26:03.80,Default,,0,0,0,,它们都在较短的开发时间内达成了较高的质量，证明了React是一种有效的开发方式\Nshort time to to deliver a relatively high quality product that show that this model could work
 Dialogue: 0,0:26:03.90,0:26:10.34,Default,,0,0,0,,不仅如此，人们开始喜欢使用它，这让React逐渐扩散和起飞\Nand it was not just that but people liked developing using it and so that kind of spread and took off
 Dialogue: 0,0:26:10.42,0:26:17.48,Default,,0,0,0,,特别是使用越来越多以后，人们意识到这是他们喜欢的开发方式\Nand especially if you got more and more investment they came clear that this was what we wanted to use and
 Dialogue: 0,0:26:17.56,0:26:34.46,Default,,0,0,0,,但当时广告团队已经在重度使用Bolt，很多人对Bolt已经非常熟悉，对于他们来说迁移到React的成本会更高\Nit was really ads that was kind of using Baltimore it had a higher level investment more people working in that code base that already knew it and more components so it was a harder shift to make
-Dialogue: 0,0:26:35.76,0:26:50.03,Default,,0,0,0,,广告团队在我加入之前刚刚用Bolt重写了"广告创建流"模块，花了他们六个月用Bolt代替古老的PHP代码\Nthe ads team just before I joined ads from the mobile team had done a full rewrite of the ads creation flow into bolt which took them I think upwards of six months replacing a very old PHP application with what time was
-Dialogue: 0,0:26:50.03,0:26:53.27,Default,,0,0,0,,Blot当时被认为是相当现代的JS框架\Nconsidered a very modern JavaScript application but at the same time react
-Dialogue: 0,0:26:53.27,0:26:59.64,Default,,0,0,0,,但是与此同时Blot的竞争对手React也开始被用于Facebook的生产项目，而且组建了团队\Nwas also now actually deployed for real on Facebook and had a team that was forming around it
+Dialogue: 0,0:26:35.76,0:26:50.03,Default,,0,0,0,,广告团队在我加入之前刚刚用Bolt重写了广告管理器模块，花了他们六个月用Bolt代替古老的PHP代码\Nthe ads team just before I joined ads from the mobile team had done a full rewrite of the ads creation flow into bolt which took them I think upwards of six months replacing a very old PHP application with what time was
+Dialogue: 0,0:26:50.03,0:26:53.27,Default,,0,0,0,,Bolt当时被认为是相当现代的JS框架\Nconsidered a very modern JavaScript application but at the same time react
+Dialogue: 0,0:26:53.27,0:26:59.64,Default,,0,0,0,,但是与此同时Bolt的竞争对手React也开始被用于Facebook的生产项目，而且组建了团队\Nwas also now actually deployed for real on Facebook and had a team that was forming around it
 Dialogue: 0,0:26:59.68,0:27:05.92,Default,,0,0,0,,所以现状变成了Facebook内部有两个前端开发框架并存，两个框架解决同一类问题且都有生产应用\Nso we now had two viable Frameworks that were both live on Facebook both solving real problems
 Dialogue: 0,0:27:06.08,0:27:12.65,Default,,0,0,0,, 这是不应该的，特别是两个框架的代码相似到会让人分不清哪个是哪个\Nwe shouldn't have two especially two that were similar similar enough to confuse people like if you looked at a code
 Dialogue: 0,0:27:12.65,0:27:16.38,Default,,0,0,0,,并且对比两个框架的代码会发现，虽然代码差不多但是它们的工作原理非常不同\Ntheir code almost looked identical but that worked really differently it would
 Dialogue: 0,0:27:16.38,0:27:23.01,Default,,0,0,0,,如果你需要同时和两个框架打交道，这种情况简直是噩梦，所以我们需要决定谁去谁留\Nactually be an absolute nightmare if you had to work in both so we had to decide which which to use
-Dialogue: 0,0:27:23.01,0:27:26.05,Default,,0,0,0,,[Music]
+Dialogue: 0,0:27:23.01,0:27:26.05,Default,,0,0,0,,
 Dialogue: 0,0:27:26.29,0:27:30.00,Default,,0,0,0,,最终我(Bolt负责人)和Jordan(React创造者)做了一个长长的讨论\Na lot of this was ended up being a conversation between myself and Jordan
-Dialogue: 0,0:27:30.00,0:27:37.58,Default,,0,0,0,,我们做了很多枯燥的性能测试，尝试找到两个框架应用的边缘案例we did an evaluation of boredom a lot of performance-based stuff and trying to figure out where the edge cases were
+Dialogue: 0,0:27:30.00,0:27:37.58,Default,,0,0,0,,我们做了很多枯燥的性能测试，尝试找到两个框架应用的边缘案例\Nwe did an evaluation of boredom a lot of performance-based stuff and trying to figure out where the edge cases were
 Dialogue: 0,0:27:39.90,0:27:44.22,Default,,0,0,0,,React的优势显然在于它能很好地处理复杂性\Non the pro side of react obviously there's all the things that we know now it handles complexity way way more even
-Dialogue: 0,0:27:44.22,0:27:52.62,Default,,0,0,0,,比如说在用Bolt重写"广告创建流"模块的时候，我们已经出现不得不写出意大利面条代码的情况\Nwhen writing the as creation flow in bold we had already hit one place that you just could not do in Bolt without writing spaghetti code and you can do in
+Dialogue: 0,0:27:44.22,0:27:52.62,Default,,0,0,0,,比如说在用Bolt重写广告管理器模块的时候，我们已经出现不得不写出意大利面条代码的情况\Nwhen writing the as creation flow in bold we had already hit one place that you just could not do in Bolt without writing spaghetti code and you can do in
 Dialogue: 0,0:27:52.62,0:28:00.72,Default,,0,0,0,,但是使用React可以很好解决这个问题，我们认为尽管这种情况可能只会在十个项目中出现一次\Nreact so we knew in the future even if it was only 10 of the experiences we were building we're going to run into this problem again now it might only be
 Dialogue: 0,0:28:00.72,0:28:05.88,Default,,0,0,0,,但是当你放大到整个公司，其缺陷也会急速放大\N10 unmaintainable but as you scale that across a company that is growing rapidly this becomes an absolute mess
 Dialogue: 0,0:28:05.96,0:28:12.53,Default,,0,0,0,, React的缺点是它还没有经过足够多的考验，很多东西当时React根本做不到\Nthe cons of it on the other hand were that react in a lot of ways was not battle tested yet there's a lot of things that simply
 Dialogue: 0,0:28:12.53,0:28:16.44,Default,,0,0,0,,比如它不能很好处理表单，文本框\Ndidn't work in react it couldn't handle forms they'd never done a text box and
 Dialogue: 0,0:28:16.44,0:28:25.42,Default,,0,0,0,,处理表单元素比如单选按钮时过于复杂，还有就是会不必要地重新渲染大块UI而导致性能问题\Nthere's a lot of complexities around handing awkward form controls like radio buttons and so on that it messed up just performance issues where it would try and re-render large blocks
-Dialogue: 0,0:28:25.52,0:28:31.30,Default,,0,0,0,,也就是他们还没来得及做Raact框架的性能优化\Nso they hadn't had to do all of the performance improvements that obviously exist now
+Dialogue: 0,0:28:25.52,0:28:31.30,Default,,0,0,0,,也就是他们还没来得及做性能优化\Nso they hadn't had to do all of the performance improvements that obviously exist now
 Dialogue: 0,0:28:33.12,0:28:37.86,Default,,0,0,0,, 从组织管理角度，另一个对React不利的情况是我们刚刚花了六个月用Bolt重写了业务\Non the organizational side that the other con was that we had just done the six-month rewrite in both
 Dialogue: 0,0:28:37.86,0:28:45.60,Default,,0,0,0,,Facebook刚刚经历IPO，股市表现不振，挣钱变少\Num Facebook had done an IPO recently and the stock had since IPO Facebook wasn't making enough money and
 Dialogue: 0,0:28:45.60,0:28:48.96,Default,,0,0,0,,而广告团队又是直接和挣钱相关的团队，钱由这里往下流动\Nso the ads team is the team that makes you know that's where the money starts
 Dialogue: 0,0:28:48.96,0:28:53.64,Default,,0,0,0,,如果我们要再花4个月用React重写Bolt应用，就意味着营收会进一步受影响\Nif we stop for four months we're gonna have to tell everybody
-Dialogue: 0,0:28:53.64,0:28:58.22,Default,,0,0,0,,我们必须对所有人说“对不起，没钱了”，所以是否转向React经历了很多讨论，很难下决定\Nsorry no money for you so there was a lot of conversation back and forth about all this it was got very difficult
-Dialogue: 0,0:28:58.30,0:29:07.08,Default,,0,0,0,,一开始，熟悉Blot的工程师包括Shane，都表示说我们已经在Bolt上投入了太多，而且Bolt使用好好的\Ninitially a lot of the engineers that used bolt including Shane realized just what you said like look we've invested so much in this thing and it's it's really worked for all this stuff
+Dialogue: 0,0:28:53.64,0:28:58.22,Default,,0,0,0,,我们必须对所有人说"对不起，没钱了"，所以是否转向React经历了很多讨论，很难下决定\Nsorry no money for you so there was a lot of conversation back and forth about all this it was got very difficult
+Dialogue: 0,0:28:58.30,0:29:07.08,Default,,0,0,0,,一开始，熟悉Bolt的工程师包括Shane，都表示说我们已经在Bolt上投入了太多，而且Bolt使用好好的\Ninitially a lot of the engineers that used bolt including Shane realized just what you said like look we've invested so much in this thing and it's it's really worked for all this stuff
 Dialogue: 0,0:29:07.08,0:29:10.91,Default,,0,0,0,,毫无疑问可以继续应对新的挑战\Ncertainly we can work through the next set of challenges we're having so
 Dialogue: 0,0:29:10.91,0:29:14.46,Default,,0,0,0,,所以一开始针对全面转向React有一些反对声音\Ninitially there was opposition to react coming in and saying like how are you
-Dialogue: 0,0:29:14.46,0:29:19.98,Default,,0,0,0,,反对的人说“这关乎到重要的生意，而React都没有经过足够考验”\Ngonna you know this new thing that's not even proven yet this is our business this is really important
+Dialogue: 0,0:29:14.46,0:29:19.98,Default,,0,0,0,,反对的人说"这关乎到重要的生意，而React都没有经过足够考验"\Ngonna you know this new thing that's not even proven yet this is our business this is really important
 Dialogue: 0,0:29:20.20,0:29:30.96,Default,,0,0,0,,当我和Jordan讨论的时候，因为双方都对对方的工作背景缺乏了解，所以有很多情绪激动的时刻\Nwhen Jordan and I were working through it was definitely uh some emotions uh there um and mostly I think it came from uh each of us having a lack of context of where the other one was coming from so I
 Dialogue: 0,0:29:30.96,0:29:32.70,Default,,0,0,0,,出现过各说各话的情况\Nthink there was a lot of talking past each other
 Dialogue: 0,0:29:32.86,0:29:44.82,Default,,0,0,0,, 最后公司CTO介入，他说："要做正确的技术决定，正确的长期决定，不管最终决定是什么我都会支持"\Nin the end Mike shroffer stepped in and said look make the right technical decision make the right long-term decision and whatever it is you know I'll back you up
@@ -344,7 +367,7 @@ Dialogue: 0,0:30:11.22,0:30:19.42,Default,,0,0,0,,Shane(作为Bolt的负责人)�
 Dialogue: 0,0:30:19.58,0:30:29.70,Default,,0,0,0,,这是不常见的，在多数公司如果你的项目和其他项目竞争，你会打压其他项目而不是支持\Nand that doesn't happen in most companies and most companies if that's your baby project you try to undermine the other the the upstart because you're you know you're really defensive over
 Dialogue: 0,0:30:29.70,0:30:33.96,Default,,0,0,0,,但是当时Facebook的风气并不是如此\Nyour own thing that was not the vibe at Facebook at the time and I think that
 Dialogue: 0,0:30:33.96,0:30:38.82,Default,,0,0,0,,这一点在Shane身上特别突出\NShane in particular really exemplified that
-Dialogue: 0,0:30:38.82,0:30:46.22,Default,,0,0,0,,现在"广告创建流"模块需要用React重写，工作量很大，氛围紧张，广告团队遇到了困难\Nthere was still a lot of work to do on the ads creation flow tensions were mounting and the team was stuck
+Dialogue: 0,0:30:38.82,0:30:46.22,Default,,0,0,0,,现在广告管理器模块需要用React重写，工作量很大，氛围紧张，广告团队遇到了困难\Nthere was still a lot of work to do on the ads creation flow tensions were mounting and the team was stuck
 Dialogue: 0,0:30:46.40,0:30:50.44,Default,,0,0,0,,Jing Chen又一次来救火了\Nhere again to get them unstuck is Jing Chen
 Dialogue: 0,0:30:50.66,0:31:01.79,Default,,0,0,0,,当时面临棘手的管理问题，广告团队和开发React的基础设施团队各自内部意见不能统一\Nwe'd have this thorny management issue and a lot of people disagreeing with each other up and down the management chain on both sides of you know in ads and in this product infrastructure group those building react and we'd send Jing
 Dialogue: 0,0:31:01.79,0:31:09.36,Default,,0,0,0,,Jing被派去消弭分歧，他们会面以后每个人出来都面带笑容相互拍肩，团队达成了一致\Nin to talk to the engineers and everyone come out like patting each other on the back full agreement a plan to move forward so she's great at building a
@@ -367,12 +390,12 @@ Dialogue: 0,0:32:46.32,0:32:53.76,Default,,0,0,0,,比如支持各种浏览器，
 Dialogue: 0,0:32:53.86,0:32:59.04,Default,,0,0,0,,这时React开源的时机似乎到了\Nso at that point it was kind of felt that it was ready to be open source
 Dialogue: 0,0:32:59.30,0:33:04.28,Default,,0,0,0,,因为我们已经在各种不同的场景使用和验证了它\Nbecause you know we we used it in multiple different types of contexts a
 Dialogue: 0,0:33:04.28,0:33:08.25,Default,,0,0,0,,我们认为它对外部世界也会有用\Nnd that uh you know um it would actually be generally useful to the public
-Dialogue: 0,0:33:08.25,0:33:12.66,Default,,0,0,0,,[Music]
+Dialogue: 0,0:33:08.25,0:33:12.66,Default,,0,0,0,,
 Dialogue: 0,0:33:18.89,0:33:20.16,Default,,0,0,0,,你刚刚说什么？(空耳，不确定) \NWhere were you saying?
 Dialogue: 0,0:33:20.16,0:33:21.89,Default,,0,0,0,,有煮咖啡吗？
 Dialogue: 0,0:33:22.02,0:33:25.78,Default,,0,0,0,,抱歉没有\Nuh there is not sorry
 Dialogue: 0,0:33:25.94,0:33:31.68,Default,,0,0,0,,开源React对我来说从来不是个问题，一开始React的目标就是开源\Nopen sourcing reactor is never a question for me that was the goal from the very beginning
-Dialogue: 0,0:33:31.74,0:33:40.74,Default,,0,0,0,,Tom有个理论叫"项目定位"，Facebook从JS世界雇佣了一批先驱开发者但是又不鼓励他们浏览器端开发\NTom had this idea he called it project perception and he was really angry I think it's probably the best word for he's angry that Facebook was
+Dialogue: 0,0:33:31.74,0:33:40.74,Default,,0,0,0,,Tom有个理论叫"项目定位"，Facebook从JS世界雇佣了一批先驱开发者但是又不鼓励他们浏览器端JS开发\NTom had this idea he called it project perception and he was really angry I think it's probably the best word for he's angry that Facebook was
 Dialogue: 0,0:33:40.74,0:33:49.36,Default,,0,0,0,,因为当时浏览器端开发被认为比较困难，只有很少的发挥空间\Nhiring all these luminaries from the JavaScript World they would come to Facebook and you know because we discouraged people from writing client-side JavaScript and because it was a hard environment to maneuver in it
 Dialogue: 0,0:33:49.36,0:33:57.70,Default,,0,0,0,, 所以这些人会转向移动端开发，因为当时有趣的客户端开发工作在移动端\Nwould actually go pick up mobile because that was where a lot of the interesting client-side development was happening
 Dialogue: 0,0:33:57.84,0:34:00.16,Default,,0,0,0,,Tom对此感到不满，他决心扭转这种情况\Nand Tom was determined to change us around
@@ -383,13 +406,13 @@ Dialogue: 0,0:34:28.02,0:34:32.58,Default,,0,0,0,,我很早就开始对管理层
 Dialogue: 0,0:34:32.58,0:34:37.32,Default,,0,0,0,,所以当开源的时机成熟时，虽然有一些争议和开会讨论\Nwhen the time came to open source it there were some meetings it was controversial
 Dialogue: 0,0:34:37.32,0:34:41.96,Default,,0,0,0,,但是我们已经有了开源所需的所有支持\Nbut we had all the support we needed already
 Dialogue: 0,0:34:44.82,0:34:56.42,Default,,0,0,0,,开源遇到的第一个技术问题是如何将React从Facebook的基础设施中提取出来，\N让它成为一个独立的开源项目\Nthe process of open sourcing uh is interesting there's first a technical problem to solve you have to figure out how to extract it out of your infrastructure and make it work in the open source
-Dialogue: 0,0:34:56.46,0:34:59.58,Default,,0,0,0,,这方面我们已经在做Instagram网站的时候做过作业了which is all the homework that we did for Instagram
+Dialogue: 0,0:34:56.46,0:34:59.58,Default,,0,0,0,,这方面我们已经在做Instagram网站的时候做过作业了\Nwhich is all the homework that we did for Instagram
 Dialogue: 0,0:34:59.58,0:35:04.62,Default,,0,0,0,,我们决定开源不能降低原有的开发效率\Nwe made this call that like we will not impact developer productivity at all
 Dialogue: 0,0:35:04.70,0:35:11.04,Default,,0,0,0,,开源相关工作将完全由那些主张开源的人来负责处理\Nit's going to be entirely on the open source team which was just a bunch of people that wanted to open source it to make it work
 Dialogue: 0,0:35:11.12,0:35:14.70,Default,,0,0,0,,为了启动开源\Nthen actually pulling the trigger on open source
 Dialogue: 0,0:35:14.70,0:35:23.16,Default,,0,0,0,,我们花了很多时间在文档上，解释什么是React，各种概念是什么\Nwe had to write a lot of documentation we spent actually a lot of time with the documentation to explain like hey what is react what are all the concepts and
 Dialogue: 0,0:35:23.16,0:35:32.32,Default,,0,0,0,,我们需要想象自己是一个想要构建应用的人，然后思考什么样的文档能够帮助自己\Nwe try to put ourselves in the shoes of like somebody that want to build an app how do we give the documentation in a way it like helps them do that
-Dialogue: 0,0:35:32.54,0:35:41.33,Default,,0,0,0,,Paul做了很多文档的工作，他清楚当时需要什么样的生态才能让Rect成功开源\Npolish Channel as they did a lot of this because he really had the experience with what the ecosystem needed to make this work at the time Apollo fantasy was
+Dialogue: 0,0:35:32.54,0:35:41.33,Default,,0,0,0,,Paul做了很多文档的工作，他清楚当时需要什么样的生态才能让React成功开源\Npolish Channel as they did a lot of this because he really had the experience with what the ecosystem needed to make this work at the time Apollo fantasy was
 Dialogue: 0,0:35:41.33,0:35:58.32,Default,,0,0,0,,Paul和James都是开源的推动者，James是当时Facebook开源负责人，\N他刚加入不久，非常希望改变Facebook在开源世界的形象\Na huge force on open sourcing as was James Pierce who was the head of  Facebook open source James had joined the company and he really wanted to \Nchange Facebook's open source image we had previously open sourced a lot of
 Dialogue: 0,0:35:58.32,0:36:05.88,Default,,0,0,0,,过去我们也开源过一些项目，但是开源以后就不管了，任其腐烂，只为了一个开源的名声\Nstuff but we let it rot we would say hey we're an open source company here's our great framework and then we would just never maintain it and James and Paul in
 Dialogue: 0,0:36:05.90,0:36:11.64,Default,,0,0,0,,James，特别是Paul认为如果要开源就要后续负责，他们的意见起到了重要作用\Nparticular were like pretty instrumental in saying hey if we're going to open source react we're going to do it right
@@ -400,21 +423,23 @@ Dialogue: 0,0:36:30.06,0:36:32.82,Default,,0,0,0,,相关的明星人物会发表
 Dialogue: 0,0:36:32.82,0:36:34.78,Default,,0,0,0,,很多人都会在Youtube上观看直播\Neverybody watches it live on YouTube
 Dialogue: 0,0:36:34.90,0:36:37.44,Default,,0,0,0,,Tom和Jordan一起准备了一个演讲\NTom and Jordan put together this presentation
 Dialogue: 0,0:36:37.50,0:36:48.50,Default,,0,0,0,,Tom擅长演讲，Jordan技术厉害，就像列侬和麦卡特尼同台演出，成功看起来是注定的\NTom is a great speaker and Jordan is a brilliant engineer it was like Lennon and McCartney type of situation there was no way that this thing could possibly fail
-Dialogue: 0,0:36:48.69,0:36:54.20,Default,,0,0,0,,[Music]
+Dialogue: 0,0:36:48.69,0:36:54.20,Default,,0,0,0,,
 Dialogue: 0,0:36:54.20,0:36:58.30,Default,,0,0,0,,JSConf US当天上午9点在佛州举行\Nit was in Florida um at like 9 00 a.m
 Dialogue: 0,0:36:59.33,0:37:03.30,Default,,0,0,0,,而我们在湾区的门洛公园，当天我们起的很早，赶第一班公交到了空荡荡的办公室\NWe were in Menlo Park and we woke up early we took the first bus into the office it was
 Dialogue: 0,0:37:03.30,0:37:07.74,Default,,0,0,0,,我们已经等不及要将React仓库设为公开\Ncompletely empty and we're like getting ready to like press the button on the repo to open sources
 Dialogue: 0,0:37:07.80,0:37:10.56,Default,,0,0,0,,我和Jordan两人都非常激动地登台\NJordan and I were all excited we got up on stage I'm going
-Dialogue: 0,0:37:10.56,0:37:13.74,Default,,0,0,0,,“今天我想介绍一下我们在Facebook如何做JS应用开发”\Nto talk a bit about how we do JavaScript application development at Facebook it
+Dialogue: 0,0:37:10.56,0:37:13.74,Default,,0,0,0,,"今天我想介绍一下我们在Facebook如何做JS应用开发"\Nto talk a bit about how we do JavaScript application development at Facebook it
+Dialogue: 0,0:37:10.54,0:37:12.54,2nd,,0,0,0,,@Tom
 Dialogue: 0,0:37:13.74,0:37:17.94,Default,,0,0,0,,这次演讲有点特别，我讲了一小部分，Jordan讲了大部分内容\Nwas a little unconventional I like did a little bit of it he did more of it so
-Dialogue: 0,0:37:17.94,0:37:23.42,Default,,0,0,0,,“随React发布的还有一种我们称为JSX的嵌入式xml语法”\Nalong with react we are shipping an embeddable XML syntax and we're calling that jsx
+Dialogue: 0,0:37:17.94,0:37:23.42,Default,,0,0,0,,"随React发布的还有一种我们称为JSX的嵌入式XML语法"\Nalong with react we are shipping an embeddable XML syntax and we're calling that jsx
+Dialogue: 0,0:37:17.94,0:37:19.94,2nd,,0,0,0,,@Jordan
 Dialogue: 0,0:37:23.52,0:37:29.06,Default,,0,0,0,,我们迫不及待地展示了一段代码，这段代码当时看起来非常奇怪\Nand we jumped into showing some code and that code looked different it looked weird
 Dialogue: 0,0:37:29.12,0:37:31.88,Default,,0,0,0,,"这是React和JSX一起使用的代码"\Nhere we have react used with jsx
 Dialogue: 0,0:37:31.98,0:37:36.14,Default,,0,0,0,,人们理所当然地对这种新的开发方式表示了怀疑\Nand people were rightfully skeptical we'll call it
 Dialogue: 0,0:37:36.28,0:37:39.62,Default,,0,0,0,,所有人都表达了厌恶之情，认为这非常糟糕\Neveryone hated it everyone thought it was awful
 Dialogue: 0,0:37:40.52,0:37:47.06,Default,,0,0,0,,[表达厌恶React的推文，偷懒不翻译了]
 Dialogue: 0,0:37:47.06,0:37:52.38,Default,,0,0,0,,我们内部本来期待React会有更好的社区反馈\Nly we were expecting a much better reception or at least an oh that's
-Dialogue: 0,0:37:52.38,0:37:59.70,Default,,0,0,0,,我们期待人们至少会说"有点意思"，期待一些着迷编程语言的人会觉得"我们可以用函数式编程开发UI了"\Ninteresting exception we thought there'd be some language nerds in there who would um think oh I can do fully functional program in the UI oh at least
+Dialogue: 0,0:37:52.38,0:37:59.70,Default,,0,0,0,,我们期待人们至少会说"有点意思"，期待一些编程语言呆子会觉得"我们可以用函数式编程开发UI了"\Ninteresting exception we thought there'd be some language nerds in there who would um think oh I can do fully functional program in the UI oh at least
 Dialogue: 0,0:37:59.70,0:38:03.59,Default,,0,0,0,,然而社区的反应像一盆冷水泼过来\Nthat's interesting it was a really humbling experience it was kind of a
 Dialogue: 0,0:38:03.59,0:38:10.44,Default,,0,0,0,,对我们来说是一次打击，因为我们牺牲了很多加班和周末才让React能够开源，\N然而发布以后每个人都很讨厌它\Nletdown for us because we had worked nights and weekends on getting this thing open sourceable and then when we go to launch it everyone hated it the
 Dialogue: 0,0:38:10.44,0:38:15.44,Default,,0,0,0,,所有的关注点都在JSX，所有人都讨厌它\Nthing that everyone focuses on is that people really hated jsx
@@ -425,7 +450,7 @@ Dialogue: 0,0:38:33.30,0:38:39.24,Default,,0,0,0,,我不记得当时有注意到
 Dialogue: 0,0:38:39.24,0:38:42.76,Default,,0,0,0,,不记得当时他们发了那么多厌恶React的推文\Nthey were like tweeting a bunch of a bunch of stuff
 Dialogue: 0,0:38:42.86,0:38:46.80,Default,,0,0,0,, 对，这个就是当时的ppt，我们当时没有做任何铺垫，没有说是要解决什么问题\Nthis is the slide for sure we haven't talked about any problems we're trying to solve we
 Dialogue: 0,0:38:46.80,0:38:51.26,Default,,0,0,0,,也没有解释为什么这个方式对我们有效，或者React的设计哲学是什么\Nhaven't talked about why this is working for us or what were the principles of design
-Dialogue: 0,0:38:51.30,0:38:56.48,Default,,0,0,0,,我们就直接展示了一段包含xml的JS代码，所有人都表示WTF?\Nwe're just like boom here's some XML in your JavaScript and people are like hey what is happening
+Dialogue: 0,0:38:51.30,0:38:56.48,Default,,0,0,0,,我们就直接展示了一段包含XML的JS代码，所有人都表示WTF?\Nwe're just like boom here's some XML in your JavaScript and people are like hey what is happening
 Dialogue: 0,0:38:56.48,0:38:58.48,Default,,0,0,0,, 可怜的Jordan\Nuh poor Jordan
 Dialogue: 0,0:38:59.09,0:39:08.94,Default,,0,0,0,,我们没有意识到当时Facebook和JS世界其他部分之间的落差有多么大\Nwhat we didn't really fully understand was how big of a Delta there was between where the rest of the world was in the JavaScript community and where Facebook was
 Dialogue: 0,0:39:08.94,0:39:14.30,Default,,0,0,0,,我并不责怪当时批评的人，我也不觉得批评我们疯狂的人自身是疯子\NI don't blame them I don't think anybody who tweeted Facebook is crazy was crazy themselves
@@ -434,8 +459,8 @@ Dialogue: 0,0:39:18.12,0:39:19.56,Default,,0,0,0,,[狗狗：你终于承认了]
 Dialogue: 0,0:39:19.70,0:39:28.02,Default,,0,0,0,,对于个人来说，演讲发布后某个时刻我觉得通过开源让我们更加融入社区的努力失败了\NI think there was a moment for me personally where I felt like you know my goal with the open sourcing of this was to get us closer to the
 Dialogue: 0,0:39:28.02,0:39:34.62,Default,,0,0,0,,并且我们反而退步了，我们可能对外界展示了我们根本不知道自己在做什么\Ncommunity and I may have set us back a step I may have demonstrated that we actually have no idea what we're doing
 Dialogue: 0,0:39:34.72,0:39:38.42,Default,,0,0,0,,因为我们做的事情和社区做的事情如此不同\Nbecause what we're doing is so much different than what the rest of the community was doing
-Dialogue: 0,0:39:38.42,0:39:45.20,Default,,0,0,0,,内部总结就是"好吧，我们搞砸了"，“失策了”\Nand internally there was a well we messed that up we made the wrong call
-Dialogue: 0,0:39:46.02,0:39:51.78,Default,,0,0,0,,因为我认为衡量成功的标志应该是"Wow，Facebook正在做一些非常酷的东西"\Num because I think the measure of success would have been wow Facebook engineering is doing some really cool stuff
+Dialogue: 0,0:39:38.42,0:39:45.20,Default,,0,0,0,,内部总结就是"好吧，我们搞砸了", "失策了"\Nand internally there was a well we messed that up we made the wrong call
+Dialogue: 0,0:39:46.02,0:39:51.78,Default,,0,0,0,,因为我认为衡量成功的标志应该是"Wow，Facebook的工程师们正在做一些非常酷的东西"\Num because I think the measure of success would have been wow Facebook engineering is doing some really cool stuff
 Dialogue: 0,0:39:51.80,0:39:54.44,Default,,0,0,0,,而不是"Facebook不知道自己在做什么"\Nand instead it was Facebook engineering has no idea what they're doing
 Dialogue: 0,0:39:54.58,0:40:01.80,Default,,0,0,0,, 我记得从那以后，Jordan好几年都没再参加JS会议\NI think that gsconf um appearance might have been Jordan's last conference for a good few years I
 Dialogue: 0,0:40:01.80,0:40:04.85,Default,,0,0,0,,Tom也一段时候没有再参加，React的发布演讲不知何故变成了黑粉们的盛宴\Nthink camokino didn't go back for a while as well it turned into a bit of a
@@ -455,31 +480,32 @@ Dialogue: 0,0:41:21.96,0:41:28.56,Default,,0,0,0,,而现在React会按照功能�
 Dialogue: 0,0:41:28.56,0:41:30.56,Default,,0,0,0,,也就是关注点分离的方式发生了变化\Nso it's a different way of separating concerns and
 Dialogue: 0,0:41:30.83,0:41:37.72,Default,,0,0,0,,React发布之后有很多人反对，一些人认为那些推出React的人都是小丑\Nso there was like a lot of backlash around like oh those people at Facebook are clowns like they don't know how to write software and everything
 Dialogue: 0,0:41:37.80,0:41:41.34,Default,,0,0,0,,当时我们认为React在Facebook之外可能不会有发展前景\Nwe thought that react probably had no future outside of Facebook
-Dialogue: 0,0:41:41.42,0:41:45.05,Default,,0,0,0,,[Music]
+Dialogue: 0,0:41:41.42,0:41:45.05,Default,,0,0,0,,
 Dialogue: 0,0:41:52.80,0:41:58.20,Default,,0,0,0,,对于主张开源React的人来说似乎所有的希望都落空了\Nit looked like all hope was lost for our friends at the Facebook office but
 Dialogue: 0,0:41:58.20,0:42:03.72,Default,,0,0,0,,然而随着Facebook之外有人开始尝试React，转机出现了\Nfortunately someone outside of Facebook was willing to give it a chance
-Dialogue: 0,0:42:03.72,0:42:05.05,Default,,0,0,0,,foreign
-Dialogue: 0,0:42:05.05,0:42:10.03,Default,,0,0,0,,[Music]
+Dialogue: 0,0:42:03.72,0:42:05.05,Default,,0,0,0,,
+Dialogue: 0,0:42:05.05,0:42:10.03,Default,,0,0,0,,
 Dialogue: 0,0:42:11.54,0:42:17.52,Default,,0,0,0,,2013年我开始使用React的时候它在社区中还不流行\Nwhen I first started using react in 2013 it was not popular in the community it had just
+Dialogue: 0,0:42:11.54,0:42:13.54,2nd,,0,0,0,,@Sophie
 Dialogue: 0,0:42:17.52,0:42:24.20,Default,,0,0,0,,当时React刚刚在一次JS会议上发布，我是在Hacker News上了解到的\Nbeen announced at jsconf I saw the announcement post on Hacker News
-Dialogue: 0,0:42:24.30,0:42:31.78,Default,,0,0,0,,我立即意识到它会对我当时做的一个项目有所帮助and immediately thought that it would be helpful for one of the projects that I was working on at the time
-Dialogue: 0,0:42:33.83,0:42:40.54,Default,,0,0,0,,那时我正在为可汗学院开发一个交互式的数学问题编辑器，项目的架构是面向组件的\NI was building an interactive math question editor at Khan Academy and it was something that had a very component oriented architecture
-Dialogue: 0,0:42:40.60,0:42:42.74,Default,,0,0,0,,我当时使用的是Backbone.js\NI was trying to use backbone.js at the time
+Dialogue: 0,0:42:24.30,0:42:31.78,Default,,0,0,0,,我立即意识到它会对我当时做的一个项目有所帮助\Nand immediately thought that it would be helpful for one of the projects that I was working on at the time
+Dialogue: 0,0:42:33.83,0:42:40.54,Default,,0,0,0,,那时我正在为可汗学院开发一个交互式的数学问题编辑器，项目的架构是类似面向组件的\NI was building an interactive math question editor at Khan Academy and it was something that had a very component oriented architecture
+Dialogue: 0,0:42:40.60,0:42:42.74,Default,,0,0,0,,我当时使用的是Backbone\NI was trying to use backbone.js at the time
 Dialogue: 0,0:42:42.74,0:42:47.80,Default,,0,0,0,,但是渐渐发现状态管理越来越难\Nand found that the state management was getting a little bit hard
 Dialogue: 0,0:42:47.82,0:42:56.32,Default,,0,0,0,,当我审视React的时候，我发现它似乎解决了当时我所面临的问题\Nand when I looked at react I thought to myself wow this actually looks like it solves a lot of the problems that I have right now
 Dialogue: 0,0:42:57.24,0:43:08.28,Default,,0,0,0,,我正在看的这篇贴文是我2013年写的，当时我才接触React，刚开始使用它一周左右\NI'm looking at this post from 2013 that I guess I wrote a week after I learned about react and it was right after I had
-Dialogue: 0,0:43:08.28,0:43:14.81,Default,,0,0,0,,有人在Quora上提问: "如何评价Facebook的React框架?"\Nstarted trying to use it and somebody had asked how is Facebook's react
+Dialogue: 0,0:43:08.28,0:43:14.81,Default,,0,0,0,,当时有人在Quora上提问: "如何评价Facebook的React框架?"\Nstarted trying to use it and somebody had asked how is Facebook's react
 Dialogue: 0,0:43:14.81,0:43:26.59,Default,,0,0,0,,虽然才用了几天，我还是决定根据自己的体验回答这个提问\NJavaScript library and I was a few days into using it and so I decided to write an answer to that question based on my experience
 Dialogue: 0,0:43:26.59,0:43:38.94,Default,,0,0,0,,我的回答非常正面，我记得我当时认为React真的解决了我的需求，\Nthe answer I wrote is very positive I think I was having a really good time using it and it was solving my needs really well
 Dialogue: 0,0:43:39.08,0:43:44.57,Default,,0,0,0,,其中一段是这么说的：\N"我刚刚使用React重写了一个两千行代码的项目，并向React提交了好几个PR"\NNone line from the post says I just rewrote a 2000 line project in react and have now made a handful of
 Dialogue: 0,0:43:44.57,0:43:54.00,Default,,0,0,0,,"目前接触到的所有方面都感觉经过了深思熟虑，很骄傲能成为第一个非Facebook的React生产用户"\Npull requests to react everything about react I've seen so far seems really well thought out and I am proud to be the first non-facebook production user of
 Dialogue: 0,0:43:54.00,0:44:04.68,Default,,0,0,0,,接着我又谈到了一些技术细节，以及React是如何帮助我的，这个回答现在看起来就像是一颗时光胶囊\Nreact and I talked a little bit more about some of the technical details and how it was helping me it's cool to look back and it's almost a bit of a time
-Dialogue: 0,0:44:04.68,0:44:17.30,Default,,0,0,0,,它记录下了当时我激动的心情，尽管那时我才使用React一周时间，而这份激动持续了很长时间\Ncapsule to see how even one week into react being released I was already pretty excited about it and I think that excitement lasted for a long time
+Dialogue: 0,0:44:04.68,0:44:17.30,Default,,0,0,0,,它记录下了当时我激动的心情，尽管那时我才使用React一周时间，后面这份激动持续了很久\Ncapsule to see how even one week into react being released I was already pretty excited about it and I think that excitement lasted for a long time
 Dialogue: 0,0:44:17.30,0:44:22.20,Default,,0,0,0,,接着我将当时手上所有的项目都用React重写了一遍\NI converted my entire code base that I was working on at the time over to react
 Dialogue: 0,0:44:22.20,0:44:27.74,Default,,0,0,0,,结果是代码量减少，更容易理解，而且性能更好\NI think it ended up being less code and it was easier to understand and it was faster
 Dialogue: 0,0:44:27.78,0:44:35.54,Default,,0,0,0,,很快我就决定继续使用React并将其部署到生产环境\Npretty quickly I said Okay I want to keep using react and I ended up deploying that to production
 Dialogue: 0,0:44:35.58,0:44:43.56,Default,,0,0,0,,我用React重写的项目应该是React在Facebook之外的第一次生产环境部署\Nmy my Rewritten code and that was I think the first production code using react outside of Facebook
-Dialogue: 0,0:44:43.56,0:44:45.80,Default,,0,0,0,,foreign
+Dialogue: 0,0:44:43.56,0:44:45.80,Default,,0,0,0,,
 Dialogue: 0,0:44:49.07,0:44:54.18,Default,,0,0,0,,这时React做为刚刚开源的新项目，使用过的人还不多\Nit was a brand new project that had just been open sourced and not many people ad used it before
 Dialogue: 0,0:44:54.26,0:45:00.12,Default,,0,0,0,,所以存在不少边缘使用场景，也就是此前没有用React实现过的需求\Nso there were a bunch of rough edges it seemed like you know maybe nobody had tried to use it in a particular way before
 Dialogue: 0,0:45:00.16,0:45:06.32,Default,,0,0,0,,或者仅仅是文档没有很好覆盖到某些方面，而我又想超出设计意图去使用它\Nor if something just wasn't documented well enough and I was trying to use it a slightly different way than it was intended
@@ -488,11 +514,11 @@ Dialogue: 0,0:45:13.36,0:45:21.02,Default,,0,0,0,,对于其中一部分问题，
 Dialogue: 0,0:45:21.02,0:45:34.50,Default,,0,0,0,,对于其他一些问题，我最终找到了React核心团队成员聚集的网络聊天室寻求帮助\Nfor other cases I ended up joining the IRC chat Channel where a lot of the core team members were hanging out after it had been open sourced
 Dialogue: 0,0:45:34.50,0:45:44.28,Default,,0,0,0,,他们不仅帮助我去使用React，\N而且随着我开始提isssue和帮助同个聊天室的其他初学者，\Nthat helped me get started not just using react but also starting to contribute to it as I started filing issues and helping other people who were in that chat room
 Dialogue: 0,0:45:44.34,0:45:51.77,Default,,0,0,0,,他们还鼓励我向React贡献代码，逐渐改善React\N as well as starting to make small code changes and starting to improve react over time
-Dialogue: 0,0:45:51.90,0:45:59.36,Default,,0,0,0,,Sophie自Facebook之外的可汗学院，她的外部视角非常宝贵，对项目很有帮助\Nher perspective from you know Khan Academy and just being outside of Facebook was so valuable  so helpful
+Dialogue: 0,0:45:51.90,0:45:59.36,Default,,0,0,0,,Sophie来自Facebook之外的可汗学院，她的外部视角非常宝贵，对项目很有帮助\Nher perspective from you know Khan Academy and just being outside of Facebook was so valuable  so helpful
 Dialogue: 0,0:45:59.42,0:46:08.00,Default,,0,0,0,,Sophie一开始是外部的React使用者，然后变成了外部的React贡献者\Nso if he started as someone using react externally then sort of like moved on to being someone who contributed to react core externally
 Dialogue: 0,0:46:08.20,0:46:12.12,Default,,0,0,0,, 再然后成了React核心团队最重要的成员\Nthen became the most significant contributor to react core
 Dialogue: 0,0:46:12.30,0:46:17.00,Default,,0,0,0,,然后我们开始举行每周一次的团队成员会面并邀请Sophie参加\Nthen we would have these like weekly team meetings and invite Sophie to come
-Dialogue: 0,0:46:17.06,0:46:25.04,Default,,0,0,0,,Sophine也得到她公司的一个本地经理的批准，可以拿出每周五下午的时间来Facebook参加相关活动\Nand so Sophie like worked out with her local manager at her company to like carve out Friday afternoons to come to Facebook and hang out with us
+Dialogue: 0,0:46:17.06,0:46:25.04,Default,,0,0,0,,Sophie也得到她公司的一个本地经理的批准，可以拿出每周五下午的时间来Facebook参加相关活动\Nand so Sophie like worked out with her local manager at her company to like carve out Friday afternoons to come to Facebook and hang out with us
 Dialogue: 0,0:46:25.10,0:46:35.12,Default,,0,0,0,,之前我们从开源社区雇佣员工然后他们却不再回馈社区，在我们停止这么做以后\Nand so determined not to do what we had done previously where we hired folks from the open source community and then they never contributed anything back
 Dialogue: 0,0:46:35.16,0:46:43.64,Default,,0,0,0,,Sophie反而成了有史以来第一个通过开源"招募"到的团队成员\Nshe became like the the first ever like open source recruited member of the team
 Dialogue: 0,0:46:44.16,0:46:47.38,Default,,0,0,0,,Sophie的参与拨开了React团队成员心头的阴霾\NSophie's involvement lifted the spirits of the react team
@@ -509,40 +535,41 @@ Dialogue: 0,0:47:39.76,0:47:47.12,Default,,0,0,0,,你要开始建设一个社区
 Dialogue: 0,0:47:47.16,0:47:49.68,Default,,0,0,0,,真正的旅程由此开始\NAnd so this is like when the journey begins.
 Dialogue: 0,0:47:49.80,0:47:59.09,Default,,0,0,0,,我们准备大干一场，我们也意识到当你的项目如此特别的时候\NWe buckled down. And we also realized I think that really when you have a project like this that's um different
 Dialogue: 0,0:47:59.14,0:48:03.97,Default,,0,0,0,,你需要一对一地去争取支持者，这也成了我们接下来工作的重点\Nyou have to convince people one\Nby one. So I think that's really what we focused on.
-Dialogue: 0,0:48:04.42,0:48:09.90,Default,,0,0,0,,我们从中学到了很多，我们确信React框架的思想是先进的\NAnd we learned a lot doing that. We learned that the ideas in React are solid,
+Dialogue: 0,0:48:04.42,0:48:09.90,Default,,0,0,0,,我们从中学到了很多，我们确信React的思想是先进的\NAnd we learned a lot doing that. We learned that the ideas in React are solid,
 Dialogue: 0,0:48:10.04,0:48:14.14,Default,,0,0,0,,但是当人们考虑采用一个新框架的时候，首先遇到的不是框架思想\Nbut really the ideas are not what people encounter when they adopt a framework.
 Dialogue: 0,0:48:14.18,0:48:23.13,Default,,0,0,0,,他们首先遇到的是文档和错误提示，他们最最需要的是一种能够逐渐接纳这个框架的方式，而非一蹴而就\NWhat they encounter are the docs and the error messages. What\Nthey need more than anything else when they adopt something is an incremental way of doing that.
 Dialogue: 0,0:48:23.74,0:48:25.36,Default,,0,0,0,,计策已定，团队成员们忙活了起来\NSo the team got to work.
 Dialogue: 0,0:48:25.54,0:48:31.12,Default,,0,0,0,,他们开始专注于一次一人，一次一地，一次一个概念地传播React\NThey focused on spreading the knowledge of React one concept\Nat a time, one person at a time.
 Dialogue: 0,0:48:31.12,0:48:35.06,Default,,0,0,0,,接着机会来了，另一个JS会议到了\NThen an opportunity arose: another conference.
 Dialogue: 0,0:48:35.96,0:48:41.56,Default,,0,0,0,,React开源当年的晚些时候，谢天谢地，Pete在JSConf EU做了另一次努力\NLater the same year, thank goodness,\NPete gave a talk at JSconf EU.
-Dialogue: 0,0:48:41.56,0:48:46.40,Default,,0,0,0,,当时我的工位挨着产品基础团队，\NI had my desk over by the product\Ninfrastructure team. I was sitting next to Tomo
-Dialogue: 0,0:48:46.44,0:48:52.20,Default,,0,0,0,,我听到旁边的Tomo说我们资助了JSConf EU，\Nand he's like, oh we're just like sponsoring\Nthis JSconf EU conference
+Dialogue: 0,0:48:41.56,0:48:46.40,Default,,0,0,0,,当时我的工位挨着产品基础设施团队\NI had my desk over by the product\Ninfrastructure team. I was sitting next to Tomo
+Dialogue: 0,0:48:46.44,0:48:52.20,Default,,0,0,0,,我听到旁边的Tom说我们资助了JSConf EU，\Nand he's like, oh we're just like sponsoring\Nthis JSconf EU conference
 Dialogue: 0,0:48:52.28,0:48:55.80,Default,,0,0,0,,现在我们要在会上做一次演讲，好烦不想做\Nand we have to give a keynote and I don't want to give it. Because
-Dialogue: 0,0:48:55.96,0:49:05.02,Default,,0,0,0,,我觉得他是不想重温噩梦: 当你做了一次演讲之后本来准备放松一下，却被台下的观众针对\N I think he was like he didn't want to go through all that stuff. Because you know after you\Ngive the talk like people go and yell at you after you get off stage and when you go to\Nthe happy hour and stuff.
+Dialogue: 0,0:48:55.96,0:49:05.02,Default,,0,0,0,,我觉得他是不想重温噩梦: 当你做了一次演讲之后本来准备放松一下，却被台下的观众针对\N I think he was like he didn't want to go through all that stuff. Because you know after you\Ngive the talk like people go and yell at you after you get off stage and when you go to the happy hour and stuff.
 Dialogue: 0,0:49:05.20,0:49:07.46,Default,,0,0,0,,这种经历并不好受\NIt's not the most pleasant thing in the world.
 Dialogue: 0,0:49:07.64,0:49:13.80,Default,,0,0,0,,我表示：我来！免费去柏林的机票给我，我去在会上做演讲\NAnd I was like, I'll do it! I'll take the free trip to Berlin and go give a talk at a conference.
 Dialogue: 0,0:49:13.86,0:49:19.67,Default,,0,0,0,,"嘿！我是Pete，我今天要谈的是一个我们叫做React的框架，我们用它构建用户界面"\NHey I'm Pete, I'm gonna talk to you about a library for creating user interfaces that we call React.
-Dialogue: 0,0:49:20.02,0:49:24.72,Default,,0,0,0,,几个月前我们在JSConf US会议上开源了这个库\NWe open sourced this at JSconf US a couple months ago.
-Dialogue: 0,0:49:24.78,0:49:30.54,Default,,0,0,0,,在推特上我们收获了一些嘲讽和恶搞\NAnd we got some kind of sarcastic responses on Twitter, a little bit of snickering, that kind of thing.
-Dialogue: 0,0:49:30.68,0:49:34.30,Default,,0,0,0,,原因在于我们没有很好解释React的设计哲学\NWe weren't really communicating what we were doing so
+Dialogue: 0,0:49:20.02,0:49:24.72,Default,,0,0,0,,"几个月前我们在JSConf US会议上开源了这个库"\NWe open sourced this at JSconf US a couple months ago.
+Dialogue: 0,0:49:24.78,0:49:30.54,Default,,0,0,0,,"在推特上我们收获了一些嘲讽和恶搞"\NAnd we got some kind of sarcastic responses on Twitter, a little bit of snickering, that kind of thing.
+Dialogue: 0,0:49:30.68,0:49:34.30,Default,,0,0,0,,"原因在于我们没有很好解释React的设计哲学"\NWe weren't really communicating what we were doing so
 Dialogue: 0,0:49:34.93,0:49:40.86,Default,,0,0,0,,"今天我想和大家介绍一下我们为什么这样设计React，以及React和其他框架的不同之处"\NI'd like to talk to you today about the design decisions around React, what we're doing differently than other Frameworks a
 Dialogue: 0,0:49:40.96,0:49:45.40,Default,,0,0,0,,“以及怎样的实现让我们做出了这些设计决定，并且促进性能的提升”\Nnd kind of the implementation that lets us make these decisions and make them really fast.
 Dialogue: 0,0:49:45.96,0:49:49.07,Default,,0,0,0,,我的这次演讲就是要引起人们的兴趣："看，这就是React的不同之处"\NFor this talk it was like, here's what makes React different.
-Dialogue: 0,0:49:49.07,0:49:52.44,Default,,0,0,0,,我没有说它好，我甚至没有说你应该使用它I'm not even trying to say it's good, I'm not even\Ntrying to say you should use it, I'm trying
+Dialogue: 0,0:49:49.07,0:49:52.44,Default,,0,0,0,,我没有说它好，我甚至没有说你应该使用它\NI'm not even trying to say it's good, I'm not even\Ntrying to say you should use it, I'm trying
 Dialogue: 0,0:49:52.83,0:49:57.96,Default,,0,0,0,,我只是尽力引起人们的兴趣，并展示React工作原理中一些值得关注的有趣地方\Nto say that this is interesting and there's\Na lot of interesting stuff about how this
 Dialogue: 0,0:49:58.02,0:50:03.31,Default,,0,0,0,,这次演讲成功吸引了人们的注意力\Nthing works that you should pay attention\Nto. And that really resonated with people.
 Dialogue: 0,0:50:03.31,0:50:07.35,Default,,0,0,0,,这之后我们吸引到了一些早期创新者，用一个跨越天埑的场景来比喻的话，\NAnd so we got these kind of early innovators\Nyou know if you think of the crossing the
 Dialogue: 0,0:50:07.35,0:50:13.15,Default,,0,0,0,,首先吃螃蟹的是早期尝试者，然后是一些迟疑中慢慢跟随的\Nchasm diagram, where you've got your your\Nearly adopters and then you've got your laggards
-Dialogue: 0,0:50:13.15,0:50:15.74,Default,,0,0,0,,再然后才是一些普通公司\Nand in the middle you have your kind of normal\Ncompanies.
-Dialogue: 0,0:50:15.84,0:50:21.32,Default,,0,0,0,,这次演讲吸引到了一些React的早期使用者，他们开始在各自的公司布道That talk really got those early React adopters fired up and evangelizing React inside\Nof their own companies.
+Dialogue: 0,0:50:13.15,0:50:15.74,Default,,0,0,0,,再然后才是一些普通公司\Nand in the middle you have your kind of normal companies.
+Dialogue: 0,0:50:15.84,0:50:21.32,Default,,0,0,0,,这次演讲吸引到了一些React的早期使用者，他们开始在各自的公司布道React\NThat talk really got those early React adopters fired up and evangelizing React inside of their own companies.
 Dialogue: 0,0:50:21.46,0:50:29.60,Default,,0,0,0,,Pete的演讲过后，对React感兴趣的人开始增多，更多人想亲自验证下React中是否有值得关注的东西\NAfter Pete's talk, interest started to pick up. People started paying attention. They just wanted to, you know, let me just see if there's something there.
 Dialogue: 0,0:50:29.68,0:50:33.82,Default,,0,0,0,,React开始了慢热\NAnd so we got this kind of like slow burn of adoption of React.
 Dialogue: 0,0:50:33.92,0:50:35.82,Default,,0,0,0,,一些有趣的交流发生了\N And it prompted some really interesting conversations.
-Dialogue: 0,0:50:36.23,0:50:41.23,Default,,0,0,0,,React引起了来自函数式编程世界的Brandom Bloom的注意\NIt recruited Brandon Bloom into the community\Nwho came from the functional programming world,
+Dialogue: 0,0:50:36.23,0:50:41.23,Default,,0,0,0,,React引起了来自函数式编程世界的Brandon Bloom的注意\NIt recruited Brandon Bloom into the community\Nwho came from the functional programming world,
 Dialogue: 0,0:50:41.23,0:50:48.07,Default,,0,0,0,,他开始跟他的朋友们说React值得关注\Nsomewhere. He started talking to his friends\Nand said, hey I think this React thing is
 Dialogue: 0,0:50:48.18,0:50:51.09,Default,,0,0,0,,然后Brandon又跟他的朋友David Nolen谈起了这件事\Nactually worth paying attention to. And then he goes and talks to his friend David Nolen
 Dialogue: 0,0:50:51.09,0:50:58.15,Default,,0,0,0,,David是JS开发者中广为人知，受人尊敬的一位音乐人\Nwho is this very well known, very well respected,\Nreally great musician and JavaScript developer.
+Dialogue: 0,0:50:58.15,0:50:58.15,Default,,0,0,0,,@David
 Dialogue: 0,0:50:58.15,0:51:07.20,Default,,0,0,0,,我记得他当时在纽约时报工作，而我又正好路过纽约，所以见面喝了咖啡\NI think he was working at the New York Times\Nat the time and I was passing through New York to do something and we grabbed coffee.
 Dialogue: 0,0:51:07.30,0:51:15.20,Default,,0,0,0,,我的朋友Brandon跟我说我应该试试React，所以我和Pete见面后问了一些关于React的问题\NAnd I asked Pete some questions and Brandon  Bloom, that was my friend that said you should really look at React.
 Dialogue: 0,0:51:15.46,0:51:21.16,Default,,0,0,0,,我了解React后感觉很激动，比普通的JS开发者要更为激动\NAnd the reason I was excited about it, more than I think you could\Nhave been if you were JavaScript developer,
@@ -550,10 +577,10 @@ Dialogue: 0,0:51:21.26,0:51:27.34,Default,,0,0,0,,原因在于，JS支持多种�
 Dialogue: 0,0:51:27.64,0:51:33.64,Default,,0,0,0,,然而在Clojure/ClojureScript中FP是最地道的，但是还没有类似React这样的函数式编程UI框架，\Nbut in Clojure and ClojureScript functional is the most idiomatic thing and nothing existed.
 Dialogue: 0,0:51:33.72,0:51:39.06,Default,,0,0,0,,我们一直在尝试类似React的东西，但是我总感觉差点意思\NLike we were sort of like always trying to get things to work but it always felt like there was friction.
 Dialogue: 0,0:51:39.32,0:51:45.36,Default,,0,0,0,,我当时还处于职业发展的早期，而David却已经是一个非常聪明的高级工程师\NI was still early in my career right and this is like really senior super smart engineer
-Dialogue: 0,0:51:45.72,0:51:53.10,Default,,0,0,0,,会面后的情景是他会问我一些关于React的事情，然后我会搜肠刮肚地尝试解答\Nand it was the type of thing where he would ask me questions about it  and I would stumble\Nto explain it and I would explain it poorly
+Dialogue: 0,0:51:45.48,0:51:53.10,Default,,0,0,0,,会面后的情景是他会问我一些关于React的事情，然后我会搜肠刮肚地尝试解答\Nand it was the type of thing where he would ask me questions about it  and I would stumble\Nto explain it and I would explain it poorly
 Dialogue: 0,0:51:53.12,0:52:00.82,Default,,0,0,0,,然后他会用一种非常优雅流畅的方式确认他的理解，我会说"理解正确! 以后我就这样跟别人解释了！"\Nand then he would repeat it back to me in like a super eloquent great way and I was like yes, I'm gonna steal that!
 Dialogue: 0,0:52:01.10,0:52:06.02,Default,,0,0,0,,和Pete，Brandon谈过之后，我大受启发和震撼，我当时想"终于出现了这样的工具！"\NAnd so when I sat with Brandon and Pete it was like this huge light bulb went off,
-Dialogue: 0,0:52:06.08,0:52:14.36,Default,,0,0,0,,“这太出人意料了，Facebook竟推出了这样一个函数式UI框架！我找到了！”\NI was like: finally this is so random, Facebook made this functional UI framework. Eureka!
+Dialogue: 0,0:52:06.08,0:52:14.36,Default,,0,0,0,,"这太出人意料了，Facebook竟推出了这样一个函数式UI框架！我找到了！"\NI was like: finally this is so random, Facebook made this functional UI framework. Eureka!
 Dialogue: 0,0:52:14.40,0:52:24.26,Default,,0,0,0,,这绝对是一个"我找到了!"的时刻，React允许ClojureScript开发者终于能以函数式来写性能良好的UI了\NI mean it was definitely a eureka moment. It it did allow ClojureScript programmers to finally write a reasonably performant functional UIs.
 Dialogue: 0,0:52:24.40,0:52:27.46,Default,,0,0,0,,而且写起来非常自然，React和ClojureScript是天作之合\N And it was very natural, it was a very, very good fit.
 Dialogue: 0,0:52:27.46,0:52:31.53,Default,,0,0,0,,之后大概一两周，David写了一篇博文，叫做《JavaScript中MVC模式的未来》\NLike a week or two later he wrote this blog post
@@ -562,8 +589,8 @@ Dialogue: 0,0:52:35.03,0:52:39.84,Default,,0,0,0,,从很多角度来看，你都
 Dialogue: 0,0:52:39.84,0:52:49.50,Default,,0,0,0,,能做到高效，然而我在文章中展示了React和Backbone的性能对比图，React要好很多\Nno way it could be efficient. And then I showed these diagrams of what Backbone and React look like and React is much better.
 Dialogue: 0,0:52:49.60,0:52:52.02,Default,,0,0,0,,特别是使用可持久化数据结构的时候\NEspecially when you're using persistent data structures.
 Dialogue: 0,0:52:52.11,0:52:59.57,Default,,0,0,0,,我的这篇文章纯粹是关于React设计上的技术优势\NSo my article I think was focusing purely\Non the technical benefits of the design. It
-Dialogue: 0,0:52:59.57,0:53:05.10,Default,,0,0,0,,移除了人们心中对于React浅薄的迟疑，他们开始觉得“好吧，我也试试”\Nremoved the superficial consideration and I think people started saying, okay I will
-Dialogue: 0,0:53:05.10,0:53:12.10,Default,,0,0,0,,不是“我会开始使用React”，但是消除了人们对React的偏见\Ntry it. Not I'm going to use it but it removed\Nthat "I'm never going to use that" to "oh
+Dialogue: 0,0:52:59.57,0:53:05.10,Default,,0,0,0,,移除了人们心中对于React浅薄的迟疑，他们开始觉得"好吧，我也试试"\Nremoved the superficial consideration and I think people started saying, okay I will
+Dialogue: 0,0:53:05.10,0:53:12.10,Default,,0,0,0,,不是"我会开始使用React"，但是消除了人们对React的偏见\Ntry it. Not I'm going to use it but it removed\Nthat "I'm never going to use that" to "oh
 Dialogue: 0,0:53:12.10,0:53:14.26,Default,,0,0,0,,人们起了兴趣，开始愿意尝试React\NI'll give it a shot, this is interesting".\NOnce that post came out like within three
 Dialogue: 0,0:53:14.40,0:53:22.83,Default,,0,0,0,,David的文章发表3个月后，React已经是人们选择JS框架时的有力竞争者了\Nmonths after that I would say that we were\None of the big contenders if you were picking a JavaScript framework.
 Dialogue: 0,0:53:23.38,0:53:26.74,Default,,0,0,0,,如果你想传播一种思想，你需要的是先说服一小拨人\NIf you want to spread an idea you need to really convince a few
@@ -572,13 +599,13 @@ Dialogue: 0,0:53:31.73,0:53:42.48,Default,,0,0,0,,更多人意识到React背后�
 Dialogue: 0,0:53:42.58,0:53:46.34,Default,,0,0,0,,之后的一到两年间\NOver the course of the next I would say like year or two,
 Dialogue: 0,0:53:46.50,0:53:53.07,Default,,0,0,0,,我们会关注谷歌搜索热词之类的指标，看React被提及了多少次\Nwe're kind of just tracking things like Google Alerts of how many times is it being mentioned,
 Dialogue: 0,0:53:53.07,0:53:56.06,Default,,0,0,0,,有谁写了关于React的推文，React衍生出了哪些项目\Nwho's writing about it, what projects are cropping up.
-Dialogue: 0,0:53:56.18,0:54:02.64,Default,,0,0,0,,在构建前端web应用方面， Raact对于你需要的很多其他工具都没有定死\NBecause React was very unopinionated about a lot of stuff that you need in order to build a front-end web application
+Dialogue: 0,0:53:56.18,0:54:02.64,Default,,0,0,0,,在构建前端web应用方面， React对于你需要的很多其他工具都没有定死\NBecause React was very unopinionated about a lot of stuff that you need in order to build a front-end web application
 Dialogue: 0,0:54:02.78,0:54:09.16,Default,,0,0,0,,自然地人们开始填补相关的空白，比如一批状态管理库开始出现\Nand you know people would fill in the blanks. And there was a bunch of state management libraries that cropped up
 Dialogue: 0,0:54:09.20,0:54:14.30,Default,,0,0,0,,还有一些路由库和服务端渲染策略开始出现\Nand there was a bunch of router libraries that cropped up and server-side rendering strategies.
 Dialogue: 0,0:54:14.40,0:54:18.83,Default,,0,0,0,,也就是这一两年间React的采用比例慢慢上升\NAnd so there was this sort of slow burn of adoption over the next year or two.
 Dialogue: 0,0:54:18.83,0:54:27.30,Default,,0,0,0,,React是一个小型UI库，但是却可解决一些Facebook面临的最困难的问题，其他大公司也注意到这点\NReact is a small focused UI library but it proved capable when tackling Facebook's hardest problems and other big companies noticed.
 Dialogue: 0,0:54:28.14,0:54:33.54,Default,,0,0,0,,其中Netflix当时特别需要重新思考前端最佳实践\NBut there was one company especially eager to rethink best practices.
-Dialogue: 0,0:54:33.54,0:54:46.88,Default,,0,0,0,,[Music]
+Dialogue: 0,0:54:33.54,0:54:46.88,Default,,0,0,0,,
 Dialogue: 0,0:54:46.88,0:54:51.72,Default,,0,0,0,,2014年我们第一次听说React，当时Netflix网站还是用Java Web技术构建的\NWe first heard about React back in 2014. The Netflix website had been built using Java Web.
 Dialogue: 0,0:54:51.72,0:54:58.62,Default,,0,0,0,,网站很慢，构建一次大概需要15分钟，因此我们决定迁移到一个更现代的框架\NIt was very slow, it took about 15 minutes to get up a build and we decided to move to a more modern framework.
 Dialogue: 0,0:54:59.14,0:54:59.88,Default,,0,0,0,,开关在这里\NThere we go.
@@ -586,33 +613,33 @@ Dialogue: 0,0:55:00.04,0:55:04.58,Default,,0,0,0,,当时我们还不确定这个
 Dialogue: 0,0:55:04.66,0:55:07.24,Default,,0,0,0,,它刚刚出现，我们还报有疑虑\NIt was kind of new and so we were very apprehensive,
 Dialogue: 0,0:55:07.24,0:55:12.53,Default,,0,0,0,,特别是我们正在选择Nextflix网站未来10年的技术路线\Nespecially since we were building the future of the next 10 years of the website, right,
 Dialogue: 0,0:55:12.53,0:55:21.06,Default,,0,0,0,,如果我们选错了，以后我们可能要花数年的时间来弥补这个错误的决定，所以我们不想采用过于前沿的东西\Nwe make a bad choice now we got to backtrack years worth of work. And so we were very careful about not jumping into something that was too bleeding edge.
-Dialogue: 0,0:55:21.36,0:55:26.86,Default,,0,0,0,,我们的策略是让安排两个团队分别构建新网站的原型，两队都有30天的时间\NAnd so what they did was they actually pitted two teams against each\Nother. Each was given 30 days to build a prototype
+Dialogue: 0,0:55:21.36,0:55:26.86,Default,,0,0,0,,我们的策略是安排两个团队分别构建新网站的原型，两队都有30天的时间\NAnd so what they did was they actually pitted two teams against each\Nother. Each was given 30 days to build a prototype
 Dialogue: 0,0:55:26.86,0:55:31.98,Default,,0,0,0,,一队使用Backbone，一队使用React，30天后React队伍的产出优势明显\Nwith one being React and the other one being Backbone and after 30 days the choice was clear.
-Dialogue: 0,0:55:34.81,0:55:41.58,Default,,0,0,0,,“感谢各位今晚的到来，过去一年我们使用React构建新UI，很高兴能在这里分享我们在此过程中学到的东西”\NSo thank you all for coming out tonight. We're really excited to have you here and share the learnings that we've had, building the new UI in React for the past year.
+Dialogue: 0,0:55:34.81,0:55:41.58,Default,,0,0,0,,"感谢各位今晚的到来，过去一年我们使用React构建新UI，很高兴能在这里分享我们学到的东西"\NSo thank you all for coming out tonight. We're really excited to have you here and share the learnings that we've had, building the new UI in React for the past year.
 Dialogue: 0,0:55:41.80,0:55:48.38,Default,,0,0,0,,2015年我做演讲的会场其实用的不是这个，而是隔壁那个\NIt was not this stage, it was our next stage over, where I gave my React presentation back I guess in 2015.
 Dialogue: 0,0:55:48.78,0:55:56.89,Default,,0,0,0,,但是感觉是一样的，我当时想"天！我要说服这么多人React很棒"\NSame feeling like oh my goodness I've got to convince all these people that React is amazing.
 Dialogue: 0,0:55:56.89,0:55:57.46,Default,,0,0,0,,还好我认为说服成功了\NBut I guess it worked.
 Dialogue: 0,0:55:57.62,0:56:01.39,Default,,0,0,0,,当时我是使用React构建网站原型队伍的一员\NSo I was part of the team that built the new site using React.
-Dialogue: 0,0:56:01.39,0:56:09.60,Default,,0,0,0,,一开始使用React感觉很不方便，比如写组件的时候容易放太多逻辑到一个单一组件中，逻辑上没有拆分\NAt first it was very clunky, like you're writing components and they're not quite, you know, you're putting too much logic into them or you're thinking too big.
+Dialogue: 0,0:56:01.39,0:56:09.60,Default,,0,0,0,,一开始使用React感觉很不方便，比如写组件的时候容易放太多逻辑到一个组件中，逻辑上没有拆分\NAt first it was very clunky, like you're writing components and they're not quite, you know, you're putting too much logic into them or you're thinking too big.
 Dialogue: 0,0:56:10.45,0:56:15.44,Default,,0,0,0,,其编程范式中并没有规定要如何拆分，但是随着你逐渐使用，自然地你开始从更原子化的角度思考\NIt's not clear the difference in the paradigm. And then you start to use it and you go okay wait wait wait I'm thinking much more atomic.
-Dialogue: 0,0:56:15.74,0:56:17.26,Default,,0,0,0,,正如React logo揭示的那样(一个原子示意图)\NHence the symbol of react. N(其实原子并不是React logo展示的那样，哈哈)
+Dialogue: 0,0:56:15.74,0:56:17.26,Default,,0,0,0,,正如React logo揭示的那样(一个原子示意图)\NHence the symbol of react. \N(其实原子并不是React logo展示的那样，哈哈)
 Dialogue: 0,0:56:17.48,0:56:24.80,Default,,0,0,0,,你开始能够看到组件的可复用性，可测试性等等好处\NI'm thinking about this individual reusability, okay now I'm thinking about the testability of these components, I'm seeing the benefits now come out of it.
 Dialogue: 0,0:56:24.88,0:56:29.92,Default,,0,0,0,,你可以这里复用一下，那里测试一下，这里调整一下，那里加个prop\NI can reuse this over here, we can test this over here, we can change this here, we can add props in here.
 Dialogue: 0,0:56:30.08,0:56:37.88,Default,,0,0,0,,然后你会非常激动地发现一种新的编程范式出现了，然后意识到它是具有革命性的，它会改变世界\NAnd it becomes very exciting to see that new paradigm come to play and go: this\Nis going to be revolutionary, this is going to change the world.
 Dialogue: 0,0:56:37.92,0:56:41.18,Default,,0,0,0,,让我们回到一年前，你们可能还记得当时的Netflix网站\NLet's go back in time one year to the old Netflix UI, you guys might
-Dialogue: 0,0:56:41.18,0:56:45.69,Default,,0,0,0,,网站的整体感觉像是一种老旧的DVD包装盒封面\Nremember this one. The overall look and feel is kind of like this old DVD kind of box art
+Dialogue: 0,0:56:41.18,0:56:45.69,Default,,0,0,0,,网站的整体感觉像是老旧的DVD包装盒封面\Nremember this one. The overall look and feel is kind of like this old DVD kind of box art
 Dialogue: 0,0:56:45.69,0:56:51.35,Default,,0,0,0,,我想展示一下早期我们构思的新网站原型中的一个，它代表了我们认为新网站应该长什么样\Nfeel and so I actually want to show you one of the early prototypes of what we thought the new UI would look like.
 Dialogue: 0,0:56:51.42,0:56:56.72,Default,,0,0,0,,我们意识到往后的世界会越变越快，web也是如此，一切都在加速\NWe knew that going forward the world was changing, web was changing, things were moving faster,
-Dialogue: 0,0:56:56.78,0:57:04.26,Default,,0,0,0,,我们的竞争对手也在加速，所以选择React这个更加现代的框架让我们在构建网站的时候能够更快，\Nand our competition was moving faster as well. So choosing React and going with a more modern framework really helped us accelerate how fast we could build
-Dialogue: 0,0:57:04.26,0:57:13.61,Default,,0,0,0,,使我们更快地让变化成型，更快地让用户感受到改进，从而打造世界上最好的网站体验\Nthe website, how fast we could get new changes out the door, how fast we could try improvements for our customers to make the best possible experience.
+Dialogue: 0,0:56:56.78,0:57:04.26,Default,,0,0,0,,我们的竞争对手也在加速，所以选择React这个更加现代的框架让我们在构建网站的时候能够更快\Nand our competition was moving faster as well. So choosing React and going with a more modern framework really helped us accelerate how fast we could build
+Dialogue: 0,0:57:04.26,0:57:13.61,Default,,0,0,0,,我们能更快地让变化成型，更快地让用户感受到改进，从而打造世界上最好的网站体验\Nthe website, how fast we could get new changes out the door, how fast we could try improvements for our customers to make the best possible experience.
 Dialogue: 0,0:57:13.61,0:57:19.40,Default,,0,0,0,,因此我们能够走在web开发中UI设计的前沿\NAnd because of that we've been at the forefront of leading what UI design looks like in terms of web development.
 Dialogue: 0,0:57:19.60,0:57:23.72,Default,,0,0,0,,有很多公司复制我们的设计，我们视为对我们的认可\NWe've had a lot of companies copy us, which we take is a great compliment,
 Dialogue: 0,0:57:23.72,0:57:28.50,Default,,0,0,0,,而我们能成为先行者是因为采用了React，并受益于它能够支持UI设计上快速迭代\Nbut we were there first because of react and its ability to move so quickly in terms of design.
 Dialogue: 0,0:57:28.66,0:57:37.24,Default,,0,0,0,,"这就是我们努力的最终成果，新的UI具有沉浸式的体验，完全使用React构建，我们对此感到非常骄傲"\NThis is how it ended up turning out and this is a UI that's big and immersive and completely built in React. So we're very very proud of it and the result.
-Dialogue: 0,0:57:37.36,0:57:42.13,Default,,0,0,0,,[Music]
+Dialogue: 0,0:57:37.36,0:57:42.13,Default,,0,0,0,,
 Dialogue: 0,0:57:42.13,0:57:47.80,Default,,0,0,0,,Netflix现在开始公开地称赞React，而因为有了第二个大公司的背书\NNetflix was now praising React publicly and with a second big company betting big on React,
 Dialogue: 0,0:57:47.80,0:57:56.99,Default,,0,0,0,,React的受欢迎程度开始上升，事实上它开始具有了独立的影响力，React社区开始起飞\Nthe framework grew in popularity. In fact it kind of took on a life of its own and the community started to take off.
-Dialogue: 0,0:57:56.99,0:58:08.16,Default,,0,0,0,,[Music]
+Dialogue: 0,0:57:56.99,0:58:08.16,Default,,0,0,0,,
 Dialogue: 0,0:58:08.16,0:58:17.14,Default,,0,0,0,,在这个时间点，React越来越流行，有人在Twtiter上提到: "如果能举办一次React会议不是很棒吗？"\NReact at this point was getting more popular and somebody on Twitter mentioned "hey it would be cool to have a React conference"
 Dialogue: 0,0:58:17.14,0:58:21.20,Default,,0,0,0,,其他人也开始在推特上讨论这件事\Nand a lot of people started commenting and tweeting about this.
 Dialogue: 0,0:58:21.20,0:58:24.40,Default,,0,0,0,,我于是找到我的经理Tom \NAnd I went to my manager Tom Occhino.
@@ -632,10 +659,10 @@ Dialogue: 0,0:59:36.73,0:59:50.42,Default,,0,0,0,,Facebook的CTO找到我说有�
 Dialogue: 0,0:59:50.54,0:59:58.04,Default,,0,0,0,,我说我很希望能帮忙，但是票确实已经卖完了\Nand I was like I would love to, it's the CTO and everything, but like you know we're completely booked.
 Dialogue: 0,0:59:58.22,1:00:01.98,Default,,0,0,0,,我们非常惊讶票会那么快就卖空了\NCertainly we were very surprised about how quickly the tickets had sold out.
 Dialogue: 0,1:00:02.12,1:00:10.30,Default,,0,0,0,,我们没有意识到当时React生态的发展程度，以及早期React采用者创造出的狂热\NWe didn't realize just how much the React ecosystem had grown and just how much enthusiasm had been created by early adopters.
-Dialogue: 0,1:00:12.61,1:00:23.69,Default,,0,0,0,,[Music]
+Dialogue: 0,1:00:12.61,1:00:23.69,Default,,0,0,0,,
 Dialogue: 0,1:00:23.69,1:00:34.02,Default,,0,0,0,,会议举办的进度很快，我们就在Facebook园区的一个食堂搭建了会场，然后把人从最近的宾馆用巴士运过来\NWe put it together pretty quickly as far as conference planning goes and we just had it on campus in one of our cafes and we bussed people from the nearest hotel.
 Dialogue: 0,1:00:34.18,1:00:40.12,Default,,0,0,0,,我们没花太多心思，但是效果非常不错\NAnd it was very, very under produced but it worked out really, really well.
-Dialogue: 0,1:00:40.12,1:00:44.51,Default,,0,0,0,,“早上好各位！欢迎来到React.js Conf”\NGood morning everyone and welcome to React.js conf!
+Dialogue: 0,1:00:40.12,1:00:44.51,Default,,0,0,0,,"早上好各位！欢迎来到React.js Conf"\NGood morning everyone and welcome to React.js conf!
 Dialogue: 0,1:00:46.36,1:00:49.38,Default,,0,0,0,,这次会议结果非常好\NThe conference went like extremely, extremely well.
 Dialogue: 0,1:00:49.48,1:00:52.80,Default,,0,0,0,,"最为此次活动的组织者，我非常高兴能站在这里"\NAs the organizer of the conference, I'm so excited to be here.
 Dialogue: 0,1:00:52.80,1:00:56.86,Default,,0,0,0,,这次会议我们还开源了一些其他项目，比如React Native\NAnd we open sourced a bunch of our projects like React Native
@@ -649,11 +676,11 @@ Dialogue: 0,1:01:37.49,1:01:43.35,Default,,0,0,0,,之前的很长一段时间Rea
 Dialogue: 0,1:01:43.35,1:01:46.81,Default,,0,0,0,,我想让人们采用它是因为我认为它会对人们开发的软件有益\NI wanted people to adopt it was because I really thought it would make their software
 Dialogue: 0,1:01:46.81,1:01:51.15,Default,,0,0,0,,会让开发更容易，会让他们值班的时候心情更好\Nbetter and make their lives better and make their on-call rotations better.
 Dialogue: 0,1:01:51.15,1:01:53.94,Default,,0,0,0,,总之有很多理由我认为React会对人们有用\NThere are a lot of reasons why I thought it would help them.
-Dialogue: 0,1:01:56.10,1:01:58.00,Default,,0,0,0,,但是这次会议之后，我意识到React正在变成一个社区，\NAfter that conference what I realized is that React was becoming a community.
+Dialogue: 0,1:01:56.10,1:01:58.00,Default,,0,0,0,,但是这次会议之后，我意识到React正在变成一个社区\NAfter that conference what I realized is that React was becoming a community.
 Dialogue: 0,1:01:58.28,1:02:05.34,Default,,0,0,0,,这次会议的下一周还有数次用户聚会，出席的人会更多，大家可以更深入地讨论之前会议提到的东西 \NThere were meetups that would happen the immediate next week that would have an expanded audience that they could go deeper into some of the  things that were discussed
 Dialogue: 0,1:02:05.40,1:02:15.50,Default,,0,0,0,,React社区将成为React发展的重要力量，这对于我们来说是一种巨大的肯定，感觉非常棒\NIt was really, really cool and a huge recognition for us that the community was going to be an incredible part of what would make React work
 Dialogue: 0,1:02:15.92,1:02:21.13,Default,,0,0,0,,当然在此之前，社区的参与已经是React能够发展到那个程度的重要因素\Nand at that point was definitely already a really important part of what had gotten React to that point so far.
-Dialogue: 0,1:02:21.13,1:02:24.04,Default,,0,0,0,,[Music]
+Dialogue: 0,1:02:21.13,1:02:24.04,Default,,0,0,0,,
 Dialogue: 0,1:02:24.04,1:02:33.92,Default,,0,0,0,,我的总结是和开源社区交流互动比技术工作本身要重要，如果没有社区，就没有开源项目\NIt's proven to me that engaging with your open source community is actually more important than the technical work itself, like if you don't have a community you don't have an open source project.
 Dialogue: 0,1:02:34.20,1:02:37.07,Default,,0,0,0,,"我很高兴我们能够持续地思考最佳实践"\NI'm excited that we just continue rethinking best practices.
 Dialogue: 0,1:02:37.07,1:02:44.46,Default,,0,0,0,,"我想感谢这个社区，是社区让我们能够持续投入，持续改善，我说完了，谢谢！"\NI want to thank this community for making it possible for us to keep investing in this and keep working on it. That's all I got, thanks.
@@ -671,15 +698,16 @@ Dialogue: 0,1:03:49.56,1:03:56.74,Default,,0,0,0,,有一些贴纸，哦，这个
 Dialogue: 0,1:03:56.74,1:04:02.60,Default,,0,0,0,,当时定制了一批这样的贴纸然后贴在我们的笔记本上，这是最后一个了，不舍得用\NWe ordered like a bunch of these and put them on our laptops and I never wanted to use the last one that I had.
 Dialogue: 0,1:04:02.90,1:04:07.97,Default,,0,0,0,,这个是Facebook开源贴纸，这些东西对于一些人来说会勾起很多回忆\NFacebook open source stickers. Oh some of these will be a trip down memory lane for folks.
 Dialogue: 0,1:04:09.92,1:04:15.88,Default,,0,0,0,,React Conf 2018贴纸，又是一个Facebook开源贴纸，这个不错\NReact conf. We made you know, 2018 Facebook open source it's a good one.
-Dialogue: 0,1:04:16.38,1:04:25.30,Default,,0,0,0,,React Conf参会者徽章，这个是第一次在Facebook总部举行的React Conf的小册子\NReact conf attendee badge. This was a book from the original React.js conf at Facebook's headquarters
+Dialogue: 0,1:04:16.38,1:04:25.30,Default,,0,0,0,,React Conf参会者徽章，这个是在Facebook总部举行的第一次React Conf小册子\NReact conf attendee badge. This was a book from the original React.js conf at Facebook's headquarters
 Dialogue: 0,1:04:25.50,1:04:31.92,Default,,0,0,0,,这里列出了演讲者名单，会议的日程安排，还有预告摘要\Nso this had a list of the speakers and the schedule and um here's the keynote.
 Dialogue: 0,1:04:33.40,1:04:45.32,Default,,0,0,0,,提到了我和Christopher，我们制作了各种各样的挂饰和其他东西，都是好东西，都是好回忆\NMe and Christopher Chedeau. We had all sorts of swag made and a bunch of other stuff.. So pretty good stuff, pretty good memories.
 Dialogue: 0,1:04:45.32,1:04:52.54,Default,,0,0,0,,接着React团队收到了来自社区的超多问题，应接不暇，同时一位新的开发者进入了React的发展轨迹\NThe team became inundated with questions from\Nthe community and a new developer enters React's orbit.
-Dialogue: 0,1:04:53.08,1:05:12.20,Default,,0,0,0,,[Music]
+Dialogue: 0,1:04:53.08,1:05:12.20,Default,,0,0,0,,
 Dialogue: 0,1:05:12.76,1:05:15.54,Default,,0,0,0,,我说话的时候手要怎么放？\NWhat should I do with my hands?
-Dialogue: 0,1:05:17.44,1:05:23.18,Default,,0,0,0,,所以我应该怎样开始来着...让我缓缓...So you're saying that I should actually uh start like uh.. Let me focus for a second.
+Dialogue: 0,1:05:12.74,1:05:14.74,2nd,,0,0,0,,@Dan
+Dialogue: 0,1:05:17.44,1:05:23.18,Default,,0,0,0,,所以我应该怎样开始来着...让我缓缓...\NSo you're saying that I should actually uh start like uh.. Let me focus for a second.
 Dialogue: 0,1:05:23.24,1:05:28.25,Default,,0,0,0,,首先声明，我没有发明React，React的发明者是Jordan Walke\NJust for the record, I did not create React, React was created by Jordan Walke.
-Dialogue: 0,1:05:29.75,1:05:35.48,Default,,0,0,0,,2014年我在一个小的创业公司工作，我们当时正在创建一个数字出版平台\NI worked at a small startup. We were creating a sort a digital publishing platform
+Dialogue: 0,1:05:29.75,1:05:35.48,Default,,0,0,0,,2014年我在一家小型创业公司工作，我们当时正在创建一个数字出版平台\NI worked at a small startup. We were creating a sort a digital publishing platform
 Dialogue: 0,1:05:35.52,1:05:43.54,Default,,0,0,0,,其中有一个非常复杂的海报编辑器，需要支持不同的区块，可滑动的带有不同特效的文字等等\Nof so there was a really complex post editor with different blocks or like a scrollable text with like different effects and stuff.
 Dialogue: 0,1:05:43.78,1:05:51.06,Default,,0,0,0,,创建一个支持这些功能的动态交互编辑器非常困难，当时用的技术是Backbone\NAnd so creating a dynamic kind of interactive editor for for these things was really difficult. And were doing it with Backbone.
 Dialogue: 0,1:05:51.16,1:05:54.82,Default,,0,0,0,,我有点想用React尝试一下，因为理论上React可以解决这个问题\NI kind of wanted to give React a try because it was supposed to solve this problem.
@@ -692,16 +720,16 @@ Dialogue: 0,1:06:30.20,1:06:35.12,Default,,0,0,0,,我写完这个按钮组件后
 Dialogue: 0,1:06:35.14,1:06:44.84,Default,,0,0,0,,之后的9个月我们用React重写了整个应用，与此同时还添加了新功能\NAnd so we actually rewrote the entire app in React over the course of like 9 months while still shipping new features.
 Dialogue: 0,1:06:44.92,1:06:55.52,Default,,0,0,0,,React加快了我们的开发以至于我们可以在添加新功能的时候还可以替换掉旧功能，由此我爱上了React\NSo React sped up our development so much that we were able to add new features faster, at the same time as we were replacing old features, that's why I really kind of fell in love with it.
 Dialogue: 0,1:06:57.91,1:07:02.84,Default,,0,0,0,,很多现在所谓的React生态当时还不存在\NA lot of things didn't exist back then. Like there was no such thing as a React ecosystem.
-Dialogue: 0,1:07:02.84,1:07:10.18,Default,,0,0,0,,所以如果你需要的东西不存在，你就得自己琢磨着自己实现\NSo if you needed something, it didn't exist, you'd have to write it. So like you'd have to figure out how to do it
+Dialogue: 0,1:07:02.84,1:07:10.18,Default,,0,0,0,,所以如果你需要的东西不存在，你就得自己琢磨着实现\NSo if you needed something, it didn't exist, you'd have to write it. So like you'd have to figure out how to do it
 Dialogue: 0,1:07:10.24,1:07:13.26,Default,,0,0,0,,否则你的产品就做不成\Nbecause otherwise you're not going to have a product, right.
 Dialogue: 0,1:07:13.26,1:07:26.56,Default,,0,0,0,,当时我做的几个项目都是出于这个原因，特别是其中一个叫做React Hot Loader的项目，因为这块存在空白，所以我抓住了机会\NSo that's kind of what I did for a bunch of things. One of those projects in particular was.. I just saw a big opportunity there. It was called React Hot Loader at the time.
 Dialogue: 0,1:07:26.56,1:07:33.76,Default,,0,0,0,,我想以此项目为主题做一次会议演讲，但是之前已经有人在React会议上提到了这个项目\NSo I wanted to give a talk about that, but somebody else had done a talk that mentioned it earlier at React conf.
 Dialogue: 0,1:07:33.92,1:07:40.46,Default,,0,0,0,,"有一个非常聪明的小伙叫Dan，他用React Hot Loader解决了这个问题"\NA really clever fellow called Dan Abramov figured this out and he created the React Hot Loader.
-Dialogue: 0,1:07:40.62,1:07:44.76,Default,,0,0,0,,我感觉如果再讲这个项目就没意思了，因为人们已经知道了\NAnd I felt that well then that just wouldn't be interesting because people kind of already\Nsaw it
+Dialogue: 0,1:07:40.62,1:07:44.76,Default,,0,0,0,,我感觉如果再讲这个项目就没意思了，因为人们已经知道了\NAnd I felt that well then that just wouldn't be interesting because people kind of already saw it
 Dialogue: 0,1:07:44.82,1:07:48.88,Default,,0,0,0,,现在回头看倒是未必，但是我当时是如此认为的\Nwhich in retrospect I don't think it would be true but that's how I saw it at the time.
 Dialogue: 0,1:07:49.00,1:07:53.84,Default,,0,0,0,,不管怎样，当时我想做出点不一样的东西来做为演讲主题\NSo I wanted to kind of spice it up a little bit and I wanted to make a proof of concept of a thing
 Dialogue: 0,1:07:53.92,1:07:59.26,Default,,0,0,0,,我注意到此前在Bret Victor的demo里面经常提到一个叫做"时间穿梭"的概念\NI saw in a Bret Victor demo that is often referred to as time traveling.
-Dialogue: 0,1:08:00.34,1:08:05.90,Default,,0,0,0,,"如果你要设计一个嵌入在时间里的东西，你就需要能够控制时间，你需要能够跨越时间观察"\NIf you're designing something embedded in time, you need to be able to control time,\Nyou need to be able to see across time,
+Dialogue: 0,1:08:00.34,1:08:05.90,Default,,0,0,0,,"如果你要设计一个嵌入在时间里的东西，你就需要能够控制时间，你需要能够跨越时间观察"\NIf you're designing something embedded in time, you need to be able to control time, you need to be able to see across time,
 Dialogue: 0,1:08:06.04,1:08:07.96,Default,,0,0,0,,"否则你就是蒙着眼睛在设计"\Notherwise you're designing blind.
 Dialogue: 0,1:08:08.44,1:08:12.06,Default,,0,0,0,,当时我还不知道怎么实现"时间穿梭"，但是我觉得这个话题做为演讲主题非常酷\NI didn't really know how to do it but I thought that's a cool idea for a talk.
 Dialogue: 0,1:08:12.06,1:08:17.66,Default,,0,0,0,,我决定先写一个演讲提议，如果提议得到接受我再去弄清楚如何实现\NSo I'm gonna send the proposal if the proposal is successful then I'll just figure it out.
@@ -728,20 +756,21 @@ Dialogue: 0,1:10:48.53,1:10:50.53,Default,,0,0,0,,[这在Facebook常见吗?]
 Dialogue: 0,1:10:50.69,1:10:54.03,Default,,0,0,0,,不，Dan是特别的，他一直有点特别\NNo Dan is special, he's always been a little special.
 Dialogue: 0,1:10:54.03,1:11:02.52,Default,,0,0,0,,我认为自己可能是今天大家知道的React团队中第一个加入的\NI guess like I would think of myself as like maybe the first member of what would become the React team as you know it today
 Dialogue: 0,1:11:02.52,1:11:11.10,Default,,0,0,0,,我加入的时间要略早于Andrew, Brian, Luna以及其他今天一起工作的团队成员\Nbecause I joined a little bit earlier than I think Andrew, Brian, Luna and and like a
-Dialogue: 0,1:11:11.46,1:11:22.64,Default,,0,0,0,,当时之前的一些团队成员即将离开，也就是我是在React团队剧烈变动的过渡时期加入的\Nbunch of other people who work with us now. And I joined at the time when a few people who worked with us before were just about to leave. So I was kind of in this transitional period when the team was changing a lot.
+Dialogue: 0,1:11:11.46,1:11:22.64,Default,,0,0,0,,当时之前的一些团队成员即将离开，也就是说我是在React团队变动很大的过渡时期加入的\Nbunch of other people who work with us now. And I joined at the time when a few people who worked with us before were just about to leave. So I was kind of in this transitional period when the team was changing a lot.
 Dialogue: 0,1:11:22.64,1:11:30.70,Default,,0,0,0,,
 Dialogue: 0,1:11:30.70,1:11:32.20,Default,,0,0,0,,"还记得当初吗?"\NRemember the old days?
+Dialogue: 0,1:11:30.70,1:11:32.70,2nd,,0,0,0,,@Tom @Andrew @Sebastian
 Dialogue: 0,1:11:32.20,1:11:34.95,Default,,0,0,0,,"你还记得第一次见到Andrew的情景吗?"\NDo you remember the first time you met Andrew?
 Dialogue: 0,1:11:35.72,1:11:40.05,Default,,0,0,0,,"我记得我是在..." "我记得!"\NUh I think I've met.. I do! I think
 Dialogue: 0,1:11:40.05,1:11:43.73,Default,,0,0,0,,"我们是在React Conf见到的，我清楚记得那次...大概"\NI met him yeah.. I thought it was at React conf. Well that was the clear moment, maybe,
 Dialogue: 0,1:11:43.73,1:11:49.18,Default,,0,0,0,,"那是第一次吗?" "你是不是因为那个什么被邀请参加React Conf的? " "他在会上做了演讲!"\Nwas that the first time? Did you get invited to React conf because of that.. He had a speech.
 Dialogue: 0,1:11:50.57,1:11:57.26,Default,,0,0,0,,"我在那之前就见过他了" "我记得我在一周之内认识了你，Sophie，Joe和Tim"\NI met him like I think before that. I met you and Sophie and Joe and Tim like all in the same week.
-Dialogue: 0,1:11:57.36,1:12:03.84,Default,,0,0,0,,我记得他开始问一些问题，而这些问题正是当时团队内部正在讨论的\NYeah he started asking some questions that were very similar to the questions that on the team we were talking about internally 
-Dialogue: 0,1:12:03.90,1:12:09.58,Default,,0,0,0,,当时我说得让Sebastian，Jordan等其他团队成员你建立联系\Nand so I just remember like, I gotta connect you with like Sebastian and Jordan and the rest of the team. Yeah and then also I was
+Dialogue: 0,1:11:57.36,1:12:03.84,Default,,0,0,0,,我记得他开始问一些问题，而这些问题正是当时团队内部正在讨论的\NYeah he started asking some questions that were very similar to the questions that on the team we were talking about internally
+Dialogue: 0,1:12:03.90,1:12:09.58,Default,,0,0,0,,当时我说得让Sebastian，Jordan等其他团队成员和你建立联系\Nand so I just remember like, I gotta connect you with like Sebastian and Jordan and the rest of the team. Yeah and then also I was
 Dialogue: 0,1:12:09.58,1:12:13.81,Default,,0,0,0,,我同时还告诉招聘的人我们应该雇佣这个叫Andrew的\Nlike to the recruiters I was like yeah this guy like we gotta hire this Andrew guy. And
 Dialogue: 0,1:12:13.81,1:12:22.06,Default,,0,0,0,,我觉得非常幸运的是，当时有像你这样的一帮人挺身而出，\N他们觉得React有趣而想要成为其中的一份子，贡献力量\NI think we were really fortunate early on to have a bunch of people that kind of stepped up and they were this seems cool, I just want to be a part of this, I just want to help.
 Dialogue: 0,1:12:22.06,1:12:26.46,Default,,0,0,0,,我当时没有意识到，但是那时的感觉就像大学刚入学一样\NI didn't realize it was kind of like a freshman class sort of feeling at the time. Sophie
-Dialogue: 0,1:12:26.46,1:12:37.00,Default,,0,0,0,,当时Sophie开始接手团队的管理，对我来说没有比这更好的项目，更好的团队去加入了\Nhad started managing the team around that time as well and I couldn't have really asked for a better both project and set of colleagues and team to join. 
+Dialogue: 0,1:12:26.46,1:12:37.00,Default,,0,0,0,,当时Sophie开始接手团队的管理，对我来说没有比这更好的项目，更好的团队去加入了\Nhad started managing the team around that time as well and I couldn't have really asked for a better both project and set of colleagues and team to join.
 Dialogue: 0,1:12:37.02,1:12:38.73,Default,,0,0,0,,第二个篇章的开始\NThe beginning of phase two.
 Dialogue: 0,1:12:38.73,1:12:41.82,Default,,0,0,0,,是的，非常酷(小声)\NYeah, that's cool.
 Dialogue: 0,1:12:42.54,1:12:47.73,Default,,0,0,0,,太棒了！我感觉刚刚那个结尾升华了主题\NAwesome! I feel like we really brought it home there at the end.
@@ -753,36 +782,38 @@ Dialogue: 0,1:13:08.25,1:13:12.55,Default,,0,0,0,,我们曾经尝试观察一些
 Dialogue: 0,1:13:12.55,1:13:21.69,Default,,0,0,0,,npm上的下载量，谷歌趋势上有多少人搜索了React，这些数字没有一个完美的\Nor the number of npm downloads. On Google Trends, how many people are searching for React and none of those numbers are perfect
 Dialogue: 0,1:13:21.69,1:13:35.81,Default,,0,0,0,,但是它们基本上一直在增长，直到某个时刻我们再看这些数据的时候发现有数百万的人在使用React\Nbut basically all of them kept going up over time and eventually got to a point where we looked at it and said oh yeah like millions of people essentially are using React.
 Dialogue: 0,1:13:35.81,1:13:43.09,Default,,0,0,0,,我们鼓励周边生态的参与，我们的工作有很多细节是关于这方面的\NThere are a lot of little details in how we did things that encourages an ecosystem to participate,
-Dialogue: 0,1:13:43.09,1:13:48.62,Default,,0,0,0,,社区生态的参与对于React能发展到今天是至关重要的，我们没有把所有的东西都放入一个框架内\Nthat were critical parts in making it what it is today. We didn't put everything in the framework. 
+Dialogue: 0,1:13:43.09,1:13:48.62,Default,,0,0,0,,社区生态的参与对于React能发展到今天是至关重要的，我们没有把所有的东西都放入一个框架内\Nthat were critical parts in making it what it is today. We didn't put everything in the framework.
 Dialogue: 0,1:13:48.74,1:13:57.16,Default,,0,0,0,,我们留白了一些地方以便社区可以创新，我们由此得到了大量的贡献，收获了大量的关注，\NWe left a lot of it to the ecosystem to innovate. And we got a lot of contributions, we got a lot of interest that way,
 Dialogue: 0,1:13:57.16,1:14:01.23,Default,,0,0,0,,并得到了其他衍生出的收获\Nwe got a lot of things spurring from that.
-Dialogue: 0,1:14:01.23,1:14:07.97,Default,,0,0,0,,React的成功从来不是注定的，我至今很难相信它会像今天这样流行\NIt was not ever a foregone conclusion. Like it's still surreal to me that it's as popular as it is. 
+Dialogue: 0,1:14:01.23,1:14:07.97,Default,,0,0,0,,React的成功从来不是注定的，我至今很难相信它会像今天这样流行\NIt was not ever a foregone conclusion. Like it's still surreal to me that it's as popular as it is.
 Dialogue: 0,1:14:08.00,1:14:16.64,Default,,0,0,0,,React曾是一个大公司内部一项不被重视的技术，本来会很容易被压制消失，但成了一个典型的逆袭例子\NIt's this great example of this like underdog technology within a big company where there could have been these forces that really pushed back on it.
-Dialogue: 0,1:14:16.70,1:14:24.31,Default,,0,0,0,,我认为很多因素聚集在一起推动了React的成功，包括好的时机，好的运气，好的领导力\NI think a lot of elements of good timing, good fortune, good luck, good leadership support, all sort of like aggregated
-Dialogue: 0,1:14:24.31,1:14:37.56,Default,,0,0,0,,如果缺了其中一些东西，或者曾经的一些尝试失败了，那么我认为React不会有今天的发展\Nto allow React to be a success, that had we missed a few of those or had a handful more things failed instead of succeeded, then I do not think React would be in the spot that it is today. 
+Dialogue: 0,1:14:16.70,1:14:24.31,Default,,0,0,0,,我认为很多因素聚合在一起推动了React的成功，包括好的时机，好的运气，好的领导力\NI think a lot of elements of good timing, good fortune, good luck, good leadership support, all sort of like aggregated
+Dialogue: 0,1:14:24.31,1:14:37.56,Default,,0,0,0,,如果缺了其中一些东西，或者曾经的一些尝试失败了，那么我认为React不会有今天的发展\Nto allow React to be a success, that had we missed a few of those or had a handful more things failed instead of succeeded, then I do not think React would be in the spot that it is today.
 Dialogue: 0,1:14:37.70,1:14:42.32,Default,,0,0,0,,我觉得离开了参与其中的任何一个人，React都不会是今天的样子\NI feel like you can't take anyone out of it and have it be what it became.
 Dialogue: 0,1:14:42.52,1:14:46.55,Default,,0,0,0,,React早期最重要的当然是Jordan，他是发明者\NI think in the early days obviously Jordan, right. Like this thing wouldn't exist. And
-Dialogue: 0,1:14:46.55,1:14:56.54,Default,,0,0,0,,然后是Jing Chen，绝对至关重要，如果不是在她的领导下React证明了自己，没人会在意这个东西\Nthen Jing Chen just absolutely critical. I mean she was so instrumental in the early days of React that it just wouldn't have been a thing that we cared about if it didn't prove itself. 
-Dialogue: 0,1:14:56.90,1:15:06.46,Default,,0,0,0,,然后是Shane，他做了一个非常艰难的决定，决定选择React而不是Bolt\NAnd then Shane O'Sullivan is responsible for you know really I mean a very hard decision to like I'm gonna go this path instead of that thing. 
-Dialogue: 0,1:15:06.70,1:15:13.84,Default,,0,0,0,,然后是一批工程师像Chedeau, Palu，Pete，他们不断完善和迭代React，提升它的质量\NAnd then the engineers that worked on refining and iterating on it and turning it into something good it was Chedeau and Paul O'Shannessy and Pete Hunt. 
-Dialogue: 0,1:15:13.86,1:15:23.22,Default,,0,0,0,,还有我的经理Adam，当我对项目产生怀疑，特别是那次JS会议之后我们感觉像打了败仗，\NAnd my manager Adam Wolff, when I was like you know asking all these questions about like should we be doing, 
+Dialogue: 0,1:14:46.55,1:14:56.54,Default,,0,0,0,,然后是Jing Chen，绝对至关重要，如果不是在她的领导下React证明了自己，没人会在意这个东西\Nthen Jing Chen just absolutely critical. I mean she was so instrumental in the early days of React that it just wouldn't have been a thing that we cared about if it didn't prove itself.
+Dialogue: 0,1:14:56.90,1:15:06.46,Default,,0,0,0,,然后是Shane，他做了一个非常艰难的决定，决定选择React而不是Bolt\NAnd then Shane O'Sullivan is responsible for you know really I mean a very hard decision to like I'm gonna go this path instead of that thing.
+Dialogue: 0,1:15:06.70,1:15:13.84,Default,,0,0,0,,然后是一批工程师像Christopher, Paul, Pete,他们不断完善和迭代React，提升它的质量\NAnd then the engineers that worked on refining and iterating on it and turning it into something good it was Chedeau and Paul O'Shannessy and Pete Hunt.
+Dialogue: 0,1:15:13.86,1:15:23.22,Default,,0,0,0,,还有我的经理Adam，当我对项目产生怀疑，特别是那次JS会议之后我们感觉像打了败仗，\NAnd my manager Adam Wolff, when I was like you know asking all these questions about like should we be doing,
 Dialogue: 0,1:15:23.42,1:15:25.98,Default,,0,0,0,,是他给了我鼓励，他拍着我的肩膀说，\N like is this even worth it, especially after JS conf when we were feeling defeated, you know, he was there to pick me back up
-Dialogue: 0,1:15:26.04,1:15:28.56,Default,,0,0,0,,“不要怀疑，这是个好项目，它在创造价值，继续努力”\Nand be like: no look it is delivering value, this is good, keep going. 
+Dialogue: 0,1:15:26.04,1:15:28.56,Default,,0,0,0,,"不要怀疑，这是个好项目，它在创造价值，继续努力"\Nand be like: no look it is delivering value, this is good, keep going.
 Dialogue: 0,1:15:28.64,1:15:36.20,Default,,0,0,0,,React经历了不同的发展阶段，我们从最早期一路走来，到今天已经10年了\NAnd there's different phases too right, you have the early, early days and you had the like for the next literally almost we're going on 10 years now
-Dialogue: 0,1:15:36.20,1:15:42.32,Default,,0,0,0,,这一路上有Sebastian的技术领导力，Andrew, Dan, Dominic, Flarney, Sophie等人的贡献\N, with Sebastian's technical leadership and Andrew and Dan and Dominic and Flarney and Sophie 
-Dialogue: 0,1:15:42.64,1:15:53.15,Default,,0,0,0,,我只是觉得这真是一群出类拔萃的人，如果你去掉其中任何一个，React今天都会不一样\Nand I just feel like it's just a group of incredible people and if you take any of them out of it it just looks pretty different. 
+Dialogue: 0,1:15:36.20,1:15:42.32,Default,,0,0,0,,这一路上有Sebastian的技术领导力, Andrew, Dan, Dominic, Flarney, Sophie等人的贡献\N, with Sebastian's technical leadership and Andrew and Dan and Dominic and Flarney and Sophie
+Dialogue: 0,1:15:42.64,1:15:53.15,Default,,0,0,0,,我只是觉得这真是一群出类拔萃的人，如果你去掉其中任何一个，React今天都会不一样\Nand I just feel like it's just a group of incredible people and if you take any of them out of it it just looks pretty different.
 Dialogue: 0,1:15:53.15,1:15:58.87,Default,,0,0,0,,React确实是一项团队成就，从一开始就是\NIt was really a team effort, it was really a team effort from the very beginning.
-Dialogue: 0,1:15:59.28,1:16:06.07,Default,,0,0,0,,[Music]
+Dialogue: 0,1:15:59.28,1:16:06.07,Default,,0,0,0,,
 Dialogue: 0,1:16:06.07,1:16:12.67,Default,,0,0,0,,Misko Hevery说过让人惊叹的解决方案往往不是由大型组织创造出来\NMisko Hevery says that awesome solutions are rarely created by large organizations.
 Dialogue: 0,1:16:12.67,1:16:19.28,Default,,0,0,0,,它们几乎总是出自一个具有远见和激情的个人之手，然后才缓慢影响其他人\NIt's almost always one person with passion and vision that slowly start to infect others.
-Dialogue: 0,1:16:19.28,1:16:24.92,Default,,0,0,0,,这是一个对React发展史的优秀总结，因为它的成功从来不是注定的\NThis is a great summary of how React became React. Because it was never inevitable, 
-Dialogue: 0,1:16:25.37,1:16:30.44,Default,,0,0,0,,它曾经只是一个大胆的想法，在缓慢地影响了一个又一个人之后，雪球越滚越大\Nit was always this wild idea that kept gathering momentum, person by person. 
-Dialogue: 0,1:16:30.52,1:16:39.84,Default,,0,0,0,,曾经很多人预言React会失败，如果不是一小撮相信React的开发者，它确实早就失败了\NAnd many expected React to fail and if it weren't for the hard work of a few determined developers it very well could have.
-Dialogue: 0,1:16:43.02,1:16:45.62,Default,,0,0,0,,这仅仅是React故事的开始\NThis is just the beginning of the React story. 
+Dialogue: 0,1:16:19.28,1:16:24.92,Default,,0,0,0,,这是一个对React发展史的优秀总结，因为它的成功从来不是注定的\NThis is a great summary of how React became React. Because it was never inevitable,
+Dialogue: 0,1:16:25.37,1:16:30.44,Default,,0,0,0,,它曾经只是一个大胆的想法，在缓慢地影响了一个又一个人之后，雪球越滚越大\Nit was always this wild idea that kept gathering momentum, person by person.
+Dialogue: 0,1:16:30.52,1:16:39.84,Default,,0,0,0,,曾经很多人预言React会失败，如果不是一小撮相信React的开发者，它确实可能早就失败了\NAnd many expected React to fail and if it weren't for the hard work of a few determined developers it very well could have.
+Dialogue: 0,1:16:43.02,1:16:45.62,Default,,0,0,0,,这仅仅是React故事的开始\NThis is just the beginning of the React story.
 Dialogue: 0,1:16:45.72,1:16:53.97,Default,,0,0,0,,这个故事讲述了React如何在社区的帮助下从一个被人嫌弃的UI库变为今天最流行的JS框架\NThe story of how a community transformed an underdog UI library into the most popular JavaScript framework today.
+Dialogue: 0,1:16:45.70,1:16:46.88,2nd,,0,0,0,,@狂野Jordan
+Dialogue: 0,1:16:53.97,1:16:55.97,Default,,0,0,0,,
 Dialogue: 0,1:16:56.76,1:16:59.16,Default,,0,0,0,,这里是React博客，我是小钱\NThis is React Podcast, I'm Chantastic.
 Dialogue: 0,1:16:59.72,1:17:21.53,Default,,0,0,0,,
 Dialogue: 0,1:17:32.19,1:17:37.96,Default,,0,0,0,,我现在非常想要给Jordan打个视频电话，然后吼一句"突击采访!"\NI'm like so tempted to just surprise FaceTime Jordan right now be like: interview!
 Dialogue: 0,1:17:38.46,1:17:43.72,Default,,0,0,0,,想到自己离死亡这么近总是感觉有点怪\NIt's just really strange to think that you're just so close to death.
 Dialogue: 0,1:17:43.72,1:17:47.60,Default,,0,0,0,,这是我们做的第一件React T恤\NThe first React T-shirt that we made.
-Dialogue: 0,1:17:47.60,1:18:03.54,Default,,0,0,0,,<TheEnd />   
+Dialogue: 0,1:17:47.60,1:18:03.54,Default,,0,0,0,,{\c&HFBDA61&}<TheEnd />
