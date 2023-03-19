@@ -16,14 +16,14 @@ Video File: React.js_ The Documentary.mp4
 Video AR Mode: 4
 Video AR Value: 2.000000
 Video Zoom Percent: 0.750000
-Scroll Position: 545
-Active Line: 560
-Video Position: 78152
+Scroll Position: 445
+Active Line: 452
+Video Position: 62700
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,思源黑体 CN Heavy,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,7,1
-Style: 2nd,思源黑体 CN Heavy,70,&H05FBDA61,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,8,10,10,30,1
+Style: 2nd,思源黑体 CN Heavy,150,&H05FBDA61,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,5,10,10,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -479,6 +479,7 @@ Dialogue: 0,0:40:38.62,0:40:43.98,Default,,0,0,0,,React的一些核心设计原�
 Dialogue: 0,0:40:43.98,0:40:50.74,Default,,0,0,0,,但是对于Facebook之外的受众来说则显得非常疯狂\Nwithin Facebook but were like crazy when when um given to a different audience in the community
 Dialogue: 0,0:40:50.80,0:40:53.28,Default,,0,0,0,,所以编程中有这样一种叫做"关注点分离"的思想\Nso there was this notion of separation of concerns
 Dialogue: 0,0:40:53.42,0:41:04.61,Default,,0,0,0,,当时流行的做法是不同文件做分离，\N也就是你不应该把JS/CSS/HTML放在同一个文件里，而是应当每种类型内容一个文件\Nat the time like you didn't you shouldn't put your HTML CSS and JavaScript into the same file like should I really extract them out and you should like uh like have
+Dialogue: 0,0:41:47.98,0:41:49.98,2nd,,0,0,0,,《React纪录片》
 Dialogue: 0,0:41:04.61,0:41:09.00,Default,,0,0,0,,当时这种分离思想被认为是最佳实践\Nthis separation and so this was like very like the best practice at the time
 Dialogue: 0,0:41:09.00,0:41:14.82,Default,,0,0,0,,而React践行的"关注点分离"与此不同\Nwhat was interesting about the approach to separation concerns in react is that
 Dialogue: 0,0:41:14.82,0:41:16.60,Default,,0,0,0,,在React中我们通过组件来做逻辑关注点的分离\Nyou separate your concerns into different components so rather than
